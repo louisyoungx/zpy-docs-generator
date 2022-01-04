@@ -1,5 +1,37 @@
 # Zpy Docs Generator
 
+Zpy Docs Generator - auto translate Python Library API to Zpy API, and generate Zpy Lib Docs 
+
+Zpy Lib API is a Chinese mapping of the Python API
+
+example
+```json
+{
+    "name":"test",
+    "zpy":"测试",
+    "functions":[
+        {
+            "name":"threading_cleanup",
+            "zpy":"线程清理"
+        },
+        {
+            "name":"run_with_locale",
+            "zpy":"运行与语言环境"
+        },
+    ],
+    "args":[
+        {
+            "name":"cpython",
+            "zpy":"cpython"
+        },
+        {
+            "name":"captured_stdout",
+            "zpy":"捕捉到stdout"
+        },
+    ]
+}
+```
+
 ## Quick Start
 
 clone this repo

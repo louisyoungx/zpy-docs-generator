@@ -21,7 +21,7 @@ mv dictionary_lite.csv dics
 
 ### Python Lib
 
-generator python builtin lib docs
+generate python builtin lib docs
 ```shell
 python3 main.py
 ```
@@ -43,7 +43,7 @@ edit `lib.py`
 edit `module.py`
 - change xpath expression of `name`, `methods`, `params` in 16, 17, 18 line
 
-generator third-party lib docs
+generate third-party lib docs
 ```shell
 python3 main.py
 ```
@@ -59,7 +59,7 @@ ls requests-libs
 git checkout requests
 ```
 
-generator third-party lib docs
+generate requests lib docs
 ```shell
 python3 main.py
 ```

@@ -1,0 +1,20 @@
+{
+    "name":"termios",
+    "zpy":null,
+    "functions":[
+        {
+            "name":"setcbreak",
+            "zpy":"年代等"
+        },
+        {
+            "name":"setraw",
+            "zpy":"生"
+        }
+    ],
+    "args":[
+        {
+            "name":"when",
+            "zpy":"当...的时候"
+        }
+    ]
+}

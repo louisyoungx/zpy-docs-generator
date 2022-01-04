@@ -1,0 +1,100 @@
+{
+    "name":"pty",
+    "zpy":"巴拿马城（PanamaCity）；伪终端（\tPseudo-TerminalUtilities）；节目类型（ProgramType）",
+    "functions":[
+        {
+            "name":"ioctl",
+            "zpy":"国际奥委会tl"
+        },
+        {
+            "name":"flock",
+            "zpy":"兽群"
+        },
+        {
+            "name":"fcntl",
+            "zpy":"fc ntl"
+        },
+        {
+            "name":"lockf",
+            "zpy":"锁"
+        }
+    ],
+    "args":[
+        {
+            "name":"unpack",
+            "zpy":"从包裹中取出"
+        },
+        {
+            "name":"operation",
+            "zpy":"操作"
+        },
+        {
+            "name":"getpgrp",
+            "zpy":"得到p grp"
+        },
+        {
+            "name":"F_SETLKW",
+            "zpy":"F SETLKW"
+        },
+        {
+            "name":"F_WRLCK",
+            "zpy":"F WRLCK"
+        },
+        {
+            "name":"whence",
+            "zpy":"从何处"
+        },
+        {
+            "name":"mutate_flag",
+            "zpy":"变异国旗"
+        },
+        {
+            "name":"pack",
+            "zpy":"包裹"
+        },
+        {
+            "name":"termios",
+            "zpy":"ios"
+        },
+        {
+            "name":"array",
+            "zpy":"排列"
+        },
+        {
+            "name":"start",
+            "zpy":"惊起"
+        },
+        {
+            "name":"struct",
+            "zpy":"结构；结构体；创建构架数组"
+        },
+        {
+            "name":"ioctl",
+            "zpy":"国际奥委会tl"
+        },
+        {
+            "name":"O_NDELAY",
+            "zpy":"NDELAY阿"
+        },
+        {
+            "name":"TIOCGPGRP",
+            "zpy":"T ioc gp grp"
+        },
+        {
+            "name":"lockdata",
+            "zpy":"锁定数据"
+        },
+        {
+            "name":"fcntl",
+            "zpy":"fc ntl"
+        },
+        {
+            "name":"request",
+            "zpy":"请求"
+        },
+        {
+            "name":"F_SETFL",
+            "zpy":"F SETFL"
+        }
+    ]
+}

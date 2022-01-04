@@ -1,0 +1,28 @@
+{
+    "name":"colorsys",
+    "zpy":null,
+    "functions":[
+        {
+            "name":"what",
+            "zpy":"什么"
+        },
+        {
+            "name":"tests",
+            "zpy":"测验(测试的复数)"
+        }
+    ],
+    "args":[
+        {
+            "name":"file",
+            "zpy":"档案"
+        },
+        {
+            "name":"what",
+            "zpy":"什么"
+        },
+        {
+            "name":"imghdr",
+            "zpy":"img h博士"
+        }
+    ]
+}

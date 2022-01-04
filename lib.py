@@ -19,4 +19,3 @@ def getLibs():
     libs = html.xpath("//li[@class='toctree-l2']//a[@class='reference internal']/@href").getall()[22:]
 
     return libs
-

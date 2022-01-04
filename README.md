@@ -5,6 +5,7 @@
 clone this repo
 ```shell
 git clone https://github.com/louisyoungx/zpy-docs-generator.git
+cd zpy-docs-generator
 ```
 
 install dependences
@@ -12,13 +13,42 @@ install dependences
 pip install requests, scrapy, jieba, wordninja
 ```
 
-generator docs
+download dictionary
+```
+wget https://resource.rocke.top/zpy/dictionary_lite.csv
+mv dictionary_lite.csv dics
+```
+
+### Python Lib
+
+generator python builtin lib docs
 ```shell
-cd zpy-docs-generator
 python3 main.py
 ```
 
 the lib docs is in `libs/` directory
 ```shell
 ls libs
+```
+
+### Third-party Lib
+
+edit `config.py`
+- change `URL`
+- change `LIB_NAME`, exp:`requests-libs`
+
+edit `lib.py`
+- let `libs` in 19 line return list of url, exp: `['string.html', 'time.html']`
+
+edit `module.py`
+- change xpath expression of `name`, `methods`, `params` in 16, 17, 18 line
+
+generator third-party lib docs
+```shell
+python3 main.py
+```
+
+the lib docs is in `YOUR-LIB-NAME` directory
+```shell
+ls requests-libs
 ```

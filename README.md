@@ -52,3 +52,19 @@ the lib docs is in `YOUR-LIB-NAME` directory
 ```shell
 ls requests-libs
 ```
+
+### requests demo
+
+```python
+git checkout requests
+```
+
+generator third-party lib docs
+```shell
+python3 main.py
+```
+
+the lib docs is in `requests-libs` directory
+```shell
+ls requests-libs
+```

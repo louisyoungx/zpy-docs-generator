@@ -13,9 +13,9 @@ def getModule(name):
     response = r.text
     html = Selector(text=response)
 
-    name = html.xpath("//code[@class='xref py py-mod docutils literal notranslate']//span[@class='pre']//text()").get()
-    methods = html.xpath("//code[@class='sig-name descname']//text()").getall()
-    params = html.xpath("//span[@class='n']//text()").getall()
+    name = 'requests'
+    methods = html.xpath("//span[@class='sig-name descname']//span//text()").getall()
+    params = html.xpath("//ul[@class='simple']//strong//text()").getall()
 
     result = {
         'encoding': r.encoding,

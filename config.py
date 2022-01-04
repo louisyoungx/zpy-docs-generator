@@ -1,11 +1,11 @@
 import os
 
 DEBUG = True
-URL = 'https://docs.python.org/zh-cn/3.10/library/'
+URL = 'https://docs.python-requests.org/en/latest/'
 PATH = os.path.dirname(os.path.abspath(__file__))
 
 # [Libs Storage Settings]
-LIB_NAME = 'libs'
+LIB_NAME = 'requests-libs'
 LIBS_PATH = os.path.join(PATH, LIB_NAME)
 
 # [Dictionary Settings]

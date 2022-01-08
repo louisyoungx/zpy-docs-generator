@@ -3,13 +3,16 @@ lib_dir = 'standard'
 unload_exist = False  # 导入所有已启用文件的映射
 skip_exist = True  # 不处理已经启用的文件
 
-check_conflict = False  # 检查冲突
+check_conflict = True  # 检查冲突
+rewrite_conflict = True  # 修复冲突，将改动写回文件
 
-rebuild = False  # 重建文件
+rebuild = False  # 检查zname合法性，重建文件
 delete_none = True  # 删除空文件
-rewrite = False  # 将改动写回文件
+rewrite_rebuild = False  # 将改动写回文件
 
-build_init = True # 生成__init__.时间.py文件
+build_init = True # 构建__init__.时间.py文件
+rewrite_init = True  # 生成文件
+
 
 
 
@@ -73,7 +76,7 @@ if __name__ == '__main__':
     from lib.__builtin__ import BUILT_IN
     from lib.standard import STANDARD
 
-    lib = Lib(BUILT_IN, 'warn')
+    lib = Lib(BUILT_IN, 'none')
     lib.use(STANDARD)
 
     if unload_exist:
@@ -109,10 +112,20 @@ if __name__ == '__main__':
                 print(f'已删除: {libFile}')
             for item in libContent['functions']:
                 if item['name'] in lib.pyMap and item['zpy'] != lib.pyMap[item['name']]:
-                    print(item['zpy'])
+                    item['zpy'] = lib.pyMap[item['name']]
+                    print('检查到冲突: ', item['zpy'])
             for item in libContent['args']:
                 if item['name'] in lib.pyMap and item['zpy'] != lib.pyMap[item['name']]:
-                    print(item['zpy'])
+                    item['zpy'] = lib.pyMap[item['name']]
+                    print('检查到冲突: ', item['zpy'])
+            if rewrite_conflict:
+                with open(libFile, 'w+', encoding='utf-8') as file:
+                    file.seek(0)
+                    file.truncate()
+                    data = json.dumps(
+                        libContent, sort_keys=False, ensure_ascii=False, indent=4, separators=(",", ":"))
+                    file.write(data)
+                print(f"File - {libContent['name']}.json Created")
 
     if rebuild:
         for libFile in libList:
@@ -136,7 +149,7 @@ if __name__ == '__main__':
                 item = itemHandler(item, libFile)
             for item in libContent['args']:
                 item = itemHandler(item, libFile)
-            if rewrite:
+            if rewrite_rebuild:
                 with open(libFile, 'w+', encoding='utf-8') as file:
                     file.seek(0)
                     file.truncate()
@@ -160,11 +173,12 @@ if __name__ == '__main__':
             libDict['filetype'] = 'json'
             libDict['path'] = lib_dir + '/' + libContent['name'] + '.json'
             libJList.append(libDict)
-        with open(filename, 'w+', encoding='utf-8') as file:
-            file.seek(0)
-            file.truncate()
-            data = json.dumps(
-                libJList, sort_keys=False, ensure_ascii=False, indent=4, separators=(",", ":"))
-            file.write(data)
-        print(f"File - {filename} Created")
+        if rewrite_init:
+            with open(filename, 'w+', encoding='utf-8') as file:
+                file.seek(0)
+                file.truncate()
+                data = json.dumps(
+                    libJList, sort_keys=False, ensure_ascii=False, indent=4, separators=(",", ":"))
+                file.write(data)
+            print(f"File - {filename} Created")
 

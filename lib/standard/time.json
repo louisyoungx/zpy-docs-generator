@@ -92,7 +92,7 @@
         },
         {
             "name":"CLOCK_UPTIME_RAW",
-            "zpy":"时钟正常运行时间"
+            "zpy":"时钟原始运行时间"
         },
         {
             "name":"get_clock_info",

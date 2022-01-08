@@ -4,7 +4,7 @@
     "functions":[
         {
             "name":"credits",
-            "zpy":"演职员名单工作人员;信用;学分(信用的复数)"
+            "zpy":"信用"
         },
         {
             "name":"NotImplemented",
@@ -16,11 +16,11 @@
         },
         {
             "name":"None",
-            "zpy":"一点也不"
+            "zpy":"空"
         },
         {
             "name":"False",
-            "zpy":"错误的"
+            "zpy":"错"
         },
         {
             "name":"Ellipsis",
@@ -28,7 +28,7 @@
         },
         {
             "name":"__debug__",
-            "zpy":"调试、"
+            "zpy":"__调试__"
         },
         {
             "name":"exit",

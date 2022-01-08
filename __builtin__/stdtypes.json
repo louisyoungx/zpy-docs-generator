@@ -4,11 +4,7 @@
     "functions":[
         {
             "name":"endswith",
-            "zpy":"ends with"
-        },
-        {
-            "name":"iter(dictview)",
-            "zpy":"iter ( dictview )"
+            "zpy":"结束随着"
         },
         {
             "name":"partition",
@@ -16,67 +12,51 @@
         },
         {
             "name":"isidentifier",
-            "zpy":"is identifier"
+            "zpy":"是有效标识符"
         },
         {
             "name":"difference_update",
-            "zpy":"difference update"
+            "zpy":"差异更新"
         },
         {
             "name":"isalpha",
-            "zpy":"is alpha"
+            "zpy":"存在字母"
         },
         {
             "name":"shape",
             "zpy":"形状"
         },
         {
-            "name":"removeprefix",
-            "zpy":"remove prefix"
-        },
-        {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"fromhex",
-            "zpy":"from hex"
+            "zpy":"从十六进制"
         },
         {
             "name":"title",
-            "zpy":"头衔"
-        },
-        {
-            "name":"set >= other",
-            "zpy":"set    >=    other"
+            "zpy":"标题"
         },
         {
             "name":"step",
-            "zpy":"步骤"
+            "zpy":"步"
         },
         {
             "name":"format_map",
-            "zpy":"format map"
+            "zpy":"格式化图"
         },
         {
             "name":"__iter__",
-            "zpy":"iter"
-        },
-        {
-            "name":"x in dictview",
-            "zpy":"x     in     dictview"
-        },
-        {
-            "name":"d | other",
-            "zpy":"d    |    other"
+            "zpy":"__迭代__"
         },
         {
             "name":"__args__",
-            "zpy":"args"
+            "zpy":"__参数__"
         },
         {
             "name":"zfill",
-            "zpy":"z fill"
+            "zpy":"填充零"
         },
         {
             "name":"list",
@@ -92,59 +72,39 @@
         },
         {
             "name":"fromkeys",
-            "zpy":"from keys"
+            "zpy":"从所有值"
         },
         {
-            "name":"reversed(d)",
-            "zpy":"reversed ( d )"
-        },
-        {
-            "name":"d[key] = value",
-            "zpy":"d [ key ]   =    value"
+            "name":"reversed",
+            "zpy":"取反"
         },
         {
             "name":"__dict__",
-            "zpy":"dict"
+            "zpy":"__字典__"
         },
         {
             "name":"__enter__",
-            "zpy":"enter"
+            "zpy":"__进入__"
         },
         {
             "name":"__subclasses__",
-            "zpy":"subclasses"
-        },
-        {
-            "name":"set & other & ...",
-            "zpy":"set     &     other     &     . . ."
-        },
-        {
-            "name":"set ^= other",
-            "zpy":"set    ^=    other"
+            "zpy":"__子类__"
         },
         {
             "name":"capitalize",
-            "zpy":"以大写字母写"
+            "zpy":"首字母大写"
         },
         {
             "name":"maketrans",
-            "zpy":"make trans"
+            "zpy":"转换对照表"
         },
         {
             "name":"splitlines",
-            "zpy":"split lines"
+            "zpy":"以行拆分"
         },
         {
             "name":"startswith",
-            "zpy":"starts with"
-        },
-        {
-            "name":"del d[key]",
-            "zpy":"del     d [ key ]"
-        },
-        {
-            "name":"T[X, Y, ...]",
-            "zpy":"T [ X     Y     . . . ]"
+            "zpy":"开始随着"
         },
         {
             "name":"count",
@@ -152,7 +112,7 @@
         },
         {
             "name":"rfind",
-            "zpy":"r find"
+            "zpy":"r找到"
         },
         {
             "name":"decode",
@@ -160,119 +120,95 @@
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"keys",
-            "zpy":"关键帧；（钢琴等的）键；密钥（key的复数）"
+            "zpy":"所有键"
         },
         {
             "name":"bytearray",
-            "zpy":"byte array"
+            "zpy":"字节数组"
         },
         {
             "name":"islower",
-            "zpy":"判断是否小写字母"
+            "zpy":"是小写"
         },
         {
             "name":"ndim",
-            "zpy":"n dim"
-        },
-        {
-            "name":"set |= other | ...",
-            "zpy":"set    |=    other    |    . . ."
-        },
-        {
-            "name":"set -= other | ...",
-            "zpy":"set     =    other    |    . . ."
+            "zpy":"数组维度"
         },
         {
             "name":"tobytes",
-            "zpy":"to bytes"
+            "zpy":"转为字节串"
         },
         {
             "name":"clear",
-            "zpy":"清楚的"
+            "zpy":"清除"
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"拆分"
         },
         {
             "name":"__eq__",
-            "zpy":"eq"
+            "zpy":"__eq__"
         },
         {
-            "name":"key not in d",
-            "zpy":"key     not     in     d"
-        },
-        {
-            "name":"len(dictview)",
-            "zpy":"len ( dictview )"
-        },
-        {
-            "name":"len(d)",
-            "zpy":"len ( d )"
+            "name":"len",
+            "zpy":"长"
         },
         {
             "name":"__bases__",
-            "zpy":"bases"
+            "zpy":"__基类元组__"
         },
         {
             "name":"bit_length",
-            "zpy":"bit length"
-        },
-        {
-            "name":"suboffsets",
-            "zpy":"sub offsets"
+            "zpy":"位长度"
         },
         {
             "name":"sort",
-            "zpy":"种类"
+            "zpy":"排序"
         },
         {
             "name":"encode",
-            "zpy":"把(电文、情报等)译成密码"
+            "zpy":"编码"
         },
         {
             "name":"range",
-            "zpy":"排"
+            "zpy":"排序"
         },
         {
             "name":"isascii",
-            "zpy":"判断是否是ASCII字符"
+            "zpy":"是ascii"
         },
         {
             "name":"__parameters__",
-            "zpy":"parameters"
+            "zpy":"__参数元组__"
         },
         {
             "name":"isspace",
-            "zpy":"is space"
+            "zpy":"是空格"
         },
         {
             "name":"__name__",
-            "zpy":"name"
+            "zpy":"__名字__"
         },
         {
             "name":"find",
-            "zpy":"发现"
+            "zpy":"找到"
         },
         {
             "name":"rindex",
-            "zpy":"r index"
+            "zpy":"右索引"
         },
         {
             "name":"rjust",
-            "zpy":"r just"
+            "zpy":"右定长"
         },
         {
             "name":"itemsize",
-            "zpy":"item size"
-        },
-        {
-            "name":"reversed(dictview)",
-            "zpy":"reversed ( dictview )"
+            "zpy":"项字节大小"
         },
         {
             "name":"union",
@@ -280,103 +216,79 @@
         },
         {
             "name":"c_contiguous",
-            "zpy":"c contiguous"
+            "zpy":"c_contiguous"
         },
         {
             "name":"isprintable",
-            "zpy":"is printable"
+            "zpy":"是可打印的"
         },
         {
             "name":"nbytes",
-            "zpy":"n bytes"
-        },
-        {
-            "name":"set - other - ...",
-            "zpy":"set         other         . . ."
+            "zpy":"数组字节数"
         },
         {
             "name":"symmetric_difference_update",
-            "zpy":"symmetric difference update"
+            "zpy":"对称差分更新"
         },
         {
             "name":"tolist",
-            "zpy":"to list"
-        },
-        {
-            "name":"set <= other",
-            "zpy":"set    <=    other"
-        },
-        {
-            "name":"key in d",
-            "zpy":"key     in     d"
+            "zpy":"转成列表"
         },
         {
             "name":"__exit__",
-            "zpy":"exit"
-        },
-        {
-            "name":"x not in s",
-            "zpy":"x     not     in     s"
+            "zpy":"__退出__"
         },
         {
             "name":"bit_count",
-            "zpy":"bit count"
+            "zpy":"位计数"
         },
         {
             "name":"isdigit",
-            "zpy":"is digit"
+            "zpy":"是数字"
         },
         {
             "name":"lstrip",
-            "zpy":"l strip"
+            "zpy":"移除前导字符"
         },
         {
             "name":"memoryview",
-            "zpy":"memory view"
+            "zpy":"内存视图"
         },
         {
             "name":"symmetric_difference",
-            "zpy":"symmetric difference"
+            "zpy":"对称差分"
         },
         {
             "name":"rsplit",
-            "zpy":"r split"
+            "zpy":"右拆分"
         },
         {
             "name":"popitem",
-            "zpy":"pop item"
+            "zpy":"出栈一项"
         },
         {
             "name":"__qualname__",
-            "zpy":"qualname"
+            "zpy":"__限定名__"
         },
         {
             "name":"istitle",
-            "zpy":"is title"
-        },
-        {
-            "name":"set ^ other",
-            "zpy":"set    ^    other"
+            "zpy":"是标题"
         },
         {
             "name":"expandtabs",
-            "zpy":"expand tabs"
-        },
-        {
-            "name":"list(d)",
-            "zpy":"list ( d )"
+            "zpy":"扩展tabs"
         },
         {
             "name":"frozenset",
-            "zpy":"frozen set"
+            "zpy":"frozenset"
         },
         {
             "name":"readonly",
-            "zpy":"只读的"
+            "zpy":"只读"
         },
         {
             "name":"is_integer",
-            "zpy":"is integer"
+            "zpy":"是整数"
         },
         {
             "name":"update",
@@ -384,11 +296,7 @@
         },
         {
             "name":"isdecimal",
-            "zpy":"is decimal"
-        },
-        {
-            "name":"len(s)",
-            "zpy":"len ( s )"
+            "zpy":"是小数"
         },
         {
             "name":"index",
@@ -396,27 +304,19 @@
         },
         {
             "name":"issubset",
-            "zpy":"is subset"
+            "zpy":"是子集"
         },
         {
             "name":"setdefault",
-            "zpy":"set default"
+            "zpy":"设默认值"
         },
         {
             "name":"strides",
-            "zpy":"<非正><澳>裤子;大步(stride的名词复数);步法;步态;进展"
+            "zpy":"大踏步"
         },
         {
             "name":"upper",
-            "zpy":"上面的"
-        },
-        {
-            "name":"iter(d)",
-            "zpy":"iter ( d )"
-        },
-        {
-            "name":"d |= other",
-            "zpy":"d    |=    other"
+            "zpy":"大写"
         },
         {
             "name":"tuple",
@@ -424,75 +324,67 @@
         },
         {
             "name":"casefold",
-            "zpy":"case fold"
-        },
-        {
-            "name":"isinstance(obj, union_object)",
-            "zpy":"isinstance ( obj     union object )"
+            "zpy":"消除大小写"
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"intersection_update",
-            "zpy":"intersection update"
+            "zpy":"交叉更新"
         },
         {
             "name":"values",
-            "zpy":"对价值的看法"
+            "zpy":"所有值"
         },
         {
             "name":"removesuffix",
-            "zpy":"remove suffix"
+            "zpy":"删除后缀"
         },
         {
             "name":"items",
-            "zpy":"项目；名目；所有物品（item的复数形式）"
+            "zpy":"项"
         },
         {
             "name":"__mro__",
-            "zpy":"mro"
+            "zpy":"__mro__"
         },
         {
             "name":"__class__",
-            "zpy":"class"
+            "zpy":"__类__"
         },
         {
             "name":"rpartition",
-            "zpy":"r partition"
+            "zpy":"r分区"
         },
         {
             "name":"replace",
-            "zpy":"代替"
+            "zpy":"替换"
         },
         {
             "name":"strip",
-            "zpy":"长条"
+            "zpy":"移除"
         },
         {
             "name":"center",
-            "zpy":"中心"
+            "zpy":"中间"
         },
         {
             "name":"translate",
-            "zpy":"翻译"
+            "zpy":"转化"
         },
         {
             "name":"isdisjoint",
-            "zpy":"is disjoint"
+            "zpy":"是不相交"
         },
         {
             "name":"rstrip",
-            "zpy":"r strip"
+            "zpy":"移除末尾字符"
         },
         {
             "name":"discard",
             "zpy":"丢弃"
-        },
-        {
-            "name":"x in s",
-            "zpy":"x     in     s"
         },
         {
             "name":"release",
@@ -500,19 +392,19 @@
         },
         {
             "name":"as_integer_ratio",
-            "zpy":"as integer ratio"
+            "zpy":"整数比"
         },
         {
             "name":"swapcase",
-            "zpy":"swap case"
+            "zpy":"交换情况"
         },
         {
             "name":"ljust",
-            "zpy":"l just"
+            "zpy":"左定长"
         },
         {
             "name":"contiguous",
-            "zpy":"邻近的"
+            "zpy":"邻近"
         },
         {
             "name":"X | Y | ...",
@@ -520,27 +412,19 @@
         },
         {
             "name":"f_contiguous",
-            "zpy":"f contiguous"
-        },
-        {
-            "name":"dictview.mapping",
-            "zpy":"dictview . mapping"
+            "zpy":"f_邻近"
         },
         {
             "name":"cast",
-            "zpy":"演员阵容"
-        },
-        {
-            "name":"set | other | ...",
-            "zpy":"set    |    other    |    . . ."
+            "zpy":"投"
         },
         {
             "name":"__next__",
-            "zpy":"next"
+            "zpy":"__下一个__"
         },
         {
             "name":"bytes",
-            "zpy":"位元组"
+            "zpy":"字节串"
         },
         {
             "name":"difference",
@@ -548,35 +432,23 @@
         },
         {
             "name":"isupper",
-            "zpy":"is upper"
-        },
-        {
-            "name":"union_object == other",
-            "zpy":"union object    ==    other"
+            "zpy":"是大写"
         },
         {
             "name":"issuperset",
-            "zpy":"is superset"
+            "zpy":"是超集"
         },
         {
             "name":"dict",
-            "zpy":"词典"
+            "zpy":"字典"
         },
         {
             "name":"lower",
-            "zpy":"低的"
-        },
-        {
-            "name":"issubclass(obj, union_object)",
-            "zpy":"issubclass ( obj     union object )"
+            "zpy":"小写"
         },
         {
             "name":"from_bytes",
-            "zpy":"from bytes"
-        },
-        {
-            "name":"d[key]",
-            "zpy":"d [ key ]"
+            "zpy":"从字节串"
         },
         {
             "name":"stop",
@@ -584,19 +456,11 @@
         },
         {
             "name":"toreadonly",
-            "zpy":"to read only"
-        },
-        {
-            "name":"set < other",
-            "zpy":"set    <    other"
+            "zpy":"转为只读"
         },
         {
             "name":"isnumeric",
-            "zpy":"is numeric"
-        },
-        {
-            "name":"set > other",
-            "zpy":"set    >    other"
+            "zpy":"是数值"
         },
         {
             "name":"intersection",
@@ -604,49 +468,33 @@
         },
         {
             "name":"__origin__",
-            "zpy":"origin"
-        },
-        {
-            "name":"to_bytes",
-            "zpy":"to bytes"
-        },
-        {
-            "name":"set &= other & ...",
-            "zpy":"set     & =    other     &     . . ."
+            "zpy":"__起源__"
         },
         {
             "name":"isalnum",
-            "zpy":"is al num"
+            "zpy":"是字母或数字"
         }
     ],
     "args":[
-        {
-            "name":"BEPoint",
-            "zpy":"点"
-        },
         {
             "name":"hash_info",
             "zpy":"散列信息"
         },
         {
-            "name":"isinstance() argument 2 cannot contain a parameterized generic",
-            "zpy":"Isinstance()参数2不能包含参数化泛型"
-        },
-        {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"isidentifier",
-            "zpy":"标识符"
+            "zpy":"是标识符"
         },
         {
             "name":"exc_type",
-            "zpy":"exc类型"
+            "zpy":"异常类型"
         },
         {
             "name":"isalpha",
-            "zpy":"是α"
+            "zpy":"是alpha"
         },
         {
             "name":"shape",
@@ -658,7 +506,7 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"real",
@@ -670,55 +518,39 @@
         },
         {
             "name":"integer",
-            "zpy":"完整的事物"
+            "zpy":"整型"
         },
         {
             "name":"fromhex",
             "zpy":"从十六进制"
         },
         {
-            "name":"isinstance() argument 2 cannot be a parameterized generic",
-            "zpy":"Isinstance()参数2不能是参数化泛型"
-        },
-        {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"title",
-            "zpy":"头衔"
+            "zpy":"标题"
         },
         {
             "name":"format_map",
-            "zpy":"格式的地图"
+            "zpy":"格式映射"
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"_fields_",
-            "zpy":"字段"
+            "zpy":"_字段_"
         },
         {
             "name":"__args__",
-            "zpy":"参数"
+            "zpy":"__a参数__"
         },
         {
             "name":"zfill",
-            "zpy":"z填补"
-        },
-        {
-            "name":"There are no type variables left in dict[str]",
-            "zpy":"字典[str]中没有类型变量"
-        },
-        {
-            "name":"memoryview: invalid value for format \"B\"",
-            "zpy":"memoryview:格式“B”无效的值"
-        },
-        {
-            "name":"__subclasses__",
-            "zpy":"子类"
+            "zpy":"填充零"
         },
         {
             "name":"metaclass",
@@ -726,7 +558,7 @@
         },
         {
             "name":"pack",
-            "zpy":"包裹"
+            "zpy":"包"
         },
         {
             "name":"splitlines",
@@ -738,11 +570,11 @@
         },
         {
             "name":"capitalize",
-            "zpy":"以大写字母写"
+            "zpy":"大写化"
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"tabsize",
@@ -753,16 +585,8 @@
             "zpy":"其他的"
         },
         {
-            "name":"keys",
-            "zpy":"关键帧;(钢琴等的)键;密钥(关键的复数)"
-        },
-        {
-            "name":"'method' object has no attribute 'whoami'",
-            "zpy":"' method '对象没有属性' whoami '"
-        },
-        {
             "name":"islower",
-            "zpy":"判断是否小写字母"
+            "zpy":"是小写"
         },
         {
             "name":"hash_float",
@@ -770,19 +594,19 @@
         },
         {
             "name":"tobytes",
-            "zpy":"字节"
+            "zpy":"转为字节"
         },
         {
             "name":"iterable",
-            "zpy":"嗯可以"
+            "zpy":"可迭代"
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"分隔"
         },
         {
             "name":"struct",
-            "zpy":"结构；结构体；创建构架数组"
+            "zpy":"结构"
         },
         {
             "name":"args",
@@ -790,7 +614,7 @@
         },
         {
             "name":"group",
-            "zpy":"团体"
+            "zpy":"群"
         },
         {
             "name":"byteorder",
@@ -801,12 +625,8 @@
             "zpy":"宽度"
         },
         {
-            "name":"typing",
-            "zpy":"打字"
-        },
-        {
             "name":"iskeyword",
-            "zpy":"关键字"
+            "zpy":"是关键字"
         },
         {
             "name":"Optional",
@@ -818,19 +638,15 @@
         },
         {
             "name":"exc_tb",
-            "zpy":"exc结核病"
-        },
-        {
-            "name":"operation forbidden on released memoryview object",
-            "zpy":"禁止对已释放的memoryview对象进行操作"
+            "zpy":"异常回溯信息"
         },
         {
             "name":"__parameters__",
-            "zpy":"参数"
+            "zpy":"__参数元组__"
         },
         {
             "name":"itemsize",
-            "zpy":"项目的大小"
+            "zpy":"项大小"
         },
         {
             "name":"math",
@@ -842,7 +658,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"order",
@@ -854,43 +670,39 @@
         },
         {
             "name":"exc_val",
-            "zpy":"exc val"
+            "zpy":"异常值"
         },
         {
             "name":"hash_fraction",
-            "zpy":"哈希分数"
+            "zpy":"散列分数"
         },
         {
             "name":"number",
-            "zpy":"数"
+            "zpy":"数字"
         },
         {
             "name":"nbytes",
-            "zpy":"n个字节"
+            "zpy":"数组字节数"
         },
         {
             "name":"tolist",
-            "zpy":"列表"
-        },
-        {
-            "name":"cannot create 'types.UnionType' instances",
-            "zpy":"不能创建类型。UnionType的实例"
+            "zpy":"转为列表"
         },
         {
             "name":"bit_count",
-            "zpy":"数"
+            "zpy":"位计数"
         },
         {
             "name":"lstrip",
-            "zpy":"l地带"
+            "zpy":"移除前导字符"
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"isdigit",
@@ -898,15 +710,11 @@
         },
         {
             "name":"exporter",
-            "zpy":"出口商"
+            "zpy":"出口方"
         },
         {
             "name":"array",
-            "zpy":"排列"
-        },
-        {
-            "name":"cannot modify read-only memory",
-            "zpy":"不能修改只读内存"
+            "zpy":"数组"
         },
         {
             "name":"istitle",
@@ -914,31 +722,31 @@
         },
         {
             "name":"expandtabs",
-            "zpy":"扩大选项卡"
+            "zpy":"扩大tabs"
         },
         {
             "name":"lists",
-            "zpy":"竞技场"
+            "zpy":"所有列表"
         },
         {
             "name":"readonly",
-            "zpy":"只读的"
+            "zpy":"只读"
         },
         {
             "name":"titlecase",
-            "zpy":"标题的情况下"
+            "zpy":"标题情况"
         },
         {
             "name":"body",
-            "zpy":"身体"
+            "zpy":"躯干"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"TypeVar",
-            "zpy":"类型的变量"
+            "zpy":"类型变量"
         },
         {
             "name":"is_integer",
@@ -950,7 +758,7 @@
         },
         {
             "name":"imag",
-            "zpy":"复数虚部；图像放大"
+            "zpy":"复数虚部"
         },
         {
             "name":"Union",
@@ -966,15 +774,11 @@
         },
         {
             "name":"c_long",
-            "zpy":"c长"
-        },
-        {
-            "name":"whoami",
-            "zpy":"显示本用户信息"
+            "zpy":"c_long"
         },
         {
             "name":"elem",
-            "zpy":"伊特姆"
+            "zpy":"elem"
         },
         {
             "name":"fraction",
@@ -985,20 +789,12 @@
             "zpy":"索引"
         },
         {
-            "name":"<module>",
-            "zpy":"> <模块"
-        },
-        {
-            "name":"memoryview assignment: lvalue and rvalue have different structures",
-            "zpy":"内存视图赋值:左值和右值有不同的结构"
-        },
-        {
             "name":"exponent",
             "zpy":"说明者"
         },
         {
             "name":"upper",
-            "zpy":"上面的"
+            "zpy":"大写"
         },
         {
             "name":"BigEndianStructure",
@@ -1010,7 +806,7 @@
         },
         {
             "name":"values",
-            "zpy":"对价值的看法"
+            "zpy":"所有值"
         },
         {
             "name":"removesuffix",
@@ -1018,19 +814,19 @@
         },
         {
             "name":"items",
-            "zpy":"项目名目所有物品(项目的复数形式)"
+            "zpy":"所有项"
         },
         {
             "name":"calcsize",
-            "zpy":"calc大小"
+            "zpy":"计算大小"
         },
         {
             "name":"mapping",
-            "zpy":"映射;变换;映象"
+            "zpy":"映射"
         },
         {
             "name":"others",
-            "zpy":"其他人"
+            "zpy":"所有其他"
         },
         {
             "name":"replace",
@@ -1038,15 +834,15 @@
         },
         {
             "name":"strip",
-            "zpy":"长条"
+            "zpy":"移除"
         },
         {
             "name":"signed",
-            "zpy":"有符号的；有正负之分的；已签字的"
+            "zpy":"有符号"
         },
         {
             "name":"translate",
-            "zpy":"翻译"
+            "zpy":"转化"
         },
         {
             "name":"name",
@@ -1054,7 +850,7 @@
         },
         {
             "name":"rstrip",
-            "zpy":"r地带"
+            "zpy":"移除末尾字符"
         },
         {
             "name":"sign",
@@ -1070,47 +866,31 @@
         },
         {
             "name":"swapcase",
-            "zpy":"交换的情况下"
-        },
-        {
-            "name":"object",
-            "zpy":"物体"
+            "zpy":"交换情况"
         },
         {
             "name":"Counter",
-            "zpy":"计算器"
+            "zpy":"计数器"
         },
         {
             "name":"modulus",
-            "zpy":"标准"
+            "zpy":"模量"
         },
         {
             "name":"cast",
-            "zpy":"演员阵容"
+            "zpy":"投"
         },
         {
             "name":"bytes",
-            "zpy":"位元组"
-        },
-        {
-            "name":"isnan",
-            "zpy":"南"
+            "zpy":"字节串"
         },
         {
             "name":"isupper",
-            "zpy":"上"
+            "zpy":"是大写"
         },
         {
             "name":"maxsplit",
-            "zpy":"马克斯分裂"
-        },
-        {
-            "name":"dishes",
-            "zpy":"餐具"
-        },
-        {
-            "name":"isinf",
-            "zpy":"在f"
+            "zpy":"最大拆分"
         },
         {
             "name":"lower",
@@ -1130,27 +910,27 @@
         },
         {
             "name":"__origin__",
-            "zpy":"起源、"
+            "zpy":"__起源__"
         },
         {
             "name":"types",
-            "zpy":"打字(类型的第三人称单数形式)"
+            "zpy":"所有类型"
         },
         {
             "name":"table",
-            "zpy":"桌子"
+            "zpy":"表"
         },
         {
             "name":"to_bytes",
-            "zpy":"字节"
+            "zpy":"转为字节"
         },
         {
             "name":"Default",
-            "zpy":"违约"
+            "zpy":"默认"
         },
         {
             "name":"isalnum",
-            "zpy":"是al num"
+            "zpy":"是字母或数字"
         },
         {
             "name":"three",

@@ -4,11 +4,11 @@
     "functions":[
         {
             "name":"errno",
-            "zpy":"呃不"
+            "zpy":"数字错误码"
         },
         {
             "name":"FutureWarning",
-            "zpy":"未来的警告"
+            "zpy":"弃用警告"
         },
         {
             "name":"BufferError",
@@ -20,11 +20,11 @@
         },
         {
             "name":"NotADirectoryError",
-            "zpy":"不是目录错误"
+            "zpy":"不是一个目录错误"
         },
         {
             "name":"OverflowError",
-            "zpy":"溢出的错误"
+            "zpy":"溢出错误"
         },
         {
             "name":"NameError",
@@ -52,7 +52,7 @@
         },
         {
             "name":"EnvironmentError",
-            "zpy":"环境误差"
+            "zpy":"环境错误"
         },
         {
             "name":"FileNotFoundError",
@@ -60,7 +60,7 @@
         },
         {
             "name":"IndentationError",
-            "zpy":"缩进的错误"
+            "zpy":"缩进错误"
         },
         {
             "name":"EncodingWarning",
@@ -72,11 +72,11 @@
         },
         {
             "name":"SyntaxWarning",
-            "zpy":"语法的警告"
+            "zpy":"语法警告"
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"offset",
@@ -96,11 +96,11 @@
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"UnicodeWarning",
@@ -116,7 +116,7 @@
         },
         {
             "name":"IsADirectoryError",
-            "zpy":"是目录错误"
+            "zpy":"是一个目录错误"
         },
         {
             "name":"text",
@@ -124,15 +124,15 @@
         },
         {
             "name":"EOFError",
-            "zpy":"的错误"
+            "zpy":"未读取到数据错误"
         },
         {
             "name":"Exception",
-            "zpy":"例外"
+            "zpy":"异常"
         },
         {
             "name":"winerror",
-            "zpy":"赢得错误"
+            "zpy":"Win错误"
         },
         {
             "name":"args",
@@ -172,11 +172,11 @@
         },
         {
             "name":"PermissionError",
-            "zpy":"允许误差"
+            "zpy":"允许错误"
         },
         {
             "name":"InterruptedError",
-            "zpy":"中断的错误"
+            "zpy":"中断错误"
         },
         {
             "name":"ReferenceError",
@@ -192,7 +192,7 @@
         },
         {
             "name":"RecursionError",
-            "zpy":"递归的错误"
+            "zpy":"递归错误"
         },
         {
             "name":"ConnectionAbortedError",
@@ -216,7 +216,7 @@
         },
         {
             "name":"BytesWarning",
-            "zpy":"字节的警告"
+            "zpy":"字节警告"
         },
         {
             "name":"filename2",
@@ -232,11 +232,11 @@
         },
         {
             "name":"BaseException",
-            "zpy":"基地例外"
+            "zpy":"基本异常"
         },
         {
             "name":"ZeroDivisionError",
-            "zpy":"零分错误"
+            "zpy":"被除数为零错误"
         },
         {
             "name":"strerror",
@@ -276,7 +276,7 @@
         },
         {
             "name":"ResourceWarning",
-            "zpy":"资源的警告"
+            "zpy":"资源警告"
         },
         {
             "name":"FloatingPointError",
@@ -296,7 +296,7 @@
         },
         {
             "name":"UserWarning",
-            "zpy":"用户的警告"
+            "zpy":"用户警告"
         },
         {
             "name":"UnicodeEncodeError",
@@ -316,7 +316,7 @@
         },
         {
             "name":"BrokenPipeError",
-            "zpy":"断管错误"
+            "zpy":"管道已关闭错误"
         },
         {
             "name":"ArithmeticError",
@@ -328,7 +328,7 @@
         },
         {
             "name":"end_lineno",
-            "zpy":"lineno结束"
+            "zpy":"错误末尾行号"
         },
         {
             "name":"StopIteration",
@@ -344,7 +344,7 @@
         },
         {
             "name":"UnboundLocalError",
-            "zpy":"的局部误差"
+            "zpy":"局部误差"
         }
     ],
     "args":[
@@ -358,11 +358,11 @@
         },
         {
             "name":"details",
-            "zpy":"详细资料;细节(细节的复数)"
+            "zpy":"详情"
         },
         {
             "name":"new_exc",
-            "zpy":"新exc"
+            "zpy":"新异常"
         },
         {
             "name":"OtherException",
@@ -370,7 +370,7 @@
         },
         {
             "name":"SomeException",
-            "zpy":"一些例外"
+            "zpy":"某些异常"
         },
         {
             "name":"message",
@@ -378,7 +378,7 @@
         },
         {
             "name":"exc_info",
-            "zpy":"exc信息"
+            "zpy":"异常信息"
         }
     ]
 }

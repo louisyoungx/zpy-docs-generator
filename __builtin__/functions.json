@@ -4,7 +4,7 @@
     "functions":[
         {
             "name":"property",
-            "zpy":"财产"
+            "zpy":"属性值"
         },
         {
             "name":"bytearray",
@@ -12,15 +12,15 @@
         },
         {
             "name":"sorted",
-            "zpy":"分选的；分类的；挑选的"
+            "zpy":"已排序"
         },
         {
             "name":"ascii",
-            "zpy":"美国信息交换标准码"
+            "zpy":"ascii"
         },
         {
             "name":"super",
-            "zpy":"跑龙套角色"
+            "zpy":"超类"
         },
         {
             "name":"getattr",
@@ -28,19 +28,19 @@
         },
         {
             "name":"globals",
-            "zpy":"全球的年代"
+            "zpy":"全局变量"
         },
         {
             "name":"slice",
-            "zpy":"薄的切片"
+            "zpy":"切片"
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"callable",
-            "zpy":"请求即付的"
+            "zpy":"可调用"
         },
         {
             "name":"classmethod",
@@ -48,19 +48,19 @@
         },
         {
             "name":"divmod",
-            "zpy":"div mod"
+            "zpy":"取余"
         },
         {
             "name":"hasattr",
-            "zpy":"在tr"
+            "zpy":"拥有属性"
         },
         {
             "name":"frozenset",
-            "zpy":"冻"
+            "zpy":"frozenset"
         },
         {
             "name":"help",
-            "zpy":"帮忙"
+            "zpy":"帮助"
         },
         {
             "name":"open",
@@ -72,19 +72,19 @@
         },
         {
             "name":"object",
-            "zpy":"物体"
+            "zpy":"对象"
         },
         {
             "name":"round",
-            "zpy":"圆"
+            "zpy":"舍入"
         },
         {
             "name":"isinstance",
-            "zpy":"实例"
+            "zpy":"是实例"
         },
         {
             "name":"delattr",
-            "zpy":"德尔在tr"
+            "zpy":"删除属性"
         },
         {
             "name":"input",
@@ -92,11 +92,11 @@
         },
         {
             "name":"range",
-            "zpy":"排"
+            "zpy":"排序"
         },
         {
             "name":"vars",
-            "zpy":"增值经销商(value-addedresellers)"
+            "zpy":"所有变量"
         },
         {
             "name":"bool",
@@ -104,23 +104,23 @@
         },
         {
             "name":"hash",
-            "zpy":"剁碎的食物"
+            "zpy":"散列"
         },
         {
             "name":"eval",
-            "zpy":"重新运算求出参数的内容"
+            "zpy":"解析"
         },
         {
             "name":"list",
-            "zpy":"目录"
+            "zpy":"列表"
         },
         {
             "name":"repr",
-            "zpy":"代表表示"
+            "zpy":"返回字符值"
         },
         {
             "name":"aiter",
-            "zpy":"艾德（品牌名）"
+            "zpy":"异步枚举"
         },
         {
             "name":"breakpoint",
@@ -128,7 +128,7 @@
         },
         {
             "name":"bytes",
-            "zpy":"位元组"
+            "zpy":"字节串"
         },
         {
             "name":"type",
@@ -136,31 +136,31 @@
         },
         {
             "name":"exec",
-            "zpy":"主任参谋"
+            "zpy":"执行"
         },
         {
             "name":"locals",
-            "zpy":"当地人；区域变量"
+            "zpy":"局部变量"
         },
         {
             "name":"setattr",
-            "zpy":"设置在tr"
+            "zpy":"设置属性"
         },
         {
             "name":"__import__",
-            "zpy":"进口"
+            "zpy":"__导入__"
         },
         {
             "name":"dict",
-            "zpy":"词典"
+            "zpy":"字典"
         },
         {
             "name":"iter",
-            "zpy":"导管"
+            "zpy":"迭代"
         },
         {
             "name":"float",
-            "zpy":"漂流物"
+            "zpy":"浮点数"
         },
         {
             "name":"tuple",
@@ -168,7 +168,7 @@
         },
         {
             "name":"enumerate",
-            "zpy":"列举"
+            "zpy":"枚举"
         },
         {
             "name":"next",
@@ -180,11 +180,11 @@
         },
         {
             "name":"complex",
-            "zpy":"综合体"
+            "zpy":"复数"
         },
         {
             "name":"anext",
-            "zpy":"下一个"
+            "zpy":"异步下一个"
         },
         {
             "name":"print",
@@ -200,7 +200,7 @@
         },
         {
             "name":"reversed",
-            "zpy":"反面的"
+            "zpy":"取反"
         },
         {
             "name":"memoryview",
@@ -214,71 +214,63 @@
         },
         {
             "name":"strict",
-            "zpy":"严厉的"
+            "zpy":"严格"
         },
         {
             "name":"globals",
-            "zpy":"全球的年代"
+            "zpy":"全局变量"
         },
         {
             "name":"optimize",
-            "zpy":"使完美"
+            "zpy":"优化"
         },
         {
             "name":"getx",
-            "zpy":"得到x"
+            "zpy":"获取x"
         },
         {
             "name":"setx",
-            "zpy":"集合x"
+            "zpy":"设置x"
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"dont_inherit",
-            "zpy":"不继承"
+            "zpy":"不可继承"
         },
         {
             "name":"kwarg",
-            "zpy":"千瓦参数"
+            "zpy":"字典参数值"
         },
         {
             "name":"flush",
-            "zpy":"流溢"
+            "zpy":"冲洗"
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"close",
             "zpy":"结束"
         },
         {
-            "name":"saus",
-            "zpy":"分（越南货币名）"
-        },
-        {
             "name":"source",
-            "zpy":"来源"
+            "zpy":"源"
         },
         {
             "name":"locals",
-            "zpy":"当地人；区域变量"
+            "zpy":"局部变量"
         },
         {
             "name":"delx",
-            "zpy":"德尔x"
-        },
-        {
-            "name":"process_block",
-            "zpy":"过程"
+            "zpy":"删除x"
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"filename",
@@ -286,15 +278,15 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"fromlist",
-            "zpy":"从列表中"
+            "zpy":"从列表"
         },
         {
             "name":"base",
@@ -302,11 +294,11 @@
         },
         {
             "name":"iterable",
-            "zpy":"嗯可以"
+            "zpy":"可迭代的"
         },
         {
             "name":"struct",
-            "zpy":"结构；结构体；创建构架数组"
+            "zpy":"结构"
         },
         {
             "name":"args",
@@ -314,27 +306,19 @@
         },
         {
             "name":"fset",
-            "zpy":"f组"
-        },
-        {
-            "name":"regular_function",
-            "zpy":"普通函数"
+            "zpy":"f设置"
         },
         {
             "name":"iterables",
-            "zpy":"e增加"
+            "zpy":"所有可枚举值"
         },
         {
             "name":"eggs",
-            "zpy":"鸡蛋蛋(蛋的复数形式)"
+            "zpy":"所有鸡蛋"
         },
         {
             "name":"value",
-            "zpy":"价值"
-        },
-        {
-            "name":"dir_fd",
-            "zpy":"dir fd"
+            "zpy":"值"
         },
         {
             "name":"level",
@@ -346,11 +330,11 @@
         },
         {
             "name":"_temp",
-            "zpy":"临时"
+            "zpy":"_临时"
         },
         {
             "name":"function",
-            "zpy":"官能"
+            "zpy":"函数"
         },
         {
             "name":"path",
@@ -358,19 +342,11 @@
         },
         {
             "name":"setter",
-            "zpy":"从事安装的人"
-        },
-        {
-            "name":"spam",
-            "zpy":"罐头猪肉"
-        },
-        {
-            "name":"partial",
-            "zpy":"部分的"
+            "zpy":"setter"
         },
         {
             "name":"element",
-            "zpy":"元件"
+            "zpy":"元素"
         },
         {
             "name":"read",
@@ -378,7 +354,7 @@
         },
         {
             "name":"fdel",
-            "zpy":"f▽"
+            "zpy":"f删除"
         },
         {
             "name":"arg2",
@@ -386,7 +362,7 @@
         },
         {
             "name":"_voltage",
-            "zpy":"电压"
+            "zpy":"_电压"
         },
         {
             "name":"arg1",
@@ -394,55 +370,43 @@
         },
         {
             "name":"async_iterable",
-            "zpy":"异步iterable"
+            "zpy":"异步可枚举"
         },
         {
             "name":"bases",
-            "zpy":"基础"
-        },
-        {
-            "name":"zip() argument 2 is longer than argument 1",
-            "zpy":"Zip()参数2比参数1长"
+            "zpy":"所有基础"
         },
         {
             "name":"elem",
-            "zpy":"伊特姆"
+            "zpy":"elem"
         },
         {
             "name":"flags",
-            "zpy":"标记旗帜(国旗的复数)"
+            "zpy":"所有标志"
         },
         {
             "name":"closefd",
-            "zpy":"fd"
+            "zpy":"关闭fd"
         },
         {
             "name":"item",
-            "zpy":"项目"
+            "zpy":"项"
         },
         {
             "name":"method",
             "zpy":"方法"
         },
         {
-            "name":"kwds",
-            "zpy":"千瓦ds"
-        },
-        {
-            "name":"block",
-            "zpy":"街区"
-        },
-        {
             "name":"opener",
-            "zpy":"开...的人"
+            "zpy":"开启器"
         },
         {
             "name":"mapping",
-            "zpy":"映射;变换;映象"
+            "zpy":"映射"
         },
         {
             "name":"objects",
-            "zpy":"目标;物体(对象的复数)"
+            "zpy":"所有对象"
         },
         {
             "name":"name",
@@ -462,19 +426,11 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"object",
-            "zpy":"物体"
-        },
-        {
-            "name":"O_RDONLY",
-            "zpy":"RDONLY阿"
-        },
-        {
-            "name":"Shape",
-            "zpy":"形状"
+            "zpy":"对象"
         },
         {
             "name":"newline",
@@ -482,11 +438,11 @@
         },
         {
             "name":"dict",
-            "zpy":"词典"
+            "zpy":"字典"
         },
         {
             "name":"fget",
-            "zpy":"f"
+            "zpy":"f获取"
         },
         {
             "name":"stop",
@@ -494,7 +450,7 @@
         },
         {
             "name":"seasons",
-            "zpy":"季节"
+            "zpy":"所有季节"
         }
     ]
 }

@@ -1,0 +1,1160 @@
+{
+    "name":"stdtypes",
+    "zpy":"内置类型",
+    "functions":[
+        {
+            "name":"endswith",
+            "zpy":"ends with"
+        },
+        {
+            "name":"iter(dictview)",
+            "zpy":"iter ( dictview )"
+        },
+        {
+            "name":"partition",
+            "zpy":"分割"
+        },
+        {
+            "name":"isidentifier",
+            "zpy":"is identifier"
+        },
+        {
+            "name":"difference_update",
+            "zpy":"difference update"
+        },
+        {
+            "name":"isalpha",
+            "zpy":"is alpha"
+        },
+        {
+            "name":"shape",
+            "zpy":"形状"
+        },
+        {
+            "name":"removeprefix",
+            "zpy":"remove prefix"
+        },
+        {
+            "name":"format",
+            "zpy":"开本"
+        },
+        {
+            "name":"fromhex",
+            "zpy":"from hex"
+        },
+        {
+            "name":"title",
+            "zpy":"头衔"
+        },
+        {
+            "name":"set >= other",
+            "zpy":"set    >=    other"
+        },
+        {
+            "name":"step",
+            "zpy":"步骤"
+        },
+        {
+            "name":"format_map",
+            "zpy":"format map"
+        },
+        {
+            "name":"__iter__",
+            "zpy":"iter"
+        },
+        {
+            "name":"x in dictview",
+            "zpy":"x     in     dictview"
+        },
+        {
+            "name":"d | other",
+            "zpy":"d    |    other"
+        },
+        {
+            "name":"__args__",
+            "zpy":"args"
+        },
+        {
+            "name":"zfill",
+            "zpy":"z fill"
+        },
+        {
+            "name":"list",
+            "zpy":"目录"
+        },
+        {
+            "name":"remove",
+            "zpy":"移动"
+        },
+        {
+            "name":"copy",
+            "zpy":"副本"
+        },
+        {
+            "name":"fromkeys",
+            "zpy":"from keys"
+        },
+        {
+            "name":"reversed(d)",
+            "zpy":"reversed ( d )"
+        },
+        {
+            "name":"d[key] = value",
+            "zpy":"d [ key ]   =    value"
+        },
+        {
+            "name":"__dict__",
+            "zpy":"dict"
+        },
+        {
+            "name":"__enter__",
+            "zpy":"enter"
+        },
+        {
+            "name":"__subclasses__",
+            "zpy":"subclasses"
+        },
+        {
+            "name":"set & other & ...",
+            "zpy":"set     &     other     &     . . ."
+        },
+        {
+            "name":"set ^= other",
+            "zpy":"set    ^=    other"
+        },
+        {
+            "name":"capitalize",
+            "zpy":"以大写字母写"
+        },
+        {
+            "name":"maketrans",
+            "zpy":"make trans"
+        },
+        {
+            "name":"splitlines",
+            "zpy":"split lines"
+        },
+        {
+            "name":"startswith",
+            "zpy":"starts with"
+        },
+        {
+            "name":"del d[key]",
+            "zpy":"del     d [ key ]"
+        },
+        {
+            "name":"T[X, Y, ...]",
+            "zpy":"T [ X     Y     . . . ]"
+        },
+        {
+            "name":"count",
+            "zpy":"计算"
+        },
+        {
+            "name":"rfind",
+            "zpy":"r find"
+        },
+        {
+            "name":"decode",
+            "zpy":"解码"
+        },
+        {
+            "name":"start",
+            "zpy":"惊起"
+        },
+        {
+            "name":"keys",
+            "zpy":"关键帧；（钢琴等的）键；密钥（key的复数）"
+        },
+        {
+            "name":"bytearray",
+            "zpy":"byte array"
+        },
+        {
+            "name":"islower",
+            "zpy":"判断是否小写字母"
+        },
+        {
+            "name":"ndim",
+            "zpy":"n dim"
+        },
+        {
+            "name":"set |= other | ...",
+            "zpy":"set    |=    other    |    . . ."
+        },
+        {
+            "name":"set -= other | ...",
+            "zpy":"set     =    other    |    . . ."
+        },
+        {
+            "name":"tobytes",
+            "zpy":"to bytes"
+        },
+        {
+            "name":"clear",
+            "zpy":"清楚的"
+        },
+        {
+            "name":"split",
+            "zpy":"劈开"
+        },
+        {
+            "name":"__eq__",
+            "zpy":"eq"
+        },
+        {
+            "name":"key not in d",
+            "zpy":"key     not     in     d"
+        },
+        {
+            "name":"len(dictview)",
+            "zpy":"len ( dictview )"
+        },
+        {
+            "name":"len(d)",
+            "zpy":"len ( d )"
+        },
+        {
+            "name":"__bases__",
+            "zpy":"bases"
+        },
+        {
+            "name":"bit_length",
+            "zpy":"bit length"
+        },
+        {
+            "name":"suboffsets",
+            "zpy":"sub offsets"
+        },
+        {
+            "name":"sort",
+            "zpy":"种类"
+        },
+        {
+            "name":"encode",
+            "zpy":"把(电文、情报等)译成密码"
+        },
+        {
+            "name":"range",
+            "zpy":"排"
+        },
+        {
+            "name":"isascii",
+            "zpy":"判断是否是ASCII字符"
+        },
+        {
+            "name":"__parameters__",
+            "zpy":"parameters"
+        },
+        {
+            "name":"isspace",
+            "zpy":"is space"
+        },
+        {
+            "name":"__name__",
+            "zpy":"name"
+        },
+        {
+            "name":"find",
+            "zpy":"发现"
+        },
+        {
+            "name":"rindex",
+            "zpy":"r index"
+        },
+        {
+            "name":"rjust",
+            "zpy":"r just"
+        },
+        {
+            "name":"itemsize",
+            "zpy":"item size"
+        },
+        {
+            "name":"reversed(dictview)",
+            "zpy":"reversed ( dictview )"
+        },
+        {
+            "name":"union",
+            "zpy":"联盟"
+        },
+        {
+            "name":"c_contiguous",
+            "zpy":"c contiguous"
+        },
+        {
+            "name":"isprintable",
+            "zpy":"is printable"
+        },
+        {
+            "name":"nbytes",
+            "zpy":"n bytes"
+        },
+        {
+            "name":"set - other - ...",
+            "zpy":"set         other         . . ."
+        },
+        {
+            "name":"symmetric_difference_update",
+            "zpy":"symmetric difference update"
+        },
+        {
+            "name":"tolist",
+            "zpy":"to list"
+        },
+        {
+            "name":"set <= other",
+            "zpy":"set    <=    other"
+        },
+        {
+            "name":"key in d",
+            "zpy":"key     in     d"
+        },
+        {
+            "name":"__exit__",
+            "zpy":"exit"
+        },
+        {
+            "name":"x not in s",
+            "zpy":"x     not     in     s"
+        },
+        {
+            "name":"bit_count",
+            "zpy":"bit count"
+        },
+        {
+            "name":"isdigit",
+            "zpy":"is digit"
+        },
+        {
+            "name":"lstrip",
+            "zpy":"l strip"
+        },
+        {
+            "name":"memoryview",
+            "zpy":"memory view"
+        },
+        {
+            "name":"symmetric_difference",
+            "zpy":"symmetric difference"
+        },
+        {
+            "name":"rsplit",
+            "zpy":"r split"
+        },
+        {
+            "name":"popitem",
+            "zpy":"pop item"
+        },
+        {
+            "name":"__qualname__",
+            "zpy":"qualname"
+        },
+        {
+            "name":"istitle",
+            "zpy":"is title"
+        },
+        {
+            "name":"set ^ other",
+            "zpy":"set    ^    other"
+        },
+        {
+            "name":"expandtabs",
+            "zpy":"expand tabs"
+        },
+        {
+            "name":"list(d)",
+            "zpy":"list ( d )"
+        },
+        {
+            "name":"frozenset",
+            "zpy":"frozen set"
+        },
+        {
+            "name":"readonly",
+            "zpy":"只读的"
+        },
+        {
+            "name":"is_integer",
+            "zpy":"is integer"
+        },
+        {
+            "name":"update",
+            "zpy":"更新"
+        },
+        {
+            "name":"isdecimal",
+            "zpy":"is decimal"
+        },
+        {
+            "name":"len(s)",
+            "zpy":"len ( s )"
+        },
+        {
+            "name":"index",
+            "zpy":"索引"
+        },
+        {
+            "name":"issubset",
+            "zpy":"is subset"
+        },
+        {
+            "name":"setdefault",
+            "zpy":"set default"
+        },
+        {
+            "name":"strides",
+            "zpy":"<非正><澳>裤子;大步(stride的名词复数);步法;步态;进展"
+        },
+        {
+            "name":"upper",
+            "zpy":"上面的"
+        },
+        {
+            "name":"iter(d)",
+            "zpy":"iter ( d )"
+        },
+        {
+            "name":"d |= other",
+            "zpy":"d    |=    other"
+        },
+        {
+            "name":"tuple",
+            "zpy":"元组"
+        },
+        {
+            "name":"casefold",
+            "zpy":"case fold"
+        },
+        {
+            "name":"isinstance(obj, union_object)",
+            "zpy":"isinstance ( obj     union object )"
+        },
+        {
+            "name":"join",
+            "zpy":"参加"
+        },
+        {
+            "name":"intersection_update",
+            "zpy":"intersection update"
+        },
+        {
+            "name":"values",
+            "zpy":"对价值的看法"
+        },
+        {
+            "name":"removesuffix",
+            "zpy":"remove suffix"
+        },
+        {
+            "name":"items",
+            "zpy":"项目；名目；所有物品（item的复数形式）"
+        },
+        {
+            "name":"__mro__",
+            "zpy":"mro"
+        },
+        {
+            "name":"__class__",
+            "zpy":"class"
+        },
+        {
+            "name":"rpartition",
+            "zpy":"r partition"
+        },
+        {
+            "name":"replace",
+            "zpy":"代替"
+        },
+        {
+            "name":"strip",
+            "zpy":"长条"
+        },
+        {
+            "name":"center",
+            "zpy":"中心"
+        },
+        {
+            "name":"translate",
+            "zpy":"翻译"
+        },
+        {
+            "name":"isdisjoint",
+            "zpy":"is disjoint"
+        },
+        {
+            "name":"rstrip",
+            "zpy":"r strip"
+        },
+        {
+            "name":"discard",
+            "zpy":"丢弃"
+        },
+        {
+            "name":"x in s",
+            "zpy":"x     in     s"
+        },
+        {
+            "name":"release",
+            "zpy":"释放"
+        },
+        {
+            "name":"as_integer_ratio",
+            "zpy":"as integer ratio"
+        },
+        {
+            "name":"swapcase",
+            "zpy":"swap case"
+        },
+        {
+            "name":"ljust",
+            "zpy":"l just"
+        },
+        {
+            "name":"contiguous",
+            "zpy":"邻近的"
+        },
+        {
+            "name":"X | Y | ...",
+            "zpy":"X    |    Y    |    . . ."
+        },
+        {
+            "name":"f_contiguous",
+            "zpy":"f contiguous"
+        },
+        {
+            "name":"dictview.mapping",
+            "zpy":"dictview . mapping"
+        },
+        {
+            "name":"cast",
+            "zpy":"演员阵容"
+        },
+        {
+            "name":"set | other | ...",
+            "zpy":"set    |    other    |    . . ."
+        },
+        {
+            "name":"__next__",
+            "zpy":"next"
+        },
+        {
+            "name":"bytes",
+            "zpy":"位元组"
+        },
+        {
+            "name":"difference",
+            "zpy":"不同"
+        },
+        {
+            "name":"isupper",
+            "zpy":"is upper"
+        },
+        {
+            "name":"union_object == other",
+            "zpy":"union object    ==    other"
+        },
+        {
+            "name":"issuperset",
+            "zpy":"is superset"
+        },
+        {
+            "name":"dict",
+            "zpy":"词典"
+        },
+        {
+            "name":"lower",
+            "zpy":"低的"
+        },
+        {
+            "name":"issubclass(obj, union_object)",
+            "zpy":"issubclass ( obj     union object )"
+        },
+        {
+            "name":"from_bytes",
+            "zpy":"from bytes"
+        },
+        {
+            "name":"d[key]",
+            "zpy":"d [ key ]"
+        },
+        {
+            "name":"stop",
+            "zpy":"停止"
+        },
+        {
+            "name":"toreadonly",
+            "zpy":"to read only"
+        },
+        {
+            "name":"set < other",
+            "zpy":"set    <    other"
+        },
+        {
+            "name":"isnumeric",
+            "zpy":"is numeric"
+        },
+        {
+            "name":"set > other",
+            "zpy":"set    >    other"
+        },
+        {
+            "name":"intersection",
+            "zpy":"交集"
+        },
+        {
+            "name":"__origin__",
+            "zpy":"origin"
+        },
+        {
+            "name":"to_bytes",
+            "zpy":"to bytes"
+        },
+        {
+            "name":"set &= other & ...",
+            "zpy":"set     & =    other     &     . . ."
+        },
+        {
+            "name":"isalnum",
+            "zpy":"is al num"
+        }
+    ],
+    "args":[
+        {
+            "name":"BEPoint",
+            "zpy":"点"
+        },
+        {
+            "name":"hash_info",
+            "zpy":"散列信息"
+        },
+        {
+            "name":"isinstance() argument 2 cannot contain a parameterized generic",
+            "zpy":"Isinstance()参数2不能包含参数化泛型"
+        },
+        {
+            "name":"append",
+            "zpy":"附加"
+        },
+        {
+            "name":"isidentifier",
+            "zpy":"标识符"
+        },
+        {
+            "name":"exc_type",
+            "zpy":"exc类型"
+        },
+        {
+            "name":"isalpha",
+            "zpy":"是α"
+        },
+        {
+            "name":"shape",
+            "zpy":"形状"
+        },
+        {
+            "name":"removeprefix",
+            "zpy":"删除前缀"
+        },
+        {
+            "name":"format",
+            "zpy":"开本"
+        },
+        {
+            "name":"real",
+            "zpy":"真的"
+        },
+        {
+            "name":"comment_string",
+            "zpy":"注释字符串"
+        },
+        {
+            "name":"integer",
+            "zpy":"完整的事物"
+        },
+        {
+            "name":"fromhex",
+            "zpy":"从十六进制"
+        },
+        {
+            "name":"isinstance() argument 2 cannot be a parameterized generic",
+            "zpy":"Isinstance()参数2不能是参数化泛型"
+        },
+        {
+            "name":"errors",
+            "zpy":"误差;错误;差错(错误的复数)"
+        },
+        {
+            "name":"title",
+            "zpy":"头衔"
+        },
+        {
+            "name":"format_map",
+            "zpy":"格式的地图"
+        },
+        {
+            "name":"encoding",
+            "zpy":"编码"
+        },
+        {
+            "name":"_fields_",
+            "zpy":"字段"
+        },
+        {
+            "name":"__args__",
+            "zpy":"参数"
+        },
+        {
+            "name":"zfill",
+            "zpy":"z填补"
+        },
+        {
+            "name":"There are no type variables left in dict[str]",
+            "zpy":"字典[str]中没有类型变量"
+        },
+        {
+            "name":"memoryview: invalid value for format \"B\"",
+            "zpy":"memoryview:格式“B”无效的值"
+        },
+        {
+            "name":"__subclasses__",
+            "zpy":"子类"
+        },
+        {
+            "name":"metaclass",
+            "zpy":"元类"
+        },
+        {
+            "name":"pack",
+            "zpy":"包裹"
+        },
+        {
+            "name":"splitlines",
+            "zpy":"分线"
+        },
+        {
+            "name":"length",
+            "zpy":"长度"
+        },
+        {
+            "name":"capitalize",
+            "zpy":"以大写字母写"
+        },
+        {
+            "name":"count",
+            "zpy":"计算"
+        },
+        {
+            "name":"tabsize",
+            "zpy":"标签大小"
+        },
+        {
+            "name":"other",
+            "zpy":"其他的"
+        },
+        {
+            "name":"keys",
+            "zpy":"关键帧;(钢琴等的)键;密钥(关键的复数)"
+        },
+        {
+            "name":"'method' object has no attribute 'whoami'",
+            "zpy":"' method '对象没有属性' whoami '"
+        },
+        {
+            "name":"islower",
+            "zpy":"判断是否小写字母"
+        },
+        {
+            "name":"hash_float",
+            "zpy":"散列浮动"
+        },
+        {
+            "name":"tobytes",
+            "zpy":"字节"
+        },
+        {
+            "name":"iterable",
+            "zpy":"嗯可以"
+        },
+        {
+            "name":"split",
+            "zpy":"劈开"
+        },
+        {
+            "name":"struct",
+            "zpy":"结构；结构体；创建构架数组"
+        },
+        {
+            "name":"args",
+            "zpy":"参数"
+        },
+        {
+            "name":"group",
+            "zpy":"团体"
+        },
+        {
+            "name":"byteorder",
+            "zpy":"字节顺序"
+        },
+        {
+            "name":"width",
+            "zpy":"宽度"
+        },
+        {
+            "name":"typing",
+            "zpy":"打字"
+        },
+        {
+            "name":"iskeyword",
+            "zpy":"关键字"
+        },
+        {
+            "name":"Optional",
+            "zpy":"可选择的"
+        },
+        {
+            "name":"bit_length",
+            "zpy":"位长度"
+        },
+        {
+            "name":"exc_tb",
+            "zpy":"exc结核病"
+        },
+        {
+            "name":"operation forbidden on released memoryview object",
+            "zpy":"禁止对已释放的memoryview对象进行操作"
+        },
+        {
+            "name":"__parameters__",
+            "zpy":"参数"
+        },
+        {
+            "name":"itemsize",
+            "zpy":"项目的大小"
+        },
+        {
+            "name":"math",
+            "zpy":"数学"
+        },
+        {
+            "name":"hash_value",
+            "zpy":"散列值"
+        },
+        {
+            "name":"value",
+            "zpy":"价值"
+        },
+        {
+            "name":"order",
+            "zpy":"次序"
+        },
+        {
+            "name":"keepends",
+            "zpy":"保持结束后"
+        },
+        {
+            "name":"exc_val",
+            "zpy":"exc val"
+        },
+        {
+            "name":"hash_fraction",
+            "zpy":"哈希分数"
+        },
+        {
+            "name":"number",
+            "zpy":"数"
+        },
+        {
+            "name":"nbytes",
+            "zpy":"n个字节"
+        },
+        {
+            "name":"tolist",
+            "zpy":"列表"
+        },
+        {
+            "name":"cannot create 'types.UnionType' instances",
+            "zpy":"不能创建类型。UnionType的实例"
+        },
+        {
+            "name":"bit_count",
+            "zpy":"数"
+        },
+        {
+            "name":"lstrip",
+            "zpy":"l地带"
+        },
+        {
+            "name":"kwargs",
+            "zpy":"k战争gs"
+        },
+        {
+            "name":"string",
+            "zpy":"线"
+        },
+        {
+            "name":"isdigit",
+            "zpy":"是数字"
+        },
+        {
+            "name":"exporter",
+            "zpy":"出口商"
+        },
+        {
+            "name":"array",
+            "zpy":"排列"
+        },
+        {
+            "name":"cannot modify read-only memory",
+            "zpy":"不能修改只读内存"
+        },
+        {
+            "name":"istitle",
+            "zpy":"是标题"
+        },
+        {
+            "name":"expandtabs",
+            "zpy":"扩大选项卡"
+        },
+        {
+            "name":"lists",
+            "zpy":"竞技场"
+        },
+        {
+            "name":"readonly",
+            "zpy":"只读的"
+        },
+        {
+            "name":"titlecase",
+            "zpy":"标题的情况下"
+        },
+        {
+            "name":"body",
+            "zpy":"身体"
+        },
+        {
+            "name":"data",
+            "zpy":"资料"
+        },
+        {
+            "name":"TypeVar",
+            "zpy":"类型的变量"
+        },
+        {
+            "name":"is_integer",
+            "zpy":"是整数"
+        },
+        {
+            "name":"UnionType",
+            "zpy":"联合类型"
+        },
+        {
+            "name":"imag",
+            "zpy":"复数虚部；图像放大"
+        },
+        {
+            "name":"Union",
+            "zpy":"联盟"
+        },
+        {
+            "name":"point",
+            "zpy":"点"
+        },
+        {
+            "name":"reverse",
+            "zpy":"相反"
+        },
+        {
+            "name":"c_long",
+            "zpy":"c长"
+        },
+        {
+            "name":"whoami",
+            "zpy":"显示本用户信息"
+        },
+        {
+            "name":"elem",
+            "zpy":"伊特姆"
+        },
+        {
+            "name":"fraction",
+            "zpy":"小部分"
+        },
+        {
+            "name":"index",
+            "zpy":"索引"
+        },
+        {
+            "name":"<module>",
+            "zpy":"> <模块"
+        },
+        {
+            "name":"memoryview assignment: lvalue and rvalue have different structures",
+            "zpy":"内存视图赋值:左值和右值有不同的结构"
+        },
+        {
+            "name":"exponent",
+            "zpy":"说明者"
+        },
+        {
+            "name":"upper",
+            "zpy":"上面的"
+        },
+        {
+            "name":"BigEndianStructure",
+            "zpy":"大端字节序结构"
+        },
+        {
+            "name":"method",
+            "zpy":"方法"
+        },
+        {
+            "name":"values",
+            "zpy":"对价值的看法"
+        },
+        {
+            "name":"removesuffix",
+            "zpy":"删除后缀"
+        },
+        {
+            "name":"items",
+            "zpy":"项目名目所有物品(项目的复数形式)"
+        },
+        {
+            "name":"calcsize",
+            "zpy":"calc大小"
+        },
+        {
+            "name":"mapping",
+            "zpy":"映射;变换;映象"
+        },
+        {
+            "name":"others",
+            "zpy":"其他人"
+        },
+        {
+            "name":"replace",
+            "zpy":"代替"
+        },
+        {
+            "name":"strip",
+            "zpy":"长条"
+        },
+        {
+            "name":"signed",
+            "zpy":"有符号的；有正负之分的；已签字的"
+        },
+        {
+            "name":"translate",
+            "zpy":"翻译"
+        },
+        {
+            "name":"name",
+            "zpy":"名字"
+        },
+        {
+            "name":"rstrip",
+            "zpy":"r地带"
+        },
+        {
+            "name":"sign",
+            "zpy":"符号"
+        },
+        {
+            "name":"release",
+            "zpy":"释放"
+        },
+        {
+            "name":"as_integer_ratio",
+            "zpy":"作为整数比"
+        },
+        {
+            "name":"swapcase",
+            "zpy":"交换的情况下"
+        },
+        {
+            "name":"object",
+            "zpy":"物体"
+        },
+        {
+            "name":"Counter",
+            "zpy":"计算器"
+        },
+        {
+            "name":"modulus",
+            "zpy":"标准"
+        },
+        {
+            "name":"cast",
+            "zpy":"演员阵容"
+        },
+        {
+            "name":"bytes",
+            "zpy":"位元组"
+        },
+        {
+            "name":"isnan",
+            "zpy":"南"
+        },
+        {
+            "name":"isupper",
+            "zpy":"上"
+        },
+        {
+            "name":"maxsplit",
+            "zpy":"马克斯分裂"
+        },
+        {
+            "name":"dishes",
+            "zpy":"餐具"
+        },
+        {
+            "name":"isinf",
+            "zpy":"在f"
+        },
+        {
+            "name":"lower",
+            "zpy":"低的"
+        },
+        {
+            "name":"from_bytes",
+            "zpy":"从字节"
+        },
+        {
+            "name":"stop",
+            "zpy":"停止"
+        },
+        {
+            "name":"toreadonly",
+            "zpy":"只读"
+        },
+        {
+            "name":"__origin__",
+            "zpy":"起源、"
+        },
+        {
+            "name":"types",
+            "zpy":"打字(类型的第三人称单数形式)"
+        },
+        {
+            "name":"table",
+            "zpy":"桌子"
+        },
+        {
+            "name":"to_bytes",
+            "zpy":"字节"
+        },
+        {
+            "name":"Default",
+            "zpy":"违约"
+        },
+        {
+            "name":"isalnum",
+            "zpy":"是al num"
+        },
+        {
+            "name":"three",
+            "zpy":"三"
+        }
+    ]
+}

@@ -6,16 +6,6 @@ from log import log
 
 def getLibs():
 
-    url = URL
-    r = requests.get(url)
-    r.encoding = r.apparent_encoding
-
-    log('Encoding: ' + r.encoding)
-    log('Status Code: ' + str(r.status_code))
-
-    response = r.text
-    html = Selector(text=response)
-
-    libs = html.xpath("//li[@class='toctree-l2']//a[@class='reference internal']/@href").getall()[22:]
+    libs = ['functions.html', 'constants.html', 'stdtypes.html', 'exceptions.html']
 
     return libs

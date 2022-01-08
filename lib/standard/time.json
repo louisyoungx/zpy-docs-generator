@@ -32,7 +32,7 @@
         },
         {
             "name":"pthread_getcpuclockid",
-            "zpy":"pthread getcpuclockid"
+            "zpy":"线程获取时钟号"
         },
         {
             "name":"time",
@@ -44,11 +44,11 @@
         },
         {
             "name":"ctime",
-            "zpy":"c的时间"
+            "zpy":"c时间"
         },
         {
             "name":"struct_time",
-            "zpy":"结构体"
+            "zpy":"结构时间"
         },
         {
             "name":"monotonic_ns",
@@ -108,7 +108,7 @@
         },
         {
             "name":"strftime",
-            "zpy":"str f时间"
+            "zpy":"strf时间"
         },
         {
             "name":"CLOCK_TAI",
@@ -202,15 +202,15 @@
         },
         {
             "name":"strftime",
-            "zpy":"str f时间"
+            "zpy":"strf时间"
         },
         {
             "name":"clk_id",
-            "zpy":"clk id"
+            "zpy":"clk_id"
         },
         {
             "name":"secs",
-            "zpy":"半导体设备通信标准(SEMIEquipmentCommunicationStandard)"
+            "zpy":"半导体设备通信标准"
         },
         {
             "name":"tzset",

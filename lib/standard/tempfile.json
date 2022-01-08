@@ -1,6 +1,6 @@
 {
     "name":"tempfile",
-    "zpy":null,
+    "zpy":"tempfile",
     "functions":[
         {
             "name":"glob",
@@ -18,11 +18,11 @@
     "args":[
         {
             "name":"root_dir",
-            "zpy":"root dir"
+            "zpy":"root_dir"
         },
         {
             "name":"dir_fd",
-            "zpy":"dir fd"
+            "zpy":"dir_fd"
         },
         {
             "name":"pathname",

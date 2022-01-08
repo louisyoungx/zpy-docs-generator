@@ -1,6 +1,6 @@
 {
     "name":"pyclbr",
-    "zpy":null,
+    "zpy":"pyclbr",
     "functions":[
         {
             "name":"parent",
@@ -32,11 +32,11 @@
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"readmodule_ex",
@@ -44,7 +44,7 @@
         },
         {
             "name":"super",
-            "zpy":"跑龙套角色"
+            "zpy":"超类"
         }
     ],
     "args":[

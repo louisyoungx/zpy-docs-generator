@@ -1,6 +1,6 @@
 {
     "name":"asynchat",
-    "zpy":null,
+    "zpy":"asynchat",
     "functions":[
         {
             "name":"discard_buffers",
@@ -8,7 +8,7 @@
         },
         {
             "name":"set_terminator",
-            "zpy":"《终结者》"
+            "zpy":"终结者"
         },
         {
             "name":"collect_incoming_data",
@@ -28,7 +28,7 @@
         },
         {
             "name":"found_terminator",
-            "zpy":"发现《终结者》"
+            "zpy":"发现终结者"
         },
         {
             "name":"push",
@@ -36,7 +36,7 @@
         },
         {
             "name":"get_terminator",
-            "zpy":"《终结者》"
+            "zpy":"终结者"
         },
         {
             "name":"ac_out_buffer_size",
@@ -58,15 +58,15 @@
         },
         {
             "name":"set_terminator",
-            "zpy":"《终结者》"
+            "zpy":"终结者"
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"parse",
@@ -78,7 +78,7 @@
         },
         {
             "name":"upper",
-            "zpy":"上面的"
+            "zpy":"大写"
         },
         {
             "name":"asynchat",
@@ -106,7 +106,7 @@
         },
         {
             "name":"headers",
-            "zpy":"标题(头的复数)"
+            "zpy":"标题"
         },
         {
             "name":"producer",
@@ -130,7 +130,7 @@
         },
         {
             "name":"sessions",
-            "zpy":"会议;会期(会话的复数)"
+            "zpy":"会议"
         },
         {
             "name":"obuffer",
@@ -138,7 +138,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "name":"ftplib",
-    "zpy":null,
+    "zpy":"ftplib",
     "functions":[
         {
             "name":"quit",
@@ -96,7 +96,7 @@
         },
         {
             "name":"login",
-            "zpy":"注册(程序)"
+            "zpy":"注册"
         },
         {
             "name":"retrlines",
@@ -104,11 +104,11 @@
         },
         {
             "name":"ntransfercmd",
-            "zpy":"N转移cm d"
+            "zpy":"N转移cmd"
         },
         {
             "name":"FTP_TLS",
-            "zpy":"FTP TLS"
+            "zpy":"FTP_TLS"
         },
         {
             "name":"error_perm",
@@ -120,7 +120,7 @@
         },
         {
             "name":"auth",
-            "zpy":"自生的(真实的);授权的(授权)"
+            "zpy":"自生的"
         },
         {
             "name":"getwelcome",
@@ -146,7 +146,7 @@
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"port",
@@ -166,7 +166,7 @@
         },
         {
             "name":"passwd",
-            "zpy":"口令(密码)"
+            "zpy":"口令"
         },
         {
             "name":"context",
@@ -174,7 +174,7 @@
         },
         {
             "name":"facts",
-            "zpy":"设备管理控制与时间调度程序;FacilitiesAdministrationControlandTimeSchedule"
+            "zpy":"设备管理控制与时间调度程序"
         },
         {
             "name":"user",
@@ -202,7 +202,7 @@
         },
         {
             "name":"acct",
-            "zpy":"美国挑战性课程技术协会(AssociationforChallengeCourseTechnology);帐目(账户)"
+            "zpy":"美国挑战性课程技术协会"
         },
         {
             "name":"ftps",
@@ -218,7 +218,7 @@
         },
         {
             "name":"login",
-            "zpy":"注册(程序)"
+            "zpy":"注册"
         },
         {
             "name":"retrlines",
@@ -226,7 +226,7 @@
         },
         {
             "name":"FTP_TLS",
-            "zpy":"FTP TLS"
+            "zpy":"FTP_TLS"
         },
         {
             "name":"filename",
@@ -242,7 +242,7 @@
         },
         {
             "name":"toname",
-            "zpy":"(区别同姓同名用的)别名"
+            "zpy":"别名"
         },
         {
             "name":"write",

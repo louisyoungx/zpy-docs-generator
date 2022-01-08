@@ -1,6 +1,6 @@
 {
     "name":"tkinter.simpledialog",
-    "zpy":null,
+    "zpy":"tkinter.simpledialog",
     "functions":[
         {
             "name":"quit",
@@ -52,7 +52,7 @@
         },
         {
             "name":"body",
-            "zpy":"身体"
+            "zpy":"躯干"
         },
         {
             "name":"set_selection",
@@ -120,7 +120,7 @@
         },
         {
             "name":"asksaveasfilename",
-            "zpy":"询问save as filename"
+            "zpy":"询问saveasfilename"
         },
         {
             "name":"askfloat",
@@ -154,11 +154,11 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"options",
-            "zpy":"选择期权;选择项(选项的复数)"
+            "zpy":"选择期权"
         },
         {
             "name":"event",
@@ -178,11 +178,11 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"title",
-            "zpy":"头衔"
+            "zpy":"标题"
         }
     ]
 }

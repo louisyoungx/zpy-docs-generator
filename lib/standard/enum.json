@@ -78,7 +78,7 @@
         },
         {
             "name":"Perm",
-            "zpy":"电烫(发)"
+            "zpy":"电烫"
         },
         {
             "name":"FieldTypes",
@@ -94,7 +94,7 @@
         },
         {
             "name":"loads",
-            "zpy":"货载量；负载"
+            "zpy":"货载量"
         },
         {
             "name":"unit",
@@ -114,7 +114,7 @@
         },
         {
             "name":"class",
-            "zpy":"班级"
+            "zpy":"类"
         },
         {
             "name":"DIAMOND",
@@ -130,7 +130,7 @@
         },
         {
             "name":"DuplicateFreeEnum",
-            "zpy":"复制免费E num"
+            "zpy":"复制免费Enum"
         },
         {
             "name":"shake",
@@ -138,11 +138,11 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"aliases not allowed in DuplicateFreeEnum:  'GRENE' --> 'GREEN'",
-            "zpy":"别名不允许在DuplicateFreeEnum: ' GRENE ' > ' GREEN '"
+            "zpy":"别名不允许在DuplicateFreeEnumGRENEGREEN"
         },
         {
             "name":"favorite_mood",
@@ -150,7 +150,7 @@
         },
         {
             "name":"Coordinate",
-            "zpy":"同等的人(或物)"
+            "zpy":"同等的人"
         },
         {
             "name":"Enum",
@@ -170,7 +170,7 @@
         },
         {
             "name":"apples",
-            "zpy":"苹果（复数）；井架小零件"
+            "zpy":"苹果复数"
         },
         {
             "name":"FOUR",
@@ -182,7 +182,7 @@
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"HAPPY",
@@ -194,7 +194,7 @@
         },
         {
             "name":"VENUS",
-            "zpy":"维纳斯(爱与美的女神)"
+            "zpy":"维纳斯"
         },
         {
             "name":"Shake",
@@ -206,7 +206,7 @@
         },
         {
             "name":"<module>",
-            "zpy":"> <模块"
+            "zpy":"模块"
         },
         {
             "name":"mass",
@@ -218,7 +218,7 @@
         },
         {
             "name":"dumps",
-            "zpy":"忧郁；废物"
+            "zpy":"忧郁"
         },
         {
             "name":"MERCURY",
@@ -226,7 +226,7 @@
         },
         {
             "name":"BLEACHED_CORAL",
-            "zpy":"白珊瑚、"
+            "zpy":"白珊瑚"
         },
         {
             "name":"GRENE",
@@ -242,7 +242,7 @@
         },
         {
             "name":"'<' not supported between instances of 'Color' and 'Color'",
-            "zpy":"'<'在' Color '和' Color '之间不支持"
+            "zpy":"在Color和Color之间不支持"
         },
         {
             "name":"AUBURN",
@@ -262,7 +262,7 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"radius",
@@ -270,11 +270,11 @@
         },
         {
             "name":"JUPITER",
-            "zpy":"朱庇物(罗马神话中的主神)"
+            "zpy":"朱庇物"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"module",
@@ -286,7 +286,7 @@
         },
         {
             "name":"duplicate values found in <enum 'Mistake'>: FOUR -> THREE",
-            "zpy":"在< enum ' error '中发现重复值>:FOUR > THREE"
+            "zpy":"在enumerror中发现重复值FOURTHREE"
         },
         {
             "name":"IntEnum",
@@ -326,7 +326,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"surface_gravity",
@@ -334,7 +334,7 @@
         },
         {
             "name":"items",
-            "zpy":"项目名目所有物品(项目的复数形式)"
+            "zpy":"所有项"
         },
         {
             "name":"URANUS",
@@ -350,11 +350,11 @@
         },
         {
             "name":"MoreColor: cannot extend enumeration 'Color'",
-            "zpy":"不能扩展枚举' Color '"
+            "zpy":"不能扩展枚举Color"
         },
         {
             "name":"OrderedEnum",
-            "zpy":"命令E num"
+            "zpy":"命令Enum"
         },
         {
             "name":"mixed",
@@ -366,7 +366,7 @@
         },
         {
             "name":"names",
-            "zpy":"名字;名望(名称的复数形式)"
+            "zpy":"名字"
         },
         {
             "name":"CIRCLE",
@@ -374,7 +374,7 @@
         },
         {
             "name":"Attempted to reuse key: 'SQUARE'",
-            "zpy":"试图重用键:' SQUARE '"
+            "zpy":"试图重用键SQUARE"
         },
         {
             "name":"_order_",

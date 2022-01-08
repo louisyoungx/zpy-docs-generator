@@ -4,7 +4,7 @@
     "functions":[
         {
             "name":"getpgrp",
-            "zpy":"得到p grp"
+            "zpy":"得到pgrp"
         },
         {
             "name":"O_EXLOCK",
@@ -44,7 +44,7 @@
         },
         {
             "name":"execv",
-            "zpy":"exec v"
+            "zpy":"execv"
         },
         {
             "name":"sched_get_priority_max",
@@ -52,7 +52,7 @@
         },
         {
             "name":"execl",
-            "zpy":"exec l"
+            "zpy":"execl"
         },
         {
             "name":"O_SYMLINK",
@@ -64,11 +64,11 @@
         },
         {
             "name":"waitstatus_to_exitcode",
-            "zpy":"waitstatus exitcode"
+            "zpy":"waitstatus_to_exitcode"
         },
         {
             "name":"XATTR_CREATE",
-            "zpy":"XATTR创建、"
+            "zpy":"XATTR创建"
         },
         {
             "name":"truncate",
@@ -84,7 +84,7 @@
         },
         {
             "name":"RTLD_DEEPBIND",
-            "zpy":"RTLD DEEPBIND"
+            "zpy":"RTLD_DEEPBIND"
         },
         {
             "name":"fdopen",
@@ -92,15 +92,15 @@
         },
         {
             "name":"setregid",
-            "zpy":"设置regi d"
+            "zpy":"设置regid"
         },
         {
             "name":"P_PIDFD",
-            "zpy":"P PIDFD"
+            "zpy":"P_PIDFD"
         },
         {
             "name":"fchown",
-            "zpy":"fc n如何"
+            "zpy":"fcn如何"
         },
         {
             "name":"confstr_names",
@@ -112,7 +112,7 @@
         },
         {
             "name":"setpgrp",
-            "zpy":"集p grp"
+            "zpy":"集pgrp"
         },
         {
             "name":"O_FSYNC",
@@ -132,11 +132,11 @@
         },
         {
             "name":"getpgid",
-            "zpy":"得到p gid"
+            "zpy":"得到pgid"
         },
         {
             "name":"unlink",
-            "zpy":"拆开(链环)"
+            "zpy":"拆开"
         },
         {
             "name":"abort",
@@ -144,11 +144,11 @@
         },
         {
             "name":"P_PGID",
-            "zpy":"P PGID"
+            "zpy":"P_PGID"
         },
         {
             "name":"sched_getaffinity",
-            "zpy":"sched getaffinity"
+            "zpy":"sched_getaffinity"
         },
         {
             "name":"fork",
@@ -164,11 +164,11 @@
         },
         {
             "name":"SPLICE_F_NONBLOCK",
-            "zpy":"拼接F NONBLOCK"
+            "zpy":"拼接FNONBLOCK"
         },
         {
             "name":"MFD_HUGE_2GB",
-            "zpy":"显示巨大的2 gb"
+            "zpy":"显示巨大的2gb"
         },
         {
             "name":"O_SHORT_LIVED",
@@ -184,7 +184,7 @@
         },
         {
             "name":"POSIX_FADV_NOREUSE",
-            "zpy":"POSIX FADV NOREUSE"
+            "zpy":"POSIX_FADV_NOREUSE"
         },
         {
             "name":"sendfile",
@@ -204,7 +204,7 @@
         },
         {
             "name":"POSIX_FADV_WILLNEED",
-            "zpy":"POSIX FADV随后"
+            "zpy":"POSIXFADV随后"
         },
         {
             "name":"stat_result",
@@ -220,7 +220,7 @@
         },
         {
             "name":"P_ALL",
-            "zpy":"P"
+            "zpy":"P_ALL"
         },
         {
             "name":"setgroups",
@@ -308,7 +308,7 @@
         },
         {
             "name":"setresuid",
-            "zpy":"Set re sui d"
+            "zpy":"setresuid"
         },
         {
             "name":"RWF_APPEND",
@@ -336,7 +336,7 @@
         },
         {
             "name":"MFD_HUGE_1GB",
-            "zpy":"显示巨大的1 gb"
+            "zpy":"显示巨大的1gb"
         },
         {
             "name":"P_DETACH",
@@ -364,7 +364,7 @@
         },
         {
             "name":"POSIX_FADV_RANDOM",
-            "zpy":"POSIX FADV随机的"
+            "zpy":"POSIXFADV随机的"
         },
         {
             "name":"columns",
@@ -372,7 +372,7 @@
         },
         {
             "name":"sched_setscheduler",
-            "zpy":"sched setscheduler"
+            "zpy":"sched_setscheduler"
         },
         {
             "name":"lockf",
@@ -380,7 +380,7 @@
         },
         {
             "name":"fstatvfs",
-            "zpy":"F统计vf s"
+            "zpy":"F统计vfs"
         },
         {
             "name":"CLD_STOPPED",
@@ -388,7 +388,7 @@
         },
         {
             "name":"fchdir",
-            "zpy":"f ch dir"
+            "zpy":"fchdir"
         },
         {
             "name":"plock",
@@ -400,7 +400,7 @@
         },
         {
             "name":"execve",
-            "zpy":"exec ve、"
+            "zpy":"execve"
         },
         {
             "name":"XATTR_SIZE_MAX",
@@ -416,7 +416,7 @@
         },
         {
             "name":"statvfs",
-            "zpy":"stat vf年代"
+            "zpy":"statvf年代"
         },
         {
             "name":"writev",
@@ -436,7 +436,7 @@
         },
         {
             "name":"linesep",
-            "zpy":"9月"
+            "zpy":"linesep"
         },
         {
             "name":"st_creator",
@@ -448,7 +448,7 @@
         },
         {
             "name":"POSIX_SPAWN_DUP2",
-            "zpy":"POSIX DUP2产卵"
+            "zpy":"POSIXDUP2产卵"
         },
         {
             "name":"XATTR_REPLACE",
@@ -468,7 +468,7 @@
         },
         {
             "name":"EFD_NONBLOCK",
-            "zpy":"使用EFD NONBLOCK"
+            "zpy":"使用EFDNONBLOCK"
         },
         {
             "name":"get_exec_path",
@@ -476,11 +476,11 @@
         },
         {
             "name":"pathsep",
-            "zpy":"9月"
+            "zpy":"pathsep"
         },
         {
             "name":"POSIX_FADV_DONTNEED",
-            "zpy":"POSIX FADV DONTNEED"
+            "zpy":"POSIX_FADV_DONTNEED"
         },
         {
             "name":"seteuid",
@@ -496,7 +496,7 @@
         },
         {
             "name":"setuid",
-            "zpy":"集u id"
+            "zpy":"集uid"
         },
         {
             "name":"O_NOCTTY",
@@ -504,11 +504,11 @@
         },
         {
             "name":"F_TLOCK",
-            "zpy":"F TLOCK"
+            "zpy":"F_TLOCK"
         },
         {
             "name":"chdir",
-            "zpy":"DOS内部命令:显示或改变当前目录"
+            "zpy":"DOS内部命令显示或改变当前目录"
         },
         {
             "name":"device_encoding",
@@ -524,7 +524,7 @@
         },
         {
             "name":"lchown",
-            "zpy":"l ch"
+            "zpy":"lchown"
         },
         {
             "name":"WNOWAIT",
@@ -532,7 +532,7 @@
         },
         {
             "name":"__fspath__",
-            "zpy":"fspath"
+            "zpy":"__fspath__"
         },
         {
             "name":"EX_NOPERM",
@@ -584,7 +584,7 @@
         },
         {
             "name":"MFD_HUGE_16MB",
-            "zpy":"显示巨大的16 mb"
+            "zpy":"显示巨大的16mb"
         },
         {
             "name":"SCHED_BATCH",
@@ -596,7 +596,7 @@
         },
         {
             "name":"RWF_NOWAIT",
-            "zpy":"RWF NOWAIT"
+            "zpy":"RWF_NOWAIT"
         },
         {
             "name":"supports_fd",
@@ -612,7 +612,7 @@
         },
         {
             "name":"curdir",
-            "zpy":"豆腐红外光谱、"
+            "zpy":"豆腐红外光谱"
         },
         {
             "name":"fstat",
@@ -620,11 +620,11 @@
         },
         {
             "name":"MFD_HUGE_512KB",
-            "zpy":"显示巨大的512 kb"
+            "zpy":"显示巨大的512kb"
         },
         {
             "name":"tcsetpgrp",
-            "zpy":"set p grp"
+            "zpy":"tcsetpgrp"
         },
         {
             "name":"getcwdb",
@@ -632,7 +632,7 @@
         },
         {
             "name":"rmdir",
-            "zpy":"DOS内部命令:该命令用于删除磁盘中的空白子目录"
+            "zpy":"DOS内部命令该命令用于删除磁盘中的空白子目录"
         },
         {
             "name":"get_inheritable",
@@ -648,11 +648,11 @@
         },
         {
             "name":"sched_getparam",
-            "zpy":"sched getparam"
+            "zpy":"sched_getparam"
         },
         {
             "name":"setresgid",
-            "zpy":"res gid"
+            "zpy":"setresgid"
         },
         {
             "name":"CLD_CONTINUED",
@@ -668,7 +668,7 @@
         },
         {
             "name":"RWF_DSYNC",
-            "zpy":"RWF DSYNC"
+            "zpy":"RWF_DSYNC"
         },
         {
             "name":"EX_UNAVAILABLE",
@@ -680,7 +680,7 @@
         },
         {
             "name":"lchmod",
-            "zpy":"l ch mod"
+            "zpy":"lchmod"
         },
         {
             "name":"name",
@@ -720,7 +720,7 @@
         },
         {
             "name":"POSIX_FADV_NORMAL",
-            "zpy":"POSIX FADV正常"
+            "zpy":"POSIXFADV正常"
         },
         {
             "name":"O_NOFOLLOW",
@@ -728,15 +728,15 @@
         },
         {
             "name":"altsep",
-            "zpy":"alt 9月"
+            "zpy":"alt9月"
         },
         {
             "name":"RTLD_NODELETE",
-            "zpy":"RTLD NODELETE"
+            "zpy":"RTLD_NODELETE"
         },
         {
             "name":"getegid",
-            "zpy":"得到e gid"
+            "zpy":"得到egid"
         },
         {
             "name":"WIFSTOPPED",
@@ -764,7 +764,7 @@
         },
         {
             "name":"scandir",
-            "zpy":"candir"
+            "zpy":"scandir"
         },
         {
             "name":"waitid",
@@ -780,7 +780,7 @@
         },
         {
             "name":"sched_getscheduler",
-            "zpy":"sched getscheduler"
+            "zpy":"sched_getscheduler"
         },
         {
             "name":"mkfifo",
@@ -792,7 +792,7 @@
         },
         {
             "name":"MFD_HUGE_1MB",
-            "zpy":"显示巨大的1 mb"
+            "zpy":"显示巨大的1mb"
         },
         {
             "name":"F_TEST",
@@ -800,7 +800,7 @@
         },
         {
             "name":"sched_setparam",
-            "zpy":"sched setparam"
+            "zpy":"sched_setparam"
         },
         {
             "name":"popen",
@@ -852,7 +852,7 @@
         },
         {
             "name":"getresgid",
-            "zpy":"res gid"
+            "zpy":"getresgid"
         },
         {
             "name":"cpu_count",
@@ -864,7 +864,7 @@
         },
         {
             "name":"posix_fadvise",
-            "zpy":"posix fadvise"
+            "zpy":"posix_fadvise"
         },
         {
             "name":"symlink",
@@ -872,7 +872,7 @@
         },
         {
             "name":"EFD_CLOEXEC",
-            "zpy":"使用EFD CLOEXEC"
+            "zpy":"使用EFDCLOEXEC"
         },
         {
             "name":"ctermid",
@@ -880,7 +880,7 @@
         },
         {
             "name":"setgid",
-            "zpy":"gid"
+            "zpy":"setgid"
         },
         {
             "name":"W_OK",
@@ -904,7 +904,7 @@
         },
         {
             "name":"MFD_HUGE_8MB",
-            "zpy":"显示巨大的8 mb"
+            "zpy":"显示巨大的8mb"
         },
         {
             "name":"confstr",
@@ -916,7 +916,7 @@
         },
         {
             "name":"MFD_HUGE_256MB",
-            "zpy":"显示巨大的256 mb"
+            "zpy":"显示巨大的256mb"
         },
         {
             "name":"EX_IOERR",
@@ -924,7 +924,7 @@
         },
         {
             "name":"MFD_HUGE_512MB",
-            "zpy":"显示巨大的512 mb"
+            "zpy":"显示巨大的512mb"
         },
         {
             "name":"getpriority",
@@ -944,19 +944,19 @@
         },
         {
             "name":"pwritev",
-            "zpy":"p v写"
+            "zpy":"pv写"
         },
         {
             "name":"supports_dir_fd",
-            "zpy":"支持dir fd"
+            "zpy":"支持dirfd"
         },
         {
             "name":"P_NOWAIT",
-            "zpy":"P NOWAIT"
+            "zpy":"P_NOWAIT"
         },
         {
             "name":"spawnve",
-            "zpy":"产卵ve、"
+            "zpy":"产卵ve"
         },
         {
             "name":"O_TEMPORARY",
@@ -988,7 +988,7 @@
         },
         {
             "name":"setegid",
-            "zpy":"集e gid"
+            "zpy":"集egid"
         },
         {
             "name":"forkpty",
@@ -1020,11 +1020,11 @@
         },
         {
             "name":"getloadavg",
-            "zpy":"得到负载avg、"
+            "zpy":"得到负载avg"
         },
         {
             "name":"execvp",
-            "zpy":"exe cvp"
+            "zpy":"execvp"
         },
         {
             "name":"is_symlink",
@@ -1032,7 +1032,7 @@
         },
         {
             "name":"execlp",
-            "zpy":"exec lp"
+            "zpy":"execlp"
         },
         {
             "name":"write",
@@ -1048,7 +1048,7 @@
         },
         {
             "name":"MFD_HUGE_16GB",
-            "zpy":"显示巨大的16 gb"
+            "zpy":"显示巨大的16gb"
         },
         {
             "name":"WCONTINUED",
@@ -1072,7 +1072,7 @@
         },
         {
             "name":"P_PID",
-            "zpy":"P PID"
+            "zpy":"P_PID"
         },
         {
             "name":"EX_OK",
@@ -1092,7 +1092,7 @@
         },
         {
             "name":"getppid",
-            "zpy":"ppi d"
+            "zpy":"getppid"
         },
         {
             "name":"O_DIRECTORY",
@@ -1104,7 +1104,7 @@
         },
         {
             "name":"getgid",
-            "zpy":"gid"
+            "zpy":"getgid"
         },
         {
             "name":"readv",
@@ -1120,11 +1120,11 @@
         },
         {
             "name":"posix_spawnp",
-            "zpy":"posix spawnp"
+            "zpy":"posix_spawnp"
         },
         {
             "name":"listxattr",
-            "zpy":"List x at tr"
+            "zpy":"listxattr"
         },
         {
             "name":"get_handle_inheritable",
@@ -1156,7 +1156,7 @@
         },
         {
             "name":"SCHED_FIFO",
-            "zpy":"SCHED FIFO"
+            "zpy":"SCHED_FIFO"
         },
         {
             "name":"EX_NOINPUT",
@@ -1168,15 +1168,15 @@
         },
         {
             "name":"lchflags",
-            "zpy":"l ch旗帜"
+            "zpy":"lch旗帜"
         },
         {
             "name":"MFD_HUGE_2MB",
-            "zpy":"显示巨大的2 mb"
+            "zpy":"显示巨大的2mb"
         },
         {
             "name":"RTLD_LOCAL",
-            "zpy":"RTLD地方、"
+            "zpy":"RTLD地方"
         },
         {
             "name":"SPLICE_F_MORE",
@@ -1192,7 +1192,7 @@
         },
         {
             "name":"renames",
-            "zpy":"给……重新取的名"
+            "zpy":"给重新取的名"
         },
         {
             "name":"setpriority",
@@ -1224,19 +1224,19 @@
         },
         {
             "name":"environb",
-            "zpy":"En v iron b"
+            "zpy":"environb"
         },
         {
             "name":"getuid",
-            "zpy":"u id"
+            "zpy":"getuid"
         },
         {
             "name":"extsep",
-            "zpy":"ext 9月"
+            "zpy":"ext9月"
         },
         {
             "name":"mkdir",
-            "zpy":"DOS内部命令:该命令用于在软盘或硬盘上建立新的子目录"
+            "zpy":"DOS内部命令该命令用于在软盘或硬盘上建立新的子目录"
         },
         {
             "name":"EX_USAGE",
@@ -1244,7 +1244,7 @@
         },
         {
             "name":"setpgid",
-            "zpy":"集p gid"
+            "zpy":"集pgid"
         },
         {
             "name":"SPLICE_F_MOVE",
@@ -1256,11 +1256,11 @@
         },
         {
             "name":"F_ULOCK",
-            "zpy":"F ULOCK"
+            "zpy":"F_ULOCK"
         },
         {
             "name":"memfd_create",
-            "zpy":"memfd创建、"
+            "zpy":"memfd创建"
         },
         {
             "name":"eventfd",
@@ -1284,7 +1284,7 @@
         },
         {
             "name":"sched_rr_get_interval",
-            "zpy":"Sched rr get interval"
+            "zpy":"sched_rr_get_interval"
         },
         {
             "name":"times",
@@ -1292,7 +1292,7 @@
         },
         {
             "name":"replace",
-            "zpy":"代替"
+            "zpy":"替换"
         },
         {
             "name":"fsync",
@@ -1304,7 +1304,7 @@
         },
         {
             "name":"sched_setaffinity",
-            "zpy":"sched setaffinity"
+            "zpy":"sched_setaffinity"
         },
         {
             "name":"setsid",
@@ -1328,7 +1328,7 @@
         },
         {
             "name":"isatty",
-            "zpy":"atty"
+            "zpy":"isatty"
         },
         {
             "name":"EX_NOUSER",
@@ -1336,11 +1336,11 @@
         },
         {
             "name":"POSIX_FADV_SEQUENTIAL",
-            "zpy":"POSIX FADV顺序"
+            "zpy":"POSIXFADV顺序"
         },
         {
             "name":"MFD_HUGE_64KB",
-            "zpy":"显示巨大的64 kb"
+            "zpy":"显示巨大的64kb"
         },
         {
             "name":"splice",
@@ -1360,7 +1360,7 @@
         },
         {
             "name":"chown",
-            "zpy":"ch"
+            "zpy":"chown"
         },
         {
             "name":"O_APPEND",
@@ -1384,11 +1384,11 @@
         },
         {
             "name":"st_ctime_ns",
-            "zpy":"圣ctime ns"
+            "zpy":"圣ctimens"
         },
         {
             "name":"spawnlpe",
-            "zpy":"产卵lp e"
+            "zpy":"产卵lpe"
         },
         {
             "name":"O_ASYNC",
@@ -1428,7 +1428,7 @@
         },
         {
             "name":"P_NOWAITO",
-            "zpy":"P NOWAITO"
+            "zpy":"P_NOWAITO"
         },
         {
             "name":"removedirs",
@@ -1460,7 +1460,7 @@
         },
         {
             "name":"posix_fallocate",
-            "zpy":"posix fallocate"
+            "zpy":"posix_fallocate"
         },
         {
             "name":"rename",
@@ -1468,7 +1468,7 @@
         },
         {
             "name":"st_mtime_ns",
-            "zpy":"圣mtime ns"
+            "zpy":"圣mtimens"
         },
         {
             "name":"fdatasync",
@@ -1496,7 +1496,7 @@
         },
         {
             "name":"MFD_HUGE_32MB",
-            "zpy":"显示巨大的32 mb"
+            "zpy":"显示巨大的32mb"
         },
         {
             "name":"eventfd_write",
@@ -1508,7 +1508,7 @@
         },
         {
             "name":"is_dir",
-            "zpy":"dir"
+            "zpy":"is_dir"
         },
         {
             "name":"EX_OSERR",
@@ -1516,11 +1516,11 @@
         },
         {
             "name":"st_atime_ns",
-            "zpy":"圣atime ns"
+            "zpy":"圣atimens"
         },
         {
             "name":"SCHED_RR",
-            "zpy":"SCHED RR"
+            "zpy":"SCHED_RR"
         },
         {
             "name":"pardir",
@@ -1528,7 +1528,7 @@
         },
         {
             "name":"fchmod",
-            "zpy":"f ch mod"
+            "zpy":"fchmod"
         },
         {
             "name":"O_TMPFILE",
@@ -1548,7 +1548,7 @@
         },
         {
             "name":"execvpe",
-            "zpy":"exe cvp e、"
+            "zpy":"execvpe"
         },
         {
             "name":"F_OK",
@@ -1568,7 +1568,7 @@
         },
         {
             "name":"RWF_HIPRI",
-            "zpy":"RWF HIPRI"
+            "zpy":"RWF_HIPRI"
         },
         {
             "name":"PRIO_PGRP",
@@ -1580,7 +1580,7 @@
         },
         {
             "name":"execlpe",
-            "zpy":"exec lp e"
+            "zpy":"execlpe"
         },
         {
             "name":"sched_priority",
@@ -1592,7 +1592,7 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"st_ino",
@@ -1614,11 +1614,11 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"command",
@@ -1626,7 +1626,7 @@
         },
         {
             "name":"ruid",
-            "zpy":"鲁伊·d"
+            "zpy":"鲁伊d"
         },
         {
             "name":"stat",
@@ -1634,7 +1634,7 @@
         },
         {
             "name":"argv",
-            "zpy":"arg v"
+            "zpy":"argv"
         },
         {
             "name":"spawnvpe",
@@ -1654,7 +1654,7 @@
         },
         {
             "name":"dst_dir_fd",
-            "zpy":"dst dir fd"
+            "zpy":"dst_dir_fd"
         },
         {
             "name":"major",
@@ -1670,7 +1670,7 @@
         },
         {
             "name":"before",
-            "zpy":"在...之前"
+            "zpy":"在之前"
         },
         {
             "name":"st_size",
@@ -1690,7 +1690,7 @@
         },
         {
             "name":"startswith",
-            "zpy":"首先"
+            "zpy":"开始随着"
         },
         {
             "name":"is_file",
@@ -1702,11 +1702,11 @@
         },
         {
             "name":"pgrp",
-            "zpy":"p grp"
+            "zpy":"pgrp"
         },
         {
             "name":"rgid",
-            "zpy":"r gid"
+            "zpy":"rgid"
         },
         {
             "name":"advice",
@@ -1714,19 +1714,19 @@
         },
         {
             "name":"group",
-            "zpy":"团体"
+            "zpy":"群"
         },
         {
             "name":"chdir",
-            "zpy":"DOS内部命令:显示或改变当前目录"
+            "zpy":"DOS内部命令显示或改变当前目录"
         },
         {
             "name":"sgid",
-            "zpy":"gid"
+            "zpy":"sgid"
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"fwalk",
@@ -1746,7 +1746,7 @@
         },
         {
             "name":"supports_dir_fd",
-            "zpy":"支持dir fd"
+            "zpy":"支持dirfd"
         },
         {
             "name":"close",
@@ -1754,7 +1754,7 @@
         },
         {
             "name":"unlink",
-            "zpy":"拆开(链环)"
+            "zpy":"拆开"
         },
         {
             "name":"status",
@@ -1782,11 +1782,11 @@
         },
         {
             "name":"out_fd",
-            "zpy":"fd"
+            "zpy":"out_fd"
         },
         {
             "name":"dir_fd",
-            "zpy":"dir fd"
+            "zpy":"dir_fd"
         },
         {
             "name":"supports_fd",
@@ -1838,11 +1838,11 @@
         },
         {
             "name":"rmdir",
-            "zpy":"DOS内部命令:该命令用于删除磁盘中的空白子目录"
+            "zpy":"DOS内部命令该命令用于删除磁盘中的空白子目录"
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"increment",
@@ -1866,7 +1866,7 @@
         },
         {
             "name":"trailers",
-            "zpy":"篇身片;追踪者;拖车(预告片的复数形式)"
+            "zpy":"篇身片"
         },
         {
             "name":"setpgroup",
@@ -1874,7 +1874,7 @@
         },
         {
             "name":"blocking",
-            "zpy":"组成块;粘连"
+            "zpy":"组成块"
         },
         {
             "name":"environ",
@@ -1902,7 +1902,7 @@
         },
         {
             "name":"pgid",
-            "zpy":"p gid"
+            "zpy":"pgid"
         },
         {
             "name":"name",
@@ -1918,7 +1918,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"groups",
@@ -1926,7 +1926,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"inheritable",
@@ -1958,7 +1958,7 @@
         },
         {
             "name":"src_dir_fd",
-            "zpy":"src dir fd"
+            "zpy":"src_dir_fd"
         },
         {
             "name":"entry",
@@ -1966,15 +1966,15 @@
         },
         {
             "name":"files",
-            "zpy":"文件;文档(文件的复数)"
+            "zpy":"文件"
         },
         {
             "name":"egid",
-            "zpy":"e gid"
+            "zpy":"egid"
         },
         {
             "name":"flags",
-            "zpy":"标记旗帜(国旗的复数)"
+            "zpy":"所有标志"
         },
         {
             "name":"buffers",
@@ -1982,11 +1982,11 @@
         },
         {
             "name":"options",
-            "zpy":"选择期权;选择项(选项的复数)"
+            "zpy":"选择期权"
         },
         {
             "name":"EFC_CLOEXEC",
-            "zpy":"EFC CLOEXEC"
+            "zpy":"EFC_CLOEXEC"
         },
         {
             "name":"minor",
@@ -2014,7 +2014,7 @@
         },
         {
             "name":"headers",
-            "zpy":"标题(头的复数)"
+            "zpy":"标题"
         },
         {
             "name":"offset",
@@ -2022,7 +2022,7 @@
         },
         {
             "name":"setsigdef",
-            "zpy":"sig def"
+            "zpy":"setsigdef"
         },
         {
             "name":"idtype",
@@ -2030,7 +2030,7 @@
         },
         {
             "name":"scandir",
-            "zpy":"candir"
+            "zpy":"scandir"
         },
         {
             "name":"P_WAIT",
@@ -2046,7 +2046,7 @@
         },
         {
             "name":"resetids",
-            "zpy":"重置id、"
+            "zpy":"重置id"
         },
         {
             "name":"sched_priority",

@@ -12,7 +12,7 @@
         },
         {
             "name":"hStdOutput",
-            "zpy":"hS td输出"
+            "zpy":"hStd输出"
         },
         {
             "name":"check_returncode",
@@ -36,7 +36,7 @@
         },
         {
             "name":"STARTF_USESTDHANDLES",
-            "zpy":"STARTF USESTDHANDLES"
+            "zpy":"STARTF_USESTDHANDLES"
         },
         {
             "name":"STD_OUTPUT_HANDLE",
@@ -72,7 +72,7 @@
         },
         {
             "name":"STARTF_USESHOWWINDOW",
-            "zpy":"STARTF USESHOWWINDOW"
+            "zpy":"STARTF_USESHOWWINDOW"
         },
         {
             "name":"PIPE",
@@ -84,7 +84,7 @@
         },
         {
             "name":"hStdInput",
-            "zpy":"hS td输入"
+            "zpy":"hStd输入"
         },
         {
             "name":"timeout",
@@ -160,7 +160,7 @@
         },
         {
             "name":"hStdError",
-            "zpy":"hS td错误"
+            "zpy":"hStd错误"
         },
         {
             "name":"CREATE_NO_WINDOW",
@@ -226,7 +226,7 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"bufsize",
@@ -234,7 +234,7 @@
         },
         {
             "name":"popen4",
-            "zpy":"教皇n 4"
+            "zpy":"教皇n4"
         },
         {
             "name":"command_line",
@@ -242,7 +242,7 @@
         },
         {
             "name":"STARTF_USESHOWWINDOW",
-            "zpy":"STARTF USESHOWWINDOW"
+            "zpy":"STARTF_USESHOWWINDOW"
         },
         {
             "name":"child_stdin",
@@ -270,7 +270,7 @@
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"拆分"
         },
         {
             "name":"stdin",
@@ -278,7 +278,7 @@
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"signal",
@@ -286,11 +286,11 @@
         },
         {
             "name":"popen3",
-            "zpy":"教皇n 3"
+            "zpy":"教皇n3"
         },
         {
             "name":"hStdError",
-            "zpy":"hS td错误"
+            "zpy":"hStd错误"
         },
         {
             "name":"STARTUPINFO",
@@ -306,11 +306,11 @@
         },
         {
             "name":"group",
-            "zpy":"团体"
+            "zpy":"群"
         },
         {
             "name":"STARTF_USESTDHANDLES",
-            "zpy":"STARTF USESTDHANDLES"
+            "zpy":"STARTF_USESTDHANDLES"
         },
         {
             "name":"close",
@@ -318,7 +318,7 @@
         },
         {
             "name":"P_NOWAIT",
-            "zpy":"P NOWAIT"
+            "zpy":"P_NOWAIT"
         },
         {
             "name":"PIPE",
@@ -334,7 +334,7 @@
         },
         {
             "name":"hStdInput",
-            "zpy":"hS td输入"
+            "zpy":"hStd输入"
         },
         {
             "name":"spawnvp",
@@ -342,11 +342,11 @@
         },
         {
             "name":"spawn",
-            "zpy":"(鱼)卵"
+            "zpy":"卵"
         },
         {
             "name":"spawnlpe",
-            "zpy":"产卵lp e"
+            "zpy":"产卵lpe"
         },
         {
             "name":"close_fds",
@@ -382,7 +382,7 @@
         },
         {
             "name":"shlex",
-            "zpy":"sh lex"
+            "zpy":"shlex"
         },
         {
             "name":"communicate",
@@ -402,7 +402,7 @@
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"lpAttributeList",
@@ -426,11 +426,11 @@
         },
         {
             "name":"preexec_fn",
-            "zpy":"preexec fn"
+            "zpy":"preexec_fn"
         },
         {
             "name":"Command 'exit 1' returned non-zero exit status 1",
-            "zpy":"命令' exit 1 '返回非零的退出状态1"
+            "zpy":"命令exit1返回非零的退出状态1"
         },
         {
             "name":"STDOUT",
@@ -446,7 +446,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"retcode",
@@ -482,7 +482,7 @@
         },
         {
             "name":"hStdOutput",
-            "zpy":"hS td输出"
+            "zpy":"hStd输出"
         },
         {
             "name":"errs",
@@ -494,7 +494,7 @@
         },
         {
             "name":"popen2",
-            "zpy":"教皇n 2"
+            "zpy":"教皇n2"
         },
         {
             "name":"subprocess",
@@ -502,7 +502,7 @@
         },
         {
             "name":"outs",
-            "zpy":"未现赢张；付出的钱；输出"
+            "zpy":"未现赢张"
         },
         {
             "name":"capture_output",
@@ -538,7 +538,7 @@
         },
         {
             "name":"other_popen_kwargs",
-            "zpy":"其他popen kwargs"
+            "zpy":"其他popenkwargs"
         },
         {
             "name":"input",

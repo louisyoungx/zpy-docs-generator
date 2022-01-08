@@ -8,7 +8,7 @@
         },
         {
             "name":"MON_1 ... MON_12",
-            "zpy":"星期一1。我的12日"
+            "zpy":"星期一1我的12日"
         },
         {
             "name":"LC_TIME",
@@ -20,7 +20,7 @@
         },
         {
             "name":"ERA_T_FMT",
-            "zpy":"T FMT时代"
+            "zpy":"TFMT时代"
         },
         {
             "name":"LC_MESSAGES",
@@ -44,11 +44,11 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"D_FMT",
-            "zpy":"D FMT"
+            "zpy":"D_FMT"
         },
         {
             "name":"LC_COLLATE",
@@ -84,11 +84,11 @@
         },
         {
             "name":"LC_CTYPE",
-            "zpy":"LC CTYPE"
+            "zpy":"LC_CTYPE"
         },
         {
             "name":"RADIXCHAR",
-            "zpy":"基数CHAR、"
+            "zpy":"基数CHAR"
         },
         {
             "name":"getdefaultlocale",
@@ -96,15 +96,15 @@
         },
         {
             "name":"YESEXPR",
-            "zpy":"是的EXPR。"
+            "zpy":"是的EXPR"
         },
         {
             "name":"T_FMT",
-            "zpy":"T FMT"
+            "zpy":"T_FMT"
         },
         {
             "name":"ERA_D_FMT",
-            "zpy":"D FMT时代"
+            "zpy":"DFMT时代"
         },
         {
             "name":"bindtextdomain",
@@ -120,7 +120,7 @@
         },
         {
             "name":"D_T_FMT",
-            "zpy":"D T FMT"
+            "zpy":"D_T_FMT"
         },
         {
             "name":"currency",
@@ -132,7 +132,7 @@
         },
         {
             "name":"DAY_1 ... DAY_7",
-            "zpy":"第一天……7天"
+            "zpy":"第一天7天"
         },
         {
             "name":"NOEXPR",
@@ -144,11 +144,11 @@
         },
         {
             "name":"ERA_D_T_FMT",
-            "zpy":"时代d t fmt"
+            "zpy":"时代dtfmt"
         },
         {
             "name":"ABMON_1 ... ABMON_12",
-            "zpy":"艾伯蒙1 . .ABMON 12日"
+            "zpy":"艾伯蒙1ABMON12日"
         },
         {
             "name":"atof",
@@ -168,15 +168,15 @@
         },
         {
             "name":"T_FMT_AMPM",
-            "zpy":"T FMT AMPM"
+            "zpy":"T_FMT_AMPM"
         },
         {
             "name":"LC_MONETARY",
-            "zpy":"LC货币、"
+            "zpy":"LC货币"
         },
         {
             "name":"ABDAY_1 ... ABDAY_7",
-            "zpy":"第一天……ABDAY 7"
+            "zpy":"第一天ABDAY7"
         },
         {
             "name":"LC_NUMERIC",
@@ -184,7 +184,7 @@
         },
         {
             "name":"strxfrm",
-            "zpy":"str xf rm"
+            "zpy":"strxfrm"
         },
         {
             "name":"CHAR_MAX",
@@ -222,11 +222,11 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"international",
@@ -274,7 +274,7 @@
         },
         {
             "name":"float",
-            "zpy":"漂流物"
+            "zpy":"浮点数"
         }
     ]
 }

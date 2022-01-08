@@ -1,6 +1,6 @@
 {
     "name":"importlib",
-    "zpy":null,
+    "zpy":"importlib",
     "functions":[
         {
             "name":"FrozenImporter",
@@ -120,7 +120,7 @@
         },
         {
             "name":"iterdir",
-            "zpy":"er dir"
+            "zpy":"iterdir"
         },
         {
             "name":"source_from_cache",
@@ -128,7 +128,7 @@
         },
         {
             "name":"__truediv__",
-            "zpy":"truediv"
+            "zpy":"__truediv__"
         },
         {
             "name":"load_module",
@@ -252,7 +252,7 @@
         },
         {
             "name":"is_dir",
-            "zpy":"dir"
+            "zpy":"is_dir"
         },
         {
             "name":"open_binary",
@@ -260,7 +260,7 @@
         },
         {
             "name":"files",
-            "zpy":"文件;文档(文件的复数)"
+            "zpy":"文件"
         },
         {
             "name":"set_data",
@@ -328,7 +328,7 @@
         },
         {
             "name":"__import__",
-            "zpy":"进口"
+            "zpy":"__导入__"
         },
         {
             "name":"module_for_loader",
@@ -352,11 +352,11 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"cached",
-            "zpy":"贮藏起来隐藏起来(缓存的过去分词形式)"
+            "zpy":"贮藏起来隐藏起来"
         },
         {
             "name":"invalidate_caches",
@@ -366,7 +366,7 @@
     "args":[
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"optimization",
@@ -382,7 +382,7 @@
         },
         {
             "name":"tokenize",
-            "zpy":"令牌、"
+            "zpy":"令牌"
         },
         {
             "name":"SourceFileLoader",
@@ -394,7 +394,7 @@
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"module_from_spec",
@@ -410,7 +410,7 @@
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"spec",
@@ -430,7 +430,7 @@
         },
         {
             "name":"globals",
-            "zpy":"全球的年代"
+            "zpy":"全局变量"
         },
         {
             "name":"location",
@@ -502,11 +502,11 @@
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"module",
@@ -514,7 +514,7 @@
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"factory",
@@ -546,7 +546,7 @@
         },
         {
             "name":"modules",
-            "zpy":"加载模块列表;模块(模块的复数)"
+            "zpy":"加载模块列表"
         },
         {
             "name":"SourceLoader",
@@ -574,7 +574,7 @@
         },
         {
             "name":"fromlist",
-            "zpy":"从列表中"
+            "zpy":"从列表"
         },
         {
             "name":"Loader",
@@ -662,7 +662,7 @@
         },
         {
             "name":"locals",
-            "zpy":"当地人；区域变量"
+            "zpy":"局部变量"
         },
         {
             "name":"InspectLoader",

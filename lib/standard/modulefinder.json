@@ -1,6 +1,6 @@
 {
     "name":"modulefinder",
-    "zpy":null,
+    "zpy":"modulefinder",
     "functions":[
         {
             "name":"run_path",

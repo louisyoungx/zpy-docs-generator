@@ -24,11 +24,11 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"Formatter",
-            "zpy":"划盘程序;格式化程序;格式器"
+            "zpy":"划盘程序"
         },
         {
             "name":"format_field",
@@ -76,11 +76,11 @@
         },
         {
             "name":"octdigits",
-            "zpy":"10月"
+            "zpy":"octdigits"
         },
         {
             "name":"digits",
-            "zpy":"数字;手指;足趾(数字的复数)"
+            "zpy":"数字"
         },
         {
             "name":"get_field",
@@ -118,7 +118,7 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"longitude",
@@ -126,7 +126,7 @@
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"octets",
@@ -158,7 +158,7 @@
         },
         {
             "name":"'what'",
-            "zpy":"“是什么”"
+            "zpy":"是什么"
         },
         {
             "name":"field_name",
@@ -190,11 +190,11 @@
         },
         {
             "name":"Invalid placeholder in string: line 1, col 11",
-            "zpy":"字符串中的占位符无效:第1行col 11"
+            "zpy":"字符串中的占位符无效第1行col11"
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"align",

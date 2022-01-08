@@ -8,11 +8,11 @@
         },
         {
             "name":"inet_pton",
-            "zpy":"inet pton"
+            "zpy":"inet_pton"
         },
         {
             "name":"AI_*",
-            "zpy":"AI *"
+            "zpy":"AI_*"
         },
         {
             "name":"htonl",
@@ -52,7 +52,7 @@
         },
         {
             "name":"getservbyname",
-            "zpy":"通过名字得到ser v"
+            "zpy":"通过名字得到serv"
         },
         {
             "name":"ntohs",
@@ -64,11 +64,11 @@
         },
         {
             "name":"inet_ntop",
-            "zpy":"inet ntop"
+            "zpy":"inet_ntop"
         },
         {
             "name":"PF_CAN",
-            "zpy":"PF"
+            "zpy":"PF_CAN"
         },
         {
             "name":"timeout",
@@ -96,7 +96,7 @@
         },
         {
             "name":"ntohl",
-            "zpy":"nt哦!"
+            "zpy":"nt哦"
         },
         {
             "name":"share",
@@ -116,7 +116,7 @@
         },
         {
             "name":"recvmsg_into",
-            "zpy":"recvmsg"
+            "zpy":"recvmsg_into"
         },
         {
             "name":"getblocking",
@@ -144,7 +144,7 @@
         },
         {
             "name":"has_ipv6",
-            "zpy":"ipv6"
+            "zpy":"has_ipv6"
         },
         {
             "name":"CAN_RAW_JOIN_FILTERS",
@@ -152,7 +152,7 @@
         },
         {
             "name":"SO_*",
-            "zpy":"所以*"
+            "zpy":"所以"
         },
         {
             "name":"AF_LINK",
@@ -160,7 +160,7 @@
         },
         {
             "name":"getfqdn",
-            "zpy":"得到f qd n"
+            "zpy":"得到fqdn"
         },
         {
             "name":"if_indextoname",
@@ -168,7 +168,7 @@
         },
         {
             "name":"recv",
-            "zpy":"接收收的到(接收)"
+            "zpy":"接收收的到"
         },
         {
             "name":"CAN_J1939",
@@ -176,7 +176,7 @@
         },
         {
             "name":"CAN_BCM_*",
-            "zpy":"BCM *"
+            "zpy":"CAN_BCM_*"
         },
         {
             "name":"SOL_ALG",
@@ -196,11 +196,11 @@
         },
         {
             "name":"HCI_DATA_DIR",
-            "zpy":"DIR HCI数据"
+            "zpy":"DIRHCI数据"
         },
         {
             "name":"NI_*",
-            "zpy":"倪*"
+            "zpy":"倪"
         },
         {
             "name":"getaddrinfo",
@@ -208,7 +208,7 @@
         },
         {
             "name":"recv_into",
-            "zpy":"recv"
+            "zpy":"recv_into"
         },
         {
             "name":"BDADDR_ANY",
@@ -228,7 +228,7 @@
         },
         {
             "name":"SCM_*",
-            "zpy":"SCM *"
+            "zpy":"SCM_*"
         },
         {
             "name":"IOCTL_VM_SOCKETS_GET_LOCAL_CID",
@@ -248,7 +248,7 @@
         },
         {
             "name":"getservbyport",
-            "zpy":"通过端口获取ser v"
+            "zpy":"通过端口获取serv"
         },
         {
             "name":"error",
@@ -260,7 +260,7 @@
         },
         {
             "name":"SIO_KEEPALIVE_VALS",
-            "zpy":"SIO KEEPALIVE VALS"
+            "zpy":"SIO_KEEPALIVE_VALS"
         },
         {
             "name":"connect",
@@ -268,7 +268,7 @@
         },
         {
             "name":"RDS_*",
-            "zpy":"RDS *"
+            "zpy":"RDS_*"
         },
         {
             "name":"SOCK_DGRAM",
@@ -276,15 +276,15 @@
         },
         {
             "name":"EAI_*",
-            "zpy":"EAI *"
+            "zpy":"EAI_*"
         },
         {
             "name":"recv_fds",
-            "zpy":"recv fds"
+            "zpy":"recv_fds"
         },
         {
             "name":"sendmsg_afalg",
-            "zpy":"sendmsg afalg"
+            "zpy":"sendmsg_afalg"
         },
         {
             "name":"htons",
@@ -296,7 +296,7 @@
         },
         {
             "name":"IP_*",
-            "zpy":"IP *"
+            "zpy":"IP_*"
         },
         {
             "name":"get_inheritable",
@@ -304,7 +304,7 @@
         },
         {
             "name":"PACKET_*",
-            "zpy":"包*"
+            "zpy":"包"
         },
         {
             "name":"HCI_FILTER",
@@ -312,7 +312,7 @@
         },
         {
             "name":"RCVALL_*",
-            "zpy":"RCVALL *"
+            "zpy":"RCVALL_*"
         },
         {
             "name":"AF_CAN",
@@ -324,7 +324,7 @@
         },
         {
             "name":"IPV6_*",
-            "zpy":"IPV6 *"
+            "zpy":"IPV6_*"
         },
         {
             "name":"if_nameindex",
@@ -336,7 +336,7 @@
         },
         {
             "name":"ALG_*",
-            "zpy":"ALG *"
+            "zpy":"ALG_*"
         },
         {
             "name":"ioctl",
@@ -344,11 +344,11 @@
         },
         {
             "name":"INADDR_*",
-            "zpy":"INADDR *"
+            "zpy":"INADDR_*"
         },
         {
             "name":"recvfrom_into",
-            "zpy":"recvfrom"
+            "zpy":"recvfrom_into"
         },
         {
             "name":"AF_VSOCK",
@@ -360,15 +360,15 @@
         },
         {
             "name":"SOL_CAN_*",
-            "zpy":"索尔*"
+            "zpy":"索尔"
         },
         {
             "name":"SOL_*",
-            "zpy":"索尔*"
+            "zpy":"索尔"
         },
         {
             "name":"TIPC_*",
-            "zpy":"TIPC *"
+            "zpy":"TIPC_*"
         },
         {
             "name":"PF_PACKET",
@@ -376,7 +376,7 @@
         },
         {
             "name":"CAN_*",
-            "zpy":"可以*"
+            "zpy":"可以"
         },
         {
             "name":"SOCK_RDM",
@@ -384,7 +384,7 @@
         },
         {
             "name":"MSG_*",
-            "zpy":"味精*"
+            "zpy":"味精"
         },
         {
             "name":"AF_INET6",
@@ -400,7 +400,7 @@
         },
         {
             "name":"CAN_BCM",
-            "zpy":"BCM"
+            "zpy":"CAN_BCM"
         },
         {
             "name":"shutdown",
@@ -408,7 +408,7 @@
         },
         {
             "name":"IPPROTO_*",
-            "zpy":"IPPROTO *"
+            "zpy":"IPPROTO_*"
         },
         {
             "name":"SOCK_STREAM",
@@ -420,7 +420,7 @@
         },
         {
             "name":"TCP_*",
-            "zpy":"TCP *"
+            "zpy":"TCP_*"
         },
         {
             "name":"AF_ALG",
@@ -428,7 +428,7 @@
         },
         {
             "name":"IPPORT_*",
-            "zpy":"IPPORT *"
+            "zpy":"IPPORT_*"
         },
         {
             "name":"getprotobyname",
@@ -436,15 +436,15 @@
         },
         {
             "name":"SO_VM*",
-            "zpy":"所以VM *"
+            "zpy":"所以VM"
         },
         {
             "name":"has_dualstack_ipv6",
-            "zpy":"dualstack ipv6"
+            "zpy":"has_dualstack_ipv6"
         },
         {
             "name":"inet_ntoa",
-            "zpy":"inet ntoa"
+            "zpy":"inet_ntoa"
         },
         {
             "name":"family",
@@ -456,11 +456,11 @@
         },
         {
             "name":"VMADDR*",
-            "zpy":"VMADDR *"
+            "zpy":"VMADDR*"
         },
         {
             "name":"BDADDR_LOCAL",
-            "zpy":"BDADDR地方、"
+            "zpy":"BDADDR地方"
         },
         {
             "name":"gethostbyname_ex",
@@ -484,7 +484,7 @@
         },
         {
             "name":"SIO_RCVALL",
-            "zpy":"SIO RCVALL"
+            "zpy":"SIO_RCVALL"
         },
         {
             "name":"AF_QIPCRTR",
@@ -508,11 +508,11 @@
         },
         {
             "name":"gettimeout",
-            "zpy":"把时间弄出来。"
+            "zpy":"把时间弄出来"
         },
         {
             "name":"PF_RDS",
-            "zpy":"PF RDS"
+            "zpy":"PF_RDS"
         },
         {
             "name":"makefile",
@@ -558,7 +558,7 @@
     "args":[
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"PORT",
@@ -574,11 +574,11 @@
         },
         {
             "name":"bytes",
-            "zpy":"位元组"
+            "zpy":"字节串"
         },
         {
             "name":"RCVALL_OFF",
-            "zpy":"RCVALL"
+            "zpy":"RCVALL_OFF"
         },
         {
             "name":"proto",
@@ -610,7 +610,7 @@
         },
         {
             "name":"IPPROTO_TCP",
-            "zpy":"IPPROTO TCP、"
+            "zpy":"IPPROTO_TCP"
         },
         {
             "name":"SOCK_RAW",
@@ -626,7 +626,7 @@
         },
         {
             "name":"struct",
-            "zpy":"结构；结构体；创建构架数组"
+            "zpy":"结构"
         },
         {
             "name":"accept",
@@ -642,11 +642,11 @@
         },
         {
             "name":"recvmsg_into",
-            "zpy":"recvmsg"
+            "zpy":"recvmsg_into"
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"control",
@@ -674,11 +674,11 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"recv",
-            "zpy":"接收收的到(接收)"
+            "zpy":"接收收的到"
         },
         {
             "name":"Address",
@@ -698,7 +698,7 @@
         },
         {
             "name":"RCVALL_ON",
-            "zpy":"RCVALL"
+            "zpy":"RCVALL_ON"
         },
         {
             "name":"AF_INET",
@@ -718,7 +718,7 @@
         },
         {
             "name":"ljust",
-            "zpy":"我只是"
+            "zpy":"左定长"
         },
         {
             "name":"hostname",
@@ -758,7 +758,7 @@
         },
         {
             "name":"itemsize",
-            "zpy":"项目的大小"
+            "zpy":"项大小"
         },
         {
             "name":"HOST",
@@ -774,7 +774,7 @@
         },
         {
             "name":"IP_HDRINCL",
-            "zpy":"IP HDRINCL"
+            "zpy":"IP_HDRINCL"
         },
         {
             "name":"buffering",
@@ -806,7 +806,7 @@
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"newline",
@@ -822,15 +822,15 @@
         },
         {
             "name":"dualstack_ipv6",
-            "zpy":"dualstack ipv6"
+            "zpy":"dualstack_ipv6"
         },
         {
             "name":"pack",
-            "zpy":"包裹"
+            "zpy":"包"
         },
         {
             "name":"array",
-            "zpy":"排列"
+            "zpy":"数组"
         },
         {
             "name":"level",
@@ -854,7 +854,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"inheritable",
@@ -862,11 +862,11 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"calcsize",
-            "zpy":"calc大小"
+            "zpy":"计算大小"
         },
         {
             "name":"can_frame_size",
@@ -894,7 +894,7 @@
         },
         {
             "name":"CAN_BCM",
-            "zpy":"BCM"
+            "zpy":"CAN_BCM"
         },
         {
             "name":"backlog",
@@ -902,7 +902,7 @@
         },
         {
             "name":"flags",
-            "zpy":"标记旗帜(国旗的复数)"
+            "zpy":"所有标志"
         },
         {
             "name":"sockaddr",
@@ -914,7 +914,7 @@
         },
         {
             "name":"has_dualstack_ipv6",
-            "zpy":"dualstack ipv6"
+            "zpy":"has_dualstack_ipv6"
         },
         {
             "name":"Errno",
@@ -958,7 +958,7 @@
         },
         {
             "name":"SIO_RCVALL",
-            "zpy":"SIO RCVALL"
+            "zpy":"SIO_RCVALL"
         },
         {
             "name":"CAN_RAW",
@@ -994,7 +994,7 @@
         },
         {
             "name":"IPPROTO_IP",
-            "zpy":"IPPROTO IP"
+            "zpy":"IPPROTO_IP"
         },
         {
             "name":"sendall",
@@ -1014,11 +1014,11 @@
         },
         {
             "name":"can_dlc",
-            "zpy":"dlc"
+            "zpy":"can_dlc"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

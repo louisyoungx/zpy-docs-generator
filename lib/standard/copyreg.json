@@ -1,6 +1,6 @@
 {
     "name":"copyreg",
-    "zpy":null,
+    "zpy":"copyreg",
     "functions":[
         {
             "name":"constructor",
@@ -26,11 +26,11 @@
         },
         {
             "name":"function",
-            "zpy":"官能"
+            "zpy":"目标函数"
         },
         {
             "name":"dumps",
-            "zpy":"忧郁；废物"
+            "zpy":"忧郁"
         },
         {
             "name":"pickle",
@@ -46,7 +46,7 @@
         },
         {
             "name":"object",
-            "zpy":"物体"
+            "zpy":"对象"
         }
     ]
 }

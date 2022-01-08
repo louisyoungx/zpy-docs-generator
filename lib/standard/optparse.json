@@ -1,10 +1,10 @@
 {
     "name":"optparse",
-    "zpy":null,
+    "zpy":"optparse",
     "functions":[
         {
             "name":"TYPES",
-            "zpy":"打字(类型的第三人称单数形式)"
+            "zpy":"打字"
         },
         {
             "name":"print_version",
@@ -40,7 +40,7 @@
         },
         {
             "name":"help",
-            "zpy":"帮忙"
+            "zpy":"帮助"
         },
         {
             "name":"set_usage",
@@ -56,7 +56,7 @@
         },
         {
             "name":"choices",
-            "zpy":"选择(选择的复数)"
+            "zpy":"选择"
         },
         {
             "name":"remove_option",
@@ -128,7 +128,7 @@
         },
         {
             "name":"ACTIONS",
-            "zpy":"动作行动(行动的复数)"
+            "zpy":"动作行动"
         },
         {
             "name":"add_option",
@@ -142,7 +142,7 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"attr",
@@ -150,7 +150,7 @@
         },
         {
             "name":"Options",
-            "zpy":"选择期权;选择项(选项的复数)"
+            "zpy":"选择期权"
         },
         {
             "name":"quiet",
@@ -194,7 +194,7 @@
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"拆分"
         },
         {
             "name":"STORE_ACTIONS",
@@ -202,7 +202,7 @@
         },
         {
             "name":"dong",
-            "zpy":"盾（越南货币单位）"
+            "zpy":"盾越南货币单位"
         },
         {
             "name":"filename",
@@ -214,11 +214,11 @@
         },
         {
             "name":"group",
-            "zpy":"团体"
+            "zpy":"群"
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"MyOption",
@@ -278,7 +278,7 @@
         },
         {
             "name":"ffoo",
-            "zpy":"f foo"
+            "zpy":"ffoo"
         },
         {
             "name":"store_value",
@@ -294,7 +294,7 @@
         },
         {
             "name":"TYPES",
-            "zpy":"打字(类型的第三人称单数形式)"
+            "zpy":"打字"
         },
         {
             "name":"Option",
@@ -326,7 +326,7 @@
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"check_order",
@@ -366,7 +366,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"yourscript",
@@ -374,11 +374,11 @@
         },
         {
             "name":"title",
-            "zpy":"头衔"
+            "zpy":"标题"
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"TYPED_ACTIONS",
@@ -402,15 +402,15 @@
         },
         {
             "name":"ACTIONS",
-            "zpy":"动作行动(行动的复数)"
+            "zpy":"动作行动"
         },
         {
             "name":"names",
-            "zpy":"名字;名望(名称的复数形式)"
+            "zpy":"名字"
         },
         {
             "name":"files",
-            "zpy":"文件;文档(文件的复数)"
+            "zpy":"文件"
         },
         {
             "name":"parse_args",
@@ -418,7 +418,7 @@
         },
         {
             "name":"options",
-            "zpy":"选择期权;选择项(选项的复数)"
+            "zpy":"选择期权"
         },
         {
             "name":"fbar",
@@ -450,7 +450,7 @@
         },
         {
             "name":"help",
-            "zpy":"帮忙"
+            "zpy":"帮助"
         },
         {
             "name":"option_list",
@@ -458,7 +458,7 @@
         },
         {
             "name":"tracks",
-            "zpy":"轮胎;磁道;轨道(跟踪的复数)"
+            "zpy":"轮胎"
         },
         {
             "name":"extend",
@@ -470,7 +470,7 @@
         },
         {
             "name":"rargs",
-            "zpy":"rar gs"
+            "zpy":"rargs"
         },
         {
             "name":"opt_str",
@@ -494,7 +494,7 @@
         },
         {
             "name":"values",
-            "zpy":"对价值的看法"
+            "zpy":"所有值"
         },
         {
             "name":"ensure_value",

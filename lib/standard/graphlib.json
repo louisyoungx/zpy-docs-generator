@@ -1,6 +1,6 @@
 {
     "name":"graphlib",
-    "zpy":null,
+    "zpy":"graphlib",
     "functions":[
         {
             "name":"prepare",
@@ -62,7 +62,7 @@
         },
         {
             "name":"predecessors",
-            "zpy":"前任(前任的复数形式);前辈;(被取代的)原有事物;前身"
+            "zpy":"前任原有事物"
         },
         {
             "name":"is_active",
@@ -86,7 +86,7 @@
         },
         {
             "name":"nodes",
-            "zpy":"节点(节点的复数形式)"
+            "zpy":"节点"
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
     "name":"sysconfig",
-    "zpy":null,
+    "zpy":"sysconfig",
     "functions":[],
     "args":[
         {
             "name":"upper",
-            "zpy":"上面的"
+            "zpy":"大写"
         },
         {
             "name":"UpperCaser",
@@ -25,11 +25,11 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         }
     ]
 }

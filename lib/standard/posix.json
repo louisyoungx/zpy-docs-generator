@@ -4,7 +4,7 @@
     "functions":[
         {
             "name":"getpwuid",
-            "zpy":"得到p wu id"
+            "zpy":"得到pwuid"
         },
         {
             "name":"getpwall",

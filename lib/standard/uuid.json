@@ -1,10 +1,10 @@
 {
     "name":"uuid",
-    "zpy":null,
+    "zpy":"uuid",
     "functions":[
         {
             "name":"RFC_4122",
-            "zpy":"RFC 4122"
+            "zpy":"RFC_4122"
         },
         {
             "name":"safe",
@@ -28,7 +28,7 @@
         },
         {
             "name":"bytes",
-            "zpy":"位元组"
+            "zpy":"字节串"
         },
         {
             "name":"fields",
@@ -96,7 +96,7 @@
         },
         {
             "name":"SafeUUID",
-            "zpy":"安全U U ID"
+            "zpy":"安全UUID"
         }
     ],
     "args":[
@@ -118,7 +118,7 @@
         },
         {
             "name":"bytes",
-            "zpy":"位元组"
+            "zpy":"字节串"
         },
         {
             "name":"uuid",

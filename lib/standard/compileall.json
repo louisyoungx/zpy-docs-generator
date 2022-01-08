@@ -1,6 +1,6 @@
 {
     "name":"compileall",
-    "zpy":null,
+    "zpy":"compileall",
     "functions":[
         {
             "name":"--hardlink-dupes",
@@ -20,7 +20,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"directory",
@@ -74,7 +74,7 @@
         },
         {
             "name":"ddir",
-            "zpy":"d dir"
+            "zpy":"ddir"
         },
         {
             "name":"hardlink_dupes",
@@ -82,7 +82,7 @@
         },
         {
             "name":"optimize",
-            "zpy":"使完美"
+            "zpy":"优化"
         },
         {
             "name":"maxlevels",

@@ -1,6 +1,6 @@
 {
     "name":"warnings",
-    "zpy":"发出警告(warning的复数形式);征候;<古>（解雇、辞职等的）预先通知;可引以为戒的事（或人）",
+    "zpy":"发出警告",
     "functions":[
         {
             "name":"formatwarning",
@@ -42,11 +42,11 @@
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"source",
-            "zpy":"来源"
+            "zpy":"源"
         },
         {
             "name":"user_ns",
@@ -94,7 +94,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"catch_warnings",
@@ -126,7 +126,7 @@
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         },
         {
             "name":"stacklevel",
@@ -134,7 +134,7 @@
         },
         {
             "name":"warnings",
-            "zpy":"发出警告(警告的复数形式);征候;<古>(解雇辞职等的)预先通知;可引以为戒的事(或人)"
+            "zpy":"发出警告"
         },
         {
             "name":"line",

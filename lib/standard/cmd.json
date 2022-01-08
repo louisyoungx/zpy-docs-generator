@@ -1,6 +1,6 @@
 {
     "name":"cmd",
-    "zpy":"煤矿管理局（CoalMinesDepartment）；指令键",
+    "zpy":"煤矿管理局CoalMinesDepartment",
     "functions":[
         {
             "name":"intro",
@@ -12,7 +12,7 @@
         },
         {
             "name":"precmd",
-            "zpy":"d pre厘米"
+            "zpy":"dpre厘米"
         },
         {
             "name":"postcmd",
@@ -56,7 +56,7 @@
         },
         {
             "name":"cmdqueue",
-            "zpy":"cm d队列"
+            "zpy":"cmd队列"
         },
         {
             "name":"emptyline",
@@ -64,7 +64,7 @@
         },
         {
             "name":"cmdloop",
-            "zpy":"cm d环"
+            "zpy":"cmd环"
         },
         {
             "name":"use_rawinput",
@@ -114,7 +114,7 @@
         },
         {
             "name":"begidx",
-            "zpy":"gid x"
+            "zpy":"begidx"
         },
         {
             "name":"home",
@@ -166,11 +166,11 @@
         },
         {
             "name":"splitlines",
-            "zpy":"分线"
+            "zpy":"以行拆分"
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"stdin",
@@ -178,11 +178,11 @@
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"拆分"
         },
         {
             "name":"lower",
-            "zpy":"低的"
+            "zpy":"小写"
         },
         {
             "name":"goto",
@@ -190,11 +190,11 @@
         },
         {
             "name":"cmdqueue",
-            "zpy":"cm d队列"
+            "zpy":"cmd队列"
         },
         {
             "name":"cmdloop",
-            "zpy":"cm d环"
+            "zpy":"cmd环"
         },
         {
             "name":"position",

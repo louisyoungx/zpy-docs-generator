@@ -1,10 +1,10 @@
 {
     "name":"doctest",
-    "zpy":null,
+    "zpy":"doctest",
     "functions":[
         {
             "name":"find",
-            "zpy":"发现"
+            "zpy":"找到"
         },
         {
             "name":"ELLIPSIS",
@@ -24,7 +24,7 @@
         },
         {
             "name":"options",
-            "zpy":"选择期权;选择项(选项的复数)"
+            "zpy":"选择期权"
         },
         {
             "name":"COMPARISON_FLAGS",
@@ -36,7 +36,7 @@
         },
         {
             "name":"source",
-            "zpy":"来源"
+            "zpy":"源"
         },
         {
             "name":"script_from_examples",
@@ -60,7 +60,7 @@
         },
         {
             "name":"exc_info",
-            "zpy":"exc信息"
+            "zpy":"异常信息"
         },
         {
             "name":"testmod",
@@ -136,7 +136,7 @@
         },
         {
             "name":"examples",
-            "zpy":"例子;列证(例子的复数形式)"
+            "zpy":"例子"
         },
         {
             "name":"report_unexpected_exception",
@@ -156,7 +156,7 @@
         },
         {
             "name":"set_unittest_reportflags",
-            "zpy":"设置unittest reportflags"
+            "zpy":"设置unittestreportflags"
         },
         {
             "name":"DocTest",
@@ -168,7 +168,7 @@
         },
         {
             "name":"get_doctest",
-            "zpy":"doctest"
+            "zpy":"get_doctest"
         },
         {
             "name":"testsource",
@@ -212,7 +212,7 @@
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         },
         {
             "name":"want",
@@ -246,19 +246,19 @@
         },
         {
             "name":"list.remove(x): x not in list",
-            "zpy":"列表。删除(x): x不在列表中"
+            "zpy":"列表删除x不在列表中"
         },
         {
             "name":"argv",
-            "zpy":"arg v"
+            "zpy":"argv"
         },
         {
             "name":"exc_info",
-            "zpy":"exc信息"
+            "zpy":"异常信息"
         },
         {
             "name":"Expected",
-            "zpy":"预期的；预料的"
+            "zpy":"预期的"
         },
         {
             "name":"DocTestRunner",
@@ -358,7 +358,7 @@
         },
         {
             "name":"<module>",
-            "zpy":"> <模块"
+            "zpy":"模块"
         },
         {
             "name":"addTests",
@@ -374,7 +374,7 @@
         },
         {
             "name":"examples",
-            "zpy":"例子;列证(例子的复数形式)"
+            "zpy":"例子"
         },
         {
             "name":"verbose",
@@ -402,7 +402,7 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"test_finder",
@@ -418,11 +418,11 @@
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"Failed",
@@ -442,7 +442,7 @@
         },
         {
             "name":"results",
-            "zpy":"结果;成绩(结果的复数)"
+            "zpy":"结果"
         },
         {
             "name":"innermost",
@@ -478,7 +478,7 @@
         },
         {
             "name":"tests",
-            "zpy":"测验(测试的复数)"
+            "zpy":"测验"
         },
         {
             "name":"remove",
@@ -502,7 +502,7 @@
         },
         {
             "name":"flags",
-            "zpy":"标记旗帜(国旗的复数)"
+            "zpy":"所有标志"
         },
         {
             "name":"Example",
@@ -510,11 +510,11 @@
         },
         {
             "name":"options",
-            "zpy":"选择期权;选择项(选项的复数)"
+            "zpy":"选择期权"
         },
         {
             "name":"source",
-            "zpy":"来源"
+            "zpy":"源"
         },
         {
             "name":"exclude_empty",
@@ -526,7 +526,7 @@
         },
         {
             "name":"paths",
-            "zpy":"路径(路径的复数)"
+            "zpy":"路径"
         },
         {
             "name":"testmod",
@@ -578,7 +578,7 @@
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         },
         {
             "name":"parser",

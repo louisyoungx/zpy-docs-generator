@@ -8,7 +8,7 @@
         },
         {
             "name":"isatty",
-            "zpy":"atty"
+            "zpy":"isatty"
         },
         {
             "name":"getname",
@@ -58,7 +58,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"whence",

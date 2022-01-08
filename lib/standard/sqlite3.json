@@ -1,6 +1,6 @@
 {
     "name":"sqlite3",
-    "zpy":null,
+    "zpy":"sqlite3",
     "functions":[
         {
             "name":"in_transaction",
@@ -184,7 +184,7 @@
         },
         {
             "name":"commit",
-            "zpy":"委托(托付)"
+            "zpy":"委托"
         },
         {
             "name":"arraysize",
@@ -192,7 +192,7 @@
         },
         {
             "name":"keys",
-            "zpy":"关键帧;(钢琴等的)键;密钥(关键的复数)"
+            "zpy":"所有键"
         },
         {
             "name":"sqlite_version",
@@ -234,7 +234,7 @@
     "args":[
         {
             "name":"md5sum",
-            "zpy":"md 5笔"
+            "zpy":"md5笔"
         },
         {
             "name":"langs",
@@ -286,7 +286,7 @@
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"拆分"
         },
         {
             "name":"executemany",
@@ -294,7 +294,7 @@
         },
         {
             "name":"callable",
-            "zpy":"请求即付的"
+            "zpy":"可调用"
         },
         {
             "name":"remaining",
@@ -302,7 +302,7 @@
         },
         {
             "name":"startswith",
-            "zpy":"首先"
+            "zpy":"开始随着"
         },
         {
             "name":"adapt_datetime",
@@ -330,7 +330,7 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"PrepareProtocol",
@@ -366,11 +366,11 @@
         },
         {
             "name":"encode",
-            "zpy":"把(电文、情报等)译成密码"
+            "zpy":"编码"
         },
         {
             "name":"typename",
-            "zpy":""
+            "zpy":"typename"
         },
         {
             "name":"fetchall",
@@ -446,7 +446,7 @@
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"protocol",
@@ -502,7 +502,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"dest",
@@ -510,15 +510,15 @@
         },
         {
             "name":"commit",
-            "zpy":"委托(托付)"
+            "zpy":"委托"
         },
         {
             "name":"keys",
-            "zpy":"关键帧;(钢琴等的)键;密钥(关键的复数)"
+            "zpy":"所有键"
         },
         {
             "name":"strip",
-            "zpy":"长条"
+            "zpy":"移除"
         },
         {
             "name":"collate_reverse",
@@ -534,11 +534,11 @@
         },
         {
             "name":"lstrip",
-            "zpy":"l地带"
+            "zpy":"移除前导字符"
         },
         {
             "name":"source",
-            "zpy":"来源"
+            "zpy":"源"
         },
         {
             "name":"lang_list",
@@ -550,7 +550,7 @@
         },
         {
             "name":"upper",
-            "zpy":"上面的"
+            "zpy":"大写"
         },
         {
             "name":"sql_script",
@@ -618,7 +618,7 @@
         },
         {
             "name":"sqlite3",
-            "zpy":"平方lite 3"
+            "zpy":"平方lite3"
         },
         {
             "name":"executescript",
@@ -642,7 +642,7 @@
         },
         {
             "name":"pages",
-            "zpy":"页数;青年侍从(页面的复数)"
+            "zpy":"页数"
         }
     ]
 }

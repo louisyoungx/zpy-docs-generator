@@ -1,6 +1,6 @@
 {
     "name":"audioop",
-    "zpy":null,
+    "zpy":"audioop",
     "functions":[
         {
             "name":"setparams",
@@ -48,7 +48,7 @@
         },
         {
             "name":"aiff",
-            "zpy":"音频交换文件格式(audiointerchangefileformat)"
+            "zpy":"音频交换文件格式"
         },
         {
             "name":"getcomptype",
@@ -100,7 +100,7 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"setnchannels",
@@ -118,7 +118,7 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"type",
@@ -146,7 +146,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"nframes",
@@ -158,7 +158,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "name":"collections",
-    "zpy":"集合物件；收集（collection的复数）",
+    "zpy":"集合物件",
     "functions":[
         {
             "name":"__missing__",
@@ -12,11 +12,11 @@
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"fromkeys",
-            "zpy":"从键"
+            "zpy":"从所有值"
         },
         {
             "name":"index",
@@ -28,11 +28,11 @@
         },
         {
             "name":"popitem",
-            "zpy":"流行物品"
+            "zpy":"出栈一项"
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"_make",
@@ -60,7 +60,7 @@
         },
         {
             "name":"deque",
-            "zpy":"双端队列；双队列"
+            "zpy":"双端队列"
         },
         {
             "name":"namedtuple",
@@ -80,11 +80,11 @@
         },
         {
             "name":"defaultdict",
-            "zpy":"默认dic t"
+            "zpy":"默认dict"
         },
         {
             "name":"clear",
-            "zpy":"清楚的"
+            "zpy":"清除"
         },
         {
             "name":"most_common",
@@ -92,11 +92,11 @@
         },
         {
             "name":"_asdict",
-            "zpy":"asdict"
+            "zpy":"_asdict"
         },
         {
             "name":"UserDict",
-            "zpy":"用户Dic t"
+            "zpy":"用户Dict"
         },
         {
             "name":"update",
@@ -124,7 +124,7 @@
         },
         {
             "name":"Counter",
-            "zpy":"计算器"
+            "zpy":"计数器"
         },
         {
             "name":"copy",
@@ -140,11 +140,11 @@
         },
         {
             "name":"OrderedDict",
-            "zpy":"命令Dic t"
+            "zpy":"命令Dict"
         },
         {
             "name":"parents",
-            "zpy":"父母;双亲(父的复数)"
+            "zpy":"父母"
         },
         {
             "name":"remove",
@@ -156,11 +156,11 @@
         },
         {
             "name":"maps",
-            "zpy":"管理分析与规划系统(ManagementAnalysisandPlanningSystem)"
+            "zpy":"管理分析与规划系统"
         },
         {
             "name":"maxlen",
-            "zpy":"马克斯•莱恩"
+            "zpy":"马克斯莱恩"
         },
         {
             "name":"reverse",
@@ -168,17 +168,17 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ],
     "args":[
         {
             "name":"combined",
-            "zpy":"结合的；组合的"
+            "zpy":"结合的"
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"Color",
@@ -198,7 +198,7 @@
         },
         {
             "name":"setdefault",
-            "zpy":"设置默认"
+            "zpy":"设默认值"
         },
         {
             "name":"func",
@@ -206,7 +206,7 @@
         },
         {
             "name":"cats",
-            "zpy":"高级电视研究中心(CentreforAdvancedTelevisionStudies);计算机自动测试系统(ComputerAutomatedTestSystem);通信和跟踪系统(CommunicationsandTrackingSystem);综合分析试验系统(ComprehensiveAnalyticalTestSystem)"
+            "zpy":"高级电视研究中心"
         },
         {
             "name":"new_child",
@@ -254,11 +254,11 @@
         },
         {
             "name":"defaults",
-            "zpy":"违约;默认;预设值(默认的复数)"
+            "zpy":"违约"
         },
         {
             "name":"timestamp",
-            "zpy":"时间戳；时间邮票"
+            "zpy":"时间戳"
         },
         {
             "name":"weight",
@@ -270,19 +270,19 @@
         },
         {
             "name":"mapping",
-            "zpy":"映射;变换;映象"
+            "zpy":"映射"
         },
         {
             "name":"dogs",
-            "zpy":"瘦狗类;狗狗的复数)"
+            "zpy":"瘦狗类"
         },
         {
             "name":"Point3D",
-            "zpy":"3 D点"
+            "zpy":"Point3D"
         },
         {
             "name":"maps",
-            "zpy":"管理分析与规划系统(ManagementAnalysisandPlanningSystem)"
+            "zpy":"管理分析与规划系统"
         },
         {
             "name":"maxsize",
@@ -302,7 +302,7 @@
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"time",
@@ -322,11 +322,11 @@
         },
         {
             "name":"deque",
-            "zpy":"双端队列；双队列"
+            "zpy":"双端队列"
         },
         {
             "name":"clear",
-            "zpy":"清楚的"
+            "zpy":"清除"
         },
         {
             "name":"update",
@@ -342,7 +342,7 @@
         },
         {
             "name":"words",
-            "zpy":"言语;话语;字(词的复数)"
+            "zpy":"言语"
         },
         {
             "name":"islice",
@@ -350,7 +350,7 @@
         },
         {
             "name":"typename",
-            "zpy":""
+            "zpy":"typename"
         },
         {
             "name":"fetchall",
@@ -358,7 +358,7 @@
         },
         {
             "name":"iterators",
-            "zpy":""
+            "zpy":"iterators"
         },
         {
             "name":"subtract",
@@ -370,7 +370,7 @@
         },
         {
             "name":"OrderedDict",
-            "zpy":"命令Dic t"
+            "zpy":"命令Dict"
         },
         {
             "name":"record",
@@ -410,15 +410,15 @@
         },
         {
             "name":"popitem",
-            "zpy":"流行物品"
+            "zpy":"出栈一项"
         },
         {
             "name":"requests",
-            "zpy":"要求(请求的名词复数)需要所请求的事物;申请书"
+            "zpy":"要求需要所请求的事物"
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"last",
@@ -438,11 +438,11 @@
         },
         {
             "name":"elem",
-            "zpy":"伊特姆"
+            "zpy":"elem"
         },
         {
             "name":"iterable",
-            "zpy":"嗯可以"
+            "zpy":"可迭代"
         },
         {
             "name":"popleft",
@@ -450,11 +450,11 @@
         },
         {
             "name":"_asdict",
-            "zpy":"asdict"
+            "zpy":"_asdict"
         },
         {
             "name":"defaultdict",
-            "zpy":"默认dic t"
+            "zpy":"默认dict"
         },
         {
             "name":"most_common",
@@ -462,7 +462,7 @@
         },
         {
             "name":"iterables",
-            "zpy":"e增加"
+            "zpy":"所有可枚举值"
         },
         {
             "name":"rename",
@@ -478,7 +478,7 @@
         },
         {
             "name":"Counter",
-            "zpy":"计算器"
+            "zpy":"计数器"
         },
         {
             "name":"read",
@@ -498,7 +498,7 @@
         },
         {
             "name":"title",
-            "zpy":"头衔"
+            "zpy":"标题"
         },
         {
             "name":"toplevel",
@@ -506,15 +506,15 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"items",
-            "zpy":"项目名目所有物品(项目的复数形式)"
+            "zpy":"所有项"
         },
         {
             "name":"keys",
-            "zpy":"关键帧;(钢琴等的)键;密钥(关键的复数)"
+            "zpy":"所有键"
         },
         {
             "name":"Pixel",
@@ -534,7 +534,7 @@
         },
         {
             "name":"maxage",
-            "zpy":""
+            "zpy":"maxage"
         },
         {
             "name":"price",
@@ -554,7 +554,7 @@
         },
         {
             "name":"fromkeys",
-            "zpy":"从键"
+            "zpy":"从所有值"
         },
         {
             "name":"_make",
@@ -562,7 +562,7 @@
         },
         {
             "name":"upper",
-            "zpy":"上面的"
+            "zpy":"大写"
         },
         {
             "name":"total",
@@ -590,7 +590,7 @@
         },
         {
             "name":"adjustments",
-            "zpy":"调解(调整的复数形式)<心>调节;调整调节器"
+            "zpy":"调解心调节"
         },
         {
             "name":"partnum",
@@ -610,7 +610,7 @@
         },
         {
             "name":"lower",
-            "zpy":"低的"
+            "zpy":"小写"
         },
         {
             "name":"action",
@@ -622,7 +622,7 @@
         },
         {
             "name":"sqlite3",
-            "zpy":"平方lite 3"
+            "zpy":"平方lite3"
         },
         {
             "name":"newprices",
@@ -634,7 +634,7 @@
         },
         {
             "name":"parents",
-            "zpy":"父母;双亲(父的复数)"
+            "zpy":"父母"
         },
         {
             "name":"appendleft",
@@ -642,7 +642,7 @@
         },
         {
             "name":"authors",
-            "zpy":"著作家(作者的名词复数)作者创造者;发起人"
+            "zpy":"著作家作者创造者"
         },
         {
             "name":"extendleft",

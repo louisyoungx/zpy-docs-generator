@@ -1,6 +1,6 @@
 {
     "name":"itertools",
-    "zpy":null,
+    "zpy":"itertools",
     "functions":[
         {
             "name":"product",
@@ -16,11 +16,11 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"permutations",
-            "zpy":"（一组事物可能的一种）序列"
+            "zpy":"一组事物可能的一种序列"
         },
         {
             "name":"combinations_with_replacement",
@@ -56,7 +56,7 @@
         },
         {
             "name":"combinations",
-            "zpy":"合谱;组合;制品(组合的复数)"
+            "zpy":"合谱"
         },
         {
             "name":"accumulate",
@@ -86,7 +86,7 @@
         },
         {
             "name":"vec1",
-            "zpy":"vec 1"
+            "zpy":"vec1"
         },
         {
             "name":"index",
@@ -110,7 +110,7 @@
         },
         {
             "name":"inputs",
-            "zpy":"输入;投入(输入的复数)"
+            "zpy":"输入"
         },
         {
             "name":"currkey",
@@ -162,23 +162,23 @@
         },
         {
             "name":"saved",
-            "zpy":"已保存的；获救的"
+            "zpy":"已保存的"
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"step",
-            "zpy":"步骤"
+            "zpy":"步"
         },
         {
             "name":"element",
-            "zpy":"元件"
+            "zpy":"元素"
         },
         {
             "name":"default",
@@ -186,7 +186,7 @@
         },
         {
             "name":"deque",
-            "zpy":"双端队列；双队列"
+            "zpy":"双端队列"
         },
         {
             "name":"mydeque",
@@ -198,11 +198,11 @@
         },
         {
             "name":"iterators",
-            "zpy":""
+            "zpy":"iterators"
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"sample",
@@ -210,11 +210,11 @@
         },
         {
             "name":"tgtkey",
-            "zpy":"t gt的关键"
+            "zpy":"tgt的关键"
         },
         {
             "name":"combinations",
-            "zpy":"合谱;组合;制品(组合的复数)"
+            "zpy":"合谱"
         },
         {
             "name":"fillvalue",
@@ -230,7 +230,7 @@
         },
         {
             "name":"maxlen",
-            "zpy":"马克斯•莱恩"
+            "zpy":"马克斯莱恩"
         },
         {
             "name":"filterfalse",
@@ -242,7 +242,7 @@
         },
         {
             "name":"function",
-            "zpy":"官能"
+            "zpy":"目标函数"
         },
         {
             "name":"cashflows",
@@ -254,7 +254,7 @@
         },
         {
             "name":"permutations",
-            "zpy":"（一组事物可能的一种）序列"
+            "zpy":"一组事物可能的一种序列"
         },
         {
             "name":"kernel",
@@ -274,11 +274,11 @@
         },
         {
             "name":"elem",
-            "zpy":"伊特姆"
+            "zpy":"elem"
         },
         {
             "name":"iterable",
-            "zpy":"嗯可以"
+            "zpy":"可迭代"
         },
         {
             "name":"popleft",
@@ -290,7 +290,7 @@
         },
         {
             "name":"iterables",
-            "zpy":"e增加"
+            "zpy":"所有可枚举值"
         },
         {
             "name":"groupby",
@@ -298,7 +298,7 @@
         },
         {
             "name":"pred",
-            "zpy":"断言;宣布谓语(谓词)"
+            "zpy":"断言"
         },
         {
             "name":"from_iterable",
@@ -342,11 +342,11 @@
         },
         {
             "name":"cycles",
-            "zpy":"循环动作圈数;周期(周期的复数)"
+            "zpy":"循环动作圈数"
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"itemgetter",
@@ -386,7 +386,7 @@
         },
         {
             "name":"choices",
-            "zpy":"选择(选择的复数)"
+            "zpy":"选择"
         },
         {
             "name":"pool",
@@ -398,7 +398,7 @@
         },
         {
             "name":"collections",
-            "zpy":"集合物件收集(收集的复数)"
+            "zpy":"集合物件收集"
         },
         {
             "name":"true_iterator",
@@ -414,7 +414,7 @@
         },
         {
             "name":"values",
-            "zpy":"对价值的看法"
+            "zpy":"所有值"
         },
         {
             "name":"seen_add",
@@ -422,7 +422,7 @@
         },
         {
             "name":"vec2",
-            "zpy":"vec 2"
+            "zpy":"vec2"
         },
         {
             "name":"zip_longest",
@@ -438,7 +438,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

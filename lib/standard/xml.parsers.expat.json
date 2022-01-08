@@ -1,6 +1,6 @@
 {
     "name":"xml.parsers.expat",
-    "zpy":null,
+    "zpy":"xml.parsers.expat",
     "functions":[
         {
             "name":"ExternalEntityRefHandler",
@@ -16,7 +16,7 @@
         },
         {
             "name":"EndCdataSectionHandler",
-            "zpy":"End C data Section Handler"
+            "zpy":"EndCdataSectionHandler"
         },
         {
             "name":"GetBase",
@@ -32,11 +32,11 @@
         },
         {
             "name":"XML_CTYPE_ANY",
-            "zpy":"XML CTYPE任何"
+            "zpy":"XMLCTYPE任何"
         },
         {
             "name":"XML_CQUANT_NONE",
-            "zpy":"XML CQUANT没有"
+            "zpy":"XMLCQUANT没有"
         },
         {
             "name":"ErrorCode",
@@ -48,7 +48,7 @@
         },
         {
             "name":"XML_CTYPE_EMPTY",
-            "zpy":"XML CTYPE空"
+            "zpy":"XMLCTYPE空"
         },
         {
             "name":"XML_ERROR_TAG_MISMATCH",
@@ -64,7 +64,7 @@
         },
         {
             "name":"XML_ERROR_BAD_CHAR_REF",
-            "zpy":"XML错误错误char ref"
+            "zpy":"XML错误错误charref"
         },
         {
             "name":"XML_ERROR_JUNK_AFTER_DOC_ELEMENT",
@@ -72,7 +72,7 @@
         },
         {
             "name":"ElementDeclHandler",
-            "zpy":"元素Dec l处理程序"
+            "zpy":"元素Decl处理程序"
         },
         {
             "name":"XML_ERROR_ASYNC_ENTITY",
@@ -88,7 +88,7 @@
         },
         {
             "name":"XML_CTYPE_MIXED",
-            "zpy":"XML CTYPE混合"
+            "zpy":"XMLCTYPE混合"
         },
         {
             "name":"buffer_size",
@@ -96,7 +96,7 @@
         },
         {
             "name":"XML_ERROR_FEATURE_REQUIRES_XML_DTD",
-            "zpy":"XML错误特性需要XML dtd"
+            "zpy":"XML错误特性需要XMLdtd"
         },
         {
             "name":"XML_ERROR_UNCLOSED_TOKEN",
@@ -108,7 +108,7 @@
         },
         {
             "name":"NotationDeclHandler",
-            "zpy":"符号Dec l处理程序"
+            "zpy":"符号Decl处理程序"
         },
         {
             "name":"XML_ERROR_ABORTED",
@@ -116,11 +116,11 @@
         },
         {
             "name":"EndDoctypeDeclHandler",
-            "zpy":"结束做ctype Dec l Handler"
+            "zpy":"结束做ctypeDeclHandler"
         },
         {
             "name":"ParserCreate",
-            "zpy":"解析器创建、"
+            "zpy":"解析器创建"
         },
         {
             "name":"XML_ERROR_RECURSIVE_ENTITY_REF",
@@ -132,7 +132,7 @@
         },
         {
             "name":"UnparsedEntityDeclHandler",
-            "zpy":"unparsed实体Dec l Handler"
+            "zpy":"unparsed实体DeclHandler"
         },
         {
             "name":"XML_ERROR_UNDEFINED_ENTITY",
@@ -148,7 +148,7 @@
         },
         {
             "name":"XML_CTYPE_NAME",
-            "zpy":"XML CTYPE名字"
+            "zpy":"XMLCTYPE名字"
         },
         {
             "name":"CharacterDataHandler",
@@ -192,7 +192,7 @@
         },
         {
             "name":"XML_CQUANT_OPT",
-            "zpy":"XML CQUANT选择"
+            "zpy":"XMLCQUANT选择"
         },
         {
             "name":"XMLParserType",
@@ -216,7 +216,7 @@
         },
         {
             "name":"XmlDeclHandler",
-            "zpy":"Xml Dec l处理器"
+            "zpy":"XmlDecl处理器"
         },
         {
             "name":"CurrentByteIndex",
@@ -244,7 +244,7 @@
         },
         {
             "name":"XML_CQUANT_PLUS",
-            "zpy":"XML CQUANT +"
+            "zpy":"XML_CQUANT_PLUS"
         },
         {
             "name":"ExternalEntityParserCreate",
@@ -264,7 +264,7 @@
         },
         {
             "name":"StartNamespaceDeclHandler",
-            "zpy":"启动命名空间Dec l Handler"
+            "zpy":"启动命名空间DeclHandler"
         },
         {
             "name":"XML_ERROR_XML_DECL",
@@ -312,7 +312,7 @@
         },
         {
             "name":"EndNamespaceDeclHandler",
-            "zpy":"结束命名空间Dec l Handler"
+            "zpy":"结束命名空间DeclHandler"
         },
         {
             "name":"NotStandaloneHandler",
@@ -320,7 +320,7 @@
         },
         {
             "name":"XML_CTYPE_CHOICE",
-            "zpy":"XML CTYPE选择"
+            "zpy":"XMLCTYPE选择"
         },
         {
             "name":"XML_ERROR_CANT_CHANGE_FEATURE_ONCE_PARSING",
@@ -332,7 +332,7 @@
         },
         {
             "name":"StartDoctypeDeclHandler",
-            "zpy":"开始做ctype Dec l Handler"
+            "zpy":"开始做ctypeDeclHandler"
         },
         {
             "name":"ErrorString",
@@ -360,7 +360,7 @@
         },
         {
             "name":"XML_CQUANT_REP",
-            "zpy":"XML CQUANT代表"
+            "zpy":"XMLCQUANT代表"
         },
         {
             "name":"UseForeignDTD",
@@ -376,7 +376,7 @@
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         },
         {
             "name":"XML_ERROR_MISPLACED_XML_PI",
@@ -384,7 +384,7 @@
         },
         {
             "name":"AttlistDeclHandler",
-            "zpy":"在t列表Dec l Handler"
+            "zpy":"在t列表DeclHandler"
         },
         {
             "name":"EndElementHandler",
@@ -392,7 +392,7 @@
         },
         {
             "name":"XML_CTYPE_SEQ",
-            "zpy":"XML CTYPE SEQ"
+            "zpy":"XML_CTYPE_SEQ"
         }
     ],
     "args":[
@@ -422,11 +422,11 @@
         },
         {
             "name":"errno",
-            "zpy":"呃不"
+            "zpy":"数字错误码"
         },
         {
             "name":"elem1",
-            "zpy":"el em 1"
+            "zpy":"elem1"
         },
         {
             "name":"standalone",
@@ -434,7 +434,7 @@
         },
         {
             "name":"element",
-            "zpy":"元件"
+            "zpy":"元素"
         },
         {
             "name":"flag",
@@ -442,7 +442,7 @@
         },
         {
             "name":"parsers",
-            "zpy":"(解析器的复数)分析程序"
+            "zpy":"分析程序"
         },
         {
             "name":"parent",
@@ -454,7 +454,7 @@
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"entityName",
@@ -502,7 +502,7 @@
         },
         {
             "name":"ParserCreate",
-            "zpy":"解析器创建、"
+            "zpy":"解析器创建"
         },
         {
             "name":"messages",
@@ -518,7 +518,7 @@
         },
         {
             "name":"attributes",
-            "zpy":"属性(属性的复数)"
+            "zpy":"属性"
         },
         {
             "name":"prefix",
@@ -526,7 +526,7 @@
         },
         {
             "name":"expat",
-            "zpy":"逐出国外;脱离国籍;放逐;移居国外"
+            "zpy":"逐出国外"
         },
         {
             "name":"namespace_separator",
@@ -542,15 +542,15 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"doctypeName",
-            "zpy":"doc typeName"
+            "zpy":"doctypeName"
         },
         {
             "name":"elem2",
-            "zpy":"el em 2"
+            "zpy":"elem2"
         },
         {
             "name":"CharacterDataHandler",
@@ -562,7 +562,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"ExpatError",
@@ -578,7 +578,7 @@
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"child1",
@@ -614,7 +614,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"child2",

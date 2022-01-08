@@ -1,6 +1,6 @@
 {
     "name":"base64",
-    "zpy":null,
+    "zpy":"base64",
     "functions":[
         {
             "name":"decodebytes",
@@ -8,7 +8,7 @@
         },
         {
             "name":"b32encode",
-            "zpy":"b 32编码"
+            "zpy":"b32编码"
         },
         {
             "name":"standard_b64encode",
@@ -16,11 +16,11 @@
         },
         {
             "name":"b32decode",
-            "zpy":"b 32解码"
+            "zpy":"b32解码"
         },
         {
             "name":"urlsafe_b64encode",
-            "zpy":"urlsafe b64encode"
+            "zpy":"urlsafe_b64encode"
         },
         {
             "name":"standard_b64decode",
@@ -28,11 +28,11 @@
         },
         {
             "name":"b16decode",
-            "zpy":"b 16解码"
+            "zpy":"b16解码"
         },
         {
             "name":"encode",
-            "zpy":"把(电文、情报等)译成密码"
+            "zpy":"编码"
         },
         {
             "name":"b32hexencode",
@@ -40,7 +40,7 @@
         },
         {
             "name":"b16encode",
-            "zpy":"b 16编码"
+            "zpy":"b16编码"
         },
         {
             "name":"encodebytes",
@@ -48,27 +48,27 @@
         },
         {
             "name":"a85decode",
-            "zpy":"85年的解码"
+            "zpy":"a85decode"
         },
         {
             "name":"b64decode",
-            "zpy":"b 64解码"
+            "zpy":"b64解码"
         },
         {
             "name":"b85encode",
-            "zpy":"b 85编码"
+            "zpy":"b85编码"
         },
         {
             "name":"b64encode",
-            "zpy":"b 64编码"
+            "zpy":"b64编码"
         },
         {
             "name":"a85encode",
-            "zpy":"85编码"
+            "zpy":"a85encode"
         },
         {
             "name":"b85decode",
-            "zpy":"b 85解码"
+            "zpy":"b85解码"
         },
         {
             "name":"b32hexdecode",
@@ -80,13 +80,13 @@
         },
         {
             "name":"urlsafe_b64decode",
-            "zpy":"urlsafe b64decode"
+            "zpy":"urlsafe_b64decode"
         }
     ],
     "args":[
         {
             "name":"map01",
-            "zpy":"01地图"
+            "zpy":"map01"
         },
         {
             "name":"wrapcol",
@@ -102,7 +102,7 @@
         },
         {
             "name":"b64encode",
-            "zpy":"b 64编码"
+            "zpy":"b64编码"
         },
         {
             "name":"foldspaces",
@@ -110,7 +110,7 @@
         },
         {
             "name":"casefold",
-            "zpy":"褶皱"
+            "zpy":"消除大小写"
         },
         {
             "name":"output",
@@ -122,7 +122,7 @@
         },
         {
             "name":"base64",
-            "zpy":"64年基地"
+            "zpy":"base64"
         },
         {
             "name":"encoded",
@@ -138,11 +138,11 @@
         },
         {
             "name":"b64decode",
-            "zpy":"b 64解码"
+            "zpy":"b64解码"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

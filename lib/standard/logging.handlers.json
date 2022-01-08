@@ -1,6 +1,6 @@
 {
     "name":"logging.handlers",
-    "zpy":null,
+    "zpy":"logging.handlers",
     "functions":[
         {
             "name":"getpass",

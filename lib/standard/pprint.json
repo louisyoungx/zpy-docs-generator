@@ -1,6 +1,6 @@
 {
     "name":"pprint",
-    "zpy":null,
+    "zpy":"pprint",
     "functions":[
         {
             "name":"saferepr",
@@ -28,7 +28,7 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         }
     ],
     "args":[
@@ -54,7 +54,7 @@
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"depth",
@@ -110,7 +110,7 @@
         },
         {
             "name":"object",
-            "zpy":"物体"
+            "zpy":"对象"
         },
         {
             "name":"urlopen",
@@ -126,7 +126,7 @@
         },
         {
             "name":"json",
-            "zpy":"JavaScript对象符号(JavaScriptSerializedObjectNotation)"
+            "zpy":"JavaScript对象符号"
         }
     ]
 }

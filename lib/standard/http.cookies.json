@@ -1,6 +1,6 @@
 {
     "name":"http.cookies",
-    "zpy":null,
+    "zpy":"http.cookies",
     "functions":[
         {
             "name":"isReservedKey",
@@ -28,7 +28,7 @@
         },
         {
             "name":"setdefault",
-            "zpy":"设置默认"
+            "zpy":"设默认值"
         },
         {
             "name":"load",
@@ -60,7 +60,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"value_decode",
@@ -90,11 +90,11 @@
         },
         {
             "name":"values",
-            "zpy":"对价值的看法"
+            "zpy":"所有值"
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"rawdata",
@@ -102,7 +102,7 @@
         },
         {
             "name":"items",
-            "zpy":"项目名目所有物品(项目的复数形式)"
+            "zpy":"所有项"
         },
         {
             "name":"coded_value",

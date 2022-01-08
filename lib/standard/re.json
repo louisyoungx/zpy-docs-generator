@@ -4,7 +4,7 @@
     "functions":[
         {
             "name":"flags",
-            "zpy":"标记旗帜(国旗的复数)"
+            "zpy":"所有标志"
         },
         {
             "name":"groupindex",
@@ -12,11 +12,11 @@
         },
         {
             "name":"groupdict",
-            "zpy":"dic t组"
+            "zpy":"dict组"
         },
         {
             "name":"group",
-            "zpy":"团体"
+            "zpy":"群"
         },
         {
             "name":"expand",
@@ -40,7 +40,7 @@
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"finditer",
@@ -68,7 +68,7 @@
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"span",
@@ -104,7 +104,7 @@
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"拆分"
         },
         {
             "name":"IGNORECASE",
@@ -120,7 +120,7 @@
         },
         {
             "name":"__getitem__",
-            "zpy":"getitem"
+            "zpy":"__getitem__"
         },
         {
             "name":"lastindex",
@@ -136,25 +136,25 @@
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         }
     ],
     "args":[
         {
             "name":"'NoneType' object has no attribute 'group'",
-            "zpy":"' NoneType '对象没有属性' group '"
+            "zpy":"NoneType对象没有属性group"
         },
         {
             "name":"entries",
-            "zpy":"进入;(词典所列的)词目(条目的复数形式)"
+            "zpy":"进入"
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"groupdict",
-            "zpy":"dic t组"
+            "zpy":"dict组"
         },
         {
             "name":"displaymatch",
@@ -166,7 +166,7 @@
         },
         {
             "name":"tokenize",
-            "zpy":"令牌、"
+            "zpy":"令牌"
         },
         {
             "name":"code",
@@ -182,7 +182,7 @@
         },
         {
             "name":"replace",
-            "zpy":"代替"
+            "zpy":"替换"
         },
         {
             "name":"fullmatch",
@@ -190,7 +190,7 @@
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"拆分"
         },
         {
             "name":"pair",
@@ -202,7 +202,7 @@
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"sbin",
@@ -222,11 +222,11 @@
         },
         {
             "name":"group",
-            "zpy":"团体"
+            "zpy":"群"
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"inner_word",
@@ -242,7 +242,7 @@
         },
         {
             "name":"statements",
-            "zpy":"声明报告陈述句;状态说明(声明的复数形式)"
+            "zpy":"声明报告陈述句"
         },
         {
             "name":"default",
@@ -258,7 +258,7 @@
         },
         {
             "name":"dashrepl",
-            "zpy":"dash pl"
+            "zpy":"dashrepl"
         },
         {
             "name":"search",
@@ -270,7 +270,7 @@
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"match",
@@ -282,7 +282,7 @@
         },
         {
             "name":"<module>",
-            "zpy":"> <模块"
+            "zpy":"模块"
         },
         {
             "name":"result",
@@ -310,7 +310,7 @@
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"process",
@@ -330,7 +330,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"escape",
@@ -338,7 +338,7 @@
         },
         {
             "name":"digits",
-            "zpy":"数字;手指;足趾(数字的复数)"
+            "zpy":"数字"
         },
         {
             "name":"findall",
@@ -350,7 +350,7 @@
         },
         {
             "name":"flags",
-            "zpy":"标记旗帜(国旗的复数)"
+            "zpy":"所有标志"
         },
         {
             "name":"matchobj",
@@ -358,7 +358,7 @@
         },
         {
             "name":"maxsplit",
-            "zpy":"马克斯分裂"
+            "zpy":"最大拆分"
         },
         {
             "name":"lastgroup",
@@ -382,7 +382,7 @@
         },
         {
             "name":"operators",
-            "zpy":"(某企业的)经营者(运营商的复数形式);(机器设备等的)操作员;电话接线员;投机取巧者"
+            "zpy":"操作员"
         },
         {
             "name":"MULTILINE",
@@ -406,7 +406,7 @@
         },
         {
             "name":"warnings",
-            "zpy":"发出警告(警告的复数形式);征候;<古>(解雇辞职等的)预先通知;可引以为戒的事(或人)"
+            "zpy":"发出警告"
         },
         {
             "name":"legal_chars",

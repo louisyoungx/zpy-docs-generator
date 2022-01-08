@@ -1,6 +1,6 @@
 {
     "name":"faulthandler",
-    "zpy":null,
+    "zpy":"faulthandler",
     "functions":[
         {
             "name":"unregister",
@@ -58,7 +58,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"repeat",

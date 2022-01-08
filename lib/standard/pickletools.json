@@ -1,6 +1,6 @@
 {
     "name":"pickletools",
-    "zpy":null,
+    "zpy":"pickletools",
     "functions":[
         {
             "name":"--output",
@@ -12,11 +12,11 @@
         },
         {
             "name":"--indentlevel",
-            "zpy":"indentlevel"
+            "zpy":"--indentlevel"
         },
         {
             "name":"optimize",
-            "zpy":"使完美"
+            "zpy":"优化"
         },
         {
             "name":"--preamble",

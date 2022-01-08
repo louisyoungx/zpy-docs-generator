@@ -50,7 +50,7 @@
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"limit_denominator",
@@ -70,7 +70,7 @@
         },
         {
             "name":"max_denominator",
-            "zpy":"马克斯•分母"
+            "zpy":"马克斯分母"
         },
         {
             "name":"numerator",
@@ -94,7 +94,7 @@
         },
         {
             "name":"float",
-            "zpy":"漂流物"
+            "zpy":"浮点数"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "name":"xml.sax.handler",
-    "zpy":null,
+    "zpy":"xml.sax.handler",
     "functions":[
         {
             "name":"quoteattr",
@@ -30,7 +30,7 @@
     "args":[
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"quoteattr",
@@ -42,7 +42,7 @@
         },
         {
             "name":"entities",
-            "zpy":"实体对像;实体"
+            "zpy":"实体对像"
         },
         {
             "name":"base",
@@ -50,11 +50,11 @@
         },
         {
             "name":"source",
-            "zpy":"来源"
+            "zpy":"源"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

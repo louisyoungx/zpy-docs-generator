@@ -1,6 +1,6 @@
 {
     "name":"ensurepip",
-    "zpy":null,
+    "zpy":"ensurepip",
     "functions":[
         {
             "name":"bootstrap",

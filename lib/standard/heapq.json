@@ -1,6 +1,6 @@
 {
     "name":"heapq",
-    "zpy":null,
+    "zpy":"heapq",
     "functions":[
         {
             "name":"heappush",
@@ -54,11 +54,11 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"item",
-            "zpy":"项目"
+            "zpy":"项"
         },
         {
             "name":"priority",
@@ -70,11 +70,11 @@
         },
         {
             "name":"iterable",
-            "zpy":"嗯可以"
+            "zpy":"可迭代"
         },
         {
             "name":"iterables",
-            "zpy":"e增加"
+            "zpy":"所有可枚举值"
         },
         {
             "name":"heap",
@@ -86,7 +86,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"heappush",

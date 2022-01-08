@@ -1,6 +1,6 @@
 {
     "name":"pty",
-    "zpy":"巴拿马城（PanamaCity）；伪终端（\tPseudo-TerminalUtilities）；节目类型（ProgramType）",
+    "zpy":"巴拿马城PanamaCity",
     "functions":[
         {
             "name":"ioctl",
@@ -12,7 +12,7 @@
         },
         {
             "name":"fcntl",
-            "zpy":"fc ntl"
+            "zpy":"fcntl"
         },
         {
             "name":"lockf",
@@ -30,15 +30,15 @@
         },
         {
             "name":"getpgrp",
-            "zpy":"得到p grp"
+            "zpy":"得到pgrp"
         },
         {
             "name":"F_SETLKW",
-            "zpy":"F SETLKW"
+            "zpy":"F_SETLKW"
         },
         {
             "name":"F_WRLCK",
-            "zpy":"F WRLCK"
+            "zpy":"F_WRLCK"
         },
         {
             "name":"whence",
@@ -50,23 +50,23 @@
         },
         {
             "name":"pack",
-            "zpy":"包裹"
+            "zpy":"包"
         },
         {
             "name":"termios",
-            "zpy":"ios"
+            "zpy":"termios"
         },
         {
             "name":"array",
-            "zpy":"排列"
+            "zpy":"数组"
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"struct",
-            "zpy":"结构；结构体；创建构架数组"
+            "zpy":"结构"
         },
         {
             "name":"ioctl",
@@ -78,7 +78,7 @@
         },
         {
             "name":"TIOCGPGRP",
-            "zpy":"T ioc gp grp"
+            "zpy":"TIOCGPGRP"
         },
         {
             "name":"lockdata",
@@ -86,7 +86,7 @@
         },
         {
             "name":"fcntl",
-            "zpy":"fc ntl"
+            "zpy":"fcntl"
         },
         {
             "name":"request",
@@ -94,7 +94,7 @@
         },
         {
             "name":"F_SETFL",
-            "zpy":"F SETFL"
+            "zpy":"F_SETFL"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
     "name":"netrc",
-    "zpy":null,
+    "zpy":"netrc",
     "functions":[
         {
             "name":"authenticators",
-            "zpy":"(认证者的复数)鉴别符"
+            "zpy":"鉴别符"
         },
         {
             "name":"NetrcParseError",
-            "zpy":"Net rc解析错误"
+            "zpy":"Netrc解析错误"
         },
         {
             "name":"macros",
@@ -16,11 +16,11 @@
         },
         {
             "name":"__repr__",
-            "zpy":"repr"
+            "zpy":"__repr__"
         },
         {
             "name":"hosts",
-            "zpy":""
+            "zpy":"hosts"
         },
         {
             "name":"netrc",

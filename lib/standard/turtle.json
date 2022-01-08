@@ -4,7 +4,7 @@
     "functions":[
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"undo",
@@ -12,7 +12,7 @@
         },
         {
             "name":"bgcolor",
-            "zpy":"背景颜色(写成backgroundcolor)"
+            "zpy":"背景颜色"
         },
         {
             "name":"pendown",
@@ -36,7 +36,7 @@
         },
         {
             "name":"seth",
-            "zpy":"赛斯（男子名）"
+            "zpy":"赛斯男子名"
         },
         {
             "name":"onclick",
@@ -172,11 +172,11 @@
         },
         {
             "name":"turtles",
-            "zpy":"乌龟(龟的复数)"
+            "zpy":"乌龟"
         },
         {
             "name":"clear",
-            "zpy":"清楚的"
+            "zpy":"清除"
         },
         {
             "name":"clearstamp",
@@ -260,7 +260,7 @@
         },
         {
             "name":"Vec2D",
-            "zpy":"Vec 2 D"
+            "zpy":"Vec2D"
         },
         {
             "name":"color",
@@ -268,7 +268,7 @@
         },
         {
             "name":"setx",
-            "zpy":"集合x"
+            "zpy":"设置x"
         },
         {
             "name":"window_height",
@@ -324,7 +324,7 @@
         },
         {
             "name":"title",
-            "zpy":"头衔"
+            "zpy":"标题"
         },
         {
             "name":"getshapes",
@@ -360,7 +360,7 @@
         },
         {
             "name":"get_shapepoly",
-            "zpy":"shapepoly"
+            "zpy":"get_shapepoly"
         },
         {
             "name":"resetscreen",
@@ -438,7 +438,7 @@
     "args":[
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"undo",
@@ -454,7 +454,7 @@
         },
         {
             "name":"bgcolor",
-            "zpy":"背景颜色(写成backgroundcolor)"
+            "zpy":"背景颜色"
         },
         {
             "name":"pendown",
@@ -638,7 +638,7 @@
         },
         {
             "name":"steps",
-            "zpy":"（楼外的）台阶；步伐；步幅；步数"
+            "zpy":"楼外的台阶"
         },
         {
             "name":"speed",
@@ -654,7 +654,7 @@
         },
         {
             "name":"turtles",
-            "zpy":"乌龟(龟的复数)"
+            "zpy":"乌龟"
         },
         {
             "name":"canvas",
@@ -698,7 +698,7 @@
         },
         {
             "name":"pendict",
-            "zpy":"p ict结束"
+            "zpy":"pict结束"
         },
         {
             "name":"hideturtle",
@@ -778,7 +778,7 @@
         },
         {
             "name":"dist",
-            "zpy":"距离(距离)分配(分布)"
+            "zpy":"距离"
         },
         {
             "name":"canvwidth",
@@ -786,7 +786,7 @@
         },
         {
             "name":"setx",
-            "zpy":"集合x"
+            "zpy":"设置x"
         },
         {
             "name":"minval",
@@ -870,7 +870,7 @@
         },
         {
             "name":"maxval",
-            "zpy":"马克斯•瓦尔"
+            "zpy":"马克斯瓦尔"
         },
         {
             "name":"resizemode",
@@ -886,7 +886,7 @@
         },
         {
             "name":"title",
-            "zpy":"头衔"
+            "zpy":"标题"
         },
         {
             "name":"topbottom",
@@ -902,7 +902,7 @@
         },
         {
             "name":"items",
-            "zpy":"项目名目所有物品(项目的复数形式)"
+            "zpy":"所有项"
         },
         {
             "name":"standard",
@@ -950,7 +950,7 @@
         },
         {
             "name":"get_shapepoly",
-            "zpy":"shapepoly"
+            "zpy":"get_shapepoly"
         },
         {
             "name":"getcanvas",
@@ -982,7 +982,7 @@
         },
         {
             "name":"bad color sequence: (240, 160, 80)",
-            "zpy":"色序不良:(24016080)"
+            "zpy":"色序不良"
         },
         {
             "name":"astamp",
@@ -994,7 +994,7 @@
         },
         {
             "name":"help",
-            "zpy":"帮忙"
+            "zpy":"帮助"
         },
         {
             "name":"canvheight",
@@ -1070,7 +1070,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

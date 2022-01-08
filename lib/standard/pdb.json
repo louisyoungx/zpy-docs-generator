@@ -1,10 +1,10 @@
 {
     "name":"pdb",
-    "zpy":"临时区议会；物理数据库",
+    "zpy":"临时区议会",
     "functions":[
         {
             "name":"retval",
-            "zpy":"ret val"
+            "zpy":"retval"
         },
         {
             "name":"set_trace",
@@ -12,23 +12,23 @@
         },
         {
             "name":"w(here)",
-            "zpy":"W(这里)"
+            "zpy":"w(here)"
         },
         {
             "name":"h(elp)",
-            "zpy":"H (elp)"
+            "zpy":"h(elp)"
         },
         {
             "name":"cl(ear)",
-            "zpy":"Cl(耳朵)"
+            "zpy":"cl(ear)"
         },
         {
             "name":"source",
-            "zpy":"来源"
+            "zpy":"源"
         },
         {
             "name":"c(ont(inue))",
-            "zpy":"C(在此之前)"
+            "zpy":"c(ont(inue))"
         },
         {
             "name":"whatis",
@@ -40,19 +40,19 @@
         },
         {
             "name":"l(ist)",
-            "zpy":"L (ist)"
+            "zpy":"l(ist)"
         },
         {
             "name":"n(ext)",
-            "zpy":"N(外)"
+            "zpy":"n(ext)"
         },
         {
             "name":"s(tep)",
-            "zpy":"S (tep)"
+            "zpy":"s(tep)"
         },
         {
             "name":"u(p)",
-            "zpy":"U (p)"
+            "zpy":"u(p)"
         },
         {
             "name":"restart",
@@ -80,11 +80,11 @@
         },
         {
             "name":"unt(il)",
-            "zpy":"Unt (il)"
+            "zpy":"unt(il)"
         },
         {
             "name":"b(reak)",
-            "zpy":"B(哎呀)"
+            "zpy":"b(reak)"
         },
         {
             "name":"disable",
@@ -112,15 +112,15 @@
         },
         {
             "name":"r(eturn)",
-            "zpy":"R(返回)"
+            "zpy":"r(eturn)"
         },
         {
             "name":"a(rgs)",
-            "zpy":"A (RGS)"
+            "zpy":"a(rgs)"
         },
         {
             "name":"q(uit)",
-            "zpy":"Q (uit)"
+            "zpy":"q(uit)"
         },
         {
             "name":"commands",
@@ -128,7 +128,7 @@
         },
         {
             "name":"d(own)",
-            "zpy":"D(拥有)"
+            "zpy":"d(own)"
         },
         {
             "name":"display",
@@ -140,7 +140,7 @@
         },
         {
             "name":"j(ump)",
-            "zpy":"J (ump)"
+            "zpy":"j(ump)"
         }
     ],
     "args":[
@@ -154,7 +154,7 @@
         },
         {
             "name":"function",
-            "zpy":"官能"
+            "zpy":"目标函数"
         },
         {
             "name":"args",
@@ -186,7 +186,7 @@
         },
         {
             "name":"globals",
-            "zpy":"全球的年代"
+            "zpy":"全局变量"
         },
         {
             "name":"alias",
@@ -194,7 +194,7 @@
         },
         {
             "name":"python3",
-            "zpy":"python 3"
+            "zpy":"python3"
         },
         {
             "name":"readrc",
@@ -230,7 +230,7 @@
         },
         {
             "name":"<module>",
-            "zpy":"> <模块"
+            "zpy":"模块"
         },
         {
             "name":"traceback",
@@ -238,7 +238,7 @@
         },
         {
             "name":"keys",
-            "zpy":"关键帧;(钢琴等的)键;密钥(关键的复数)"
+            "zpy":"所有键"
         },
         {
             "name":"commands",
@@ -246,7 +246,7 @@
         },
         {
             "name":"locals",
-            "zpy":"当地人；区域变量"
+            "zpy":"局部变量"
         },
         {
             "name":"header",

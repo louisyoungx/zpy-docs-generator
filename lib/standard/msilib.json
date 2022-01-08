@@ -1,6 +1,6 @@
 {
     "name":"msilib",
-    "zpy":null,
+    "zpy":"msilib",
     "functions":[
         {
             "name":"text",
@@ -8,11 +8,11 @@
         },
         {
             "name":"FCICreate",
-            "zpy":"FCI创建、"
+            "zpy":"FCI创建"
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"SetInteger",
@@ -36,7 +36,7 @@
         },
         {
             "name":"Feature",
-            "zpy":"面孔的一部分(如眼、口等)"
+            "zpy":"面孔的一部分"
         },
         {
             "name":"RadioButtonGroup",
@@ -152,7 +152,7 @@
         },
         {
             "name":"Commit",
-            "zpy":"委托(托付)"
+            "zpy":"委托"
         },
         {
             "name":"OpenDatabase",
@@ -168,7 +168,7 @@
         },
         {
             "name":"commit",
-            "zpy":"委托(托付)"
+            "zpy":"委托"
         },
         {
             "name":"sequence",
@@ -188,7 +188,7 @@
         },
         {
             "name":"mapping",
-            "zpy":"映射;变换;映象"
+            "zpy":"映射"
         },
         {
             "name":"schema",
@@ -218,11 +218,11 @@
     "args":[
         {
             "name":"files",
-            "zpy":"文件;文档(文件的复数)"
+            "zpy":"文件"
         },
         {
             "name":"flags",
-            "zpy":"标记旗帜(国旗的复数)"
+            "zpy":"所有标志"
         },
         {
             "name":"text",
@@ -242,7 +242,7 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"event",
@@ -286,7 +286,7 @@
         },
         {
             "name":"help",
-            "zpy":"帮忙"
+            "zpy":"帮助"
         },
         {
             "name":"ProductName",
@@ -310,11 +310,11 @@
         },
         {
             "name":"table",
-            "zpy":"桌子"
+            "zpy":"表"
         },
         {
             "name":"feature",
-            "zpy":"面孔的一部分(如眼、口等)"
+            "zpy":"面孔的一部分"
         },
         {
             "name":"condition",
@@ -338,7 +338,7 @@
         },
         {
             "name":"attributes",
-            "zpy":"属性(属性的复数)"
+            "zpy":"属性"
         },
         {
             "name":"type",
@@ -366,11 +366,11 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"title",
-            "zpy":"头衔"
+            "zpy":"标题"
         },
         {
             "name":"argument",
@@ -378,11 +378,11 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"desc",
-            "zpy":"降序排列(下降的缩写)美国国防电子器材供应中心(TheDefenseEnergySupportCenter)"
+            "zpy":"降序排列"
         },
         {
             "name":"directory",
@@ -402,7 +402,7 @@
         },
         {
             "name":"property",
-            "zpy":"财产"
+            "zpy":"属性值"
         },
         {
             "name":"control_next",
@@ -438,11 +438,11 @@
         },
         {
             "name":"params",
-            "zpy":"参数;参数个数(param的复数)"
+            "zpy":"参数"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"ProductVersion",

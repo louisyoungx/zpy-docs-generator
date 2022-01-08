@@ -1,6 +1,6 @@
 {
     "name":"imghdr",
-    "zpy":null,
+    "zpy":"imghdr",
     "functions":[
         {
             "name":"whathdr",

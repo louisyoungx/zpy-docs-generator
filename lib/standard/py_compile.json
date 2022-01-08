@@ -1,6 +1,6 @@
 {
     "name":"py_compile",
-    "zpy":null,
+    "zpy":"py_compile",
     "functions":[
         {
             "name":"UNCHECKED_HASH",
@@ -12,7 +12,7 @@
         },
         {
             "name":"TIMESTAMP",
-            "zpy":"时间戳；时间邮票"
+            "zpy":"时间戳"
         },
         {
             "name":"CHECKED_HASH",
@@ -20,11 +20,11 @@
         },
         {
             "name":"<file>",
-            "zpy":"<文件>"
+            "zpy":"文件"
         },
         {
             "name":"PycInvalidationMode",
-            "zpy":"Py c无效模式"
+            "zpy":"Pyc无效模式"
         },
         {
             "name":"--quiet",
@@ -50,7 +50,7 @@
         },
         {
             "name":"optimize",
-            "zpy":"使完美"
+            "zpy":"优化"
         },
         {
             "name":"quiet",
@@ -58,7 +58,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"dfile",

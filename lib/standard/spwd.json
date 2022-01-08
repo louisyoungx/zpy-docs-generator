@@ -1,6 +1,6 @@
 {
     "name":"spwd",
-    "zpy":null,
+    "zpy":"spwd",
     "functions":[
         {
             "name":"getgrnam",
@@ -12,7 +12,7 @@
         },
         {
             "name":"getgrgid",
-            "zpy":"gr gid"
+            "zpy":"getgrgid"
         }
     ],
     "args":[

@@ -1,10 +1,10 @@
 {
     "name":"binascii",
-    "zpy":null,
+    "zpy":"binascii",
     "functions":[
         {
             "name":"encode",
-            "zpy":"把(电文、情报等)译成密码"
+            "zpy":"编码"
         },
         {
             "name":"decodestring",

@@ -12,7 +12,7 @@
         },
         {
             "name":"__getnewargs__",
-            "zpy":"getnewargs"
+            "zpy":"__getnewargs__"
         },
         {
             "name":"dispatch_table",
@@ -72,7 +72,7 @@
         },
         {
             "name":"loads",
-            "zpy":"货载量；负载"
+            "zpy":"货载量"
         },
         {
             "name":"__reduce_ex__",
@@ -80,7 +80,7 @@
         },
         {
             "name":"__getstate__",
-            "zpy":"getstate:"
+            "zpy":"__getstate__"
         },
         {
             "name":"persistent_id",
@@ -88,7 +88,7 @@
         },
         {
             "name":"dumps",
-            "zpy":"忧郁；废物"
+            "zpy":"忧郁"
         },
         {
             "name":"__reduce__",
@@ -134,11 +134,11 @@
         },
         {
             "name":"global 'os.system' is forbidden",
-            "zpy":"全球操作系统。系统'是禁止的"
+            "zpy":"全球操作系统系统是禁止的"
         },
         {
             "name":"memos",
-            "zpy":"备忘录(备忘录的复数形式);(美)内部通知"
+            "zpy":"备忘录内部通知"
         },
         {
             "name":"safe_builtins",
@@ -166,11 +166,11 @@
         },
         {
             "name":"loads",
-            "zpy":"货载量；负载"
+            "zpy":"货载量"
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"DBPickler",
@@ -210,7 +210,7 @@
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"MyClass",
@@ -246,7 +246,7 @@
         },
         {
             "name":"attributes",
-            "zpy":"属性(属性的复数)"
+            "zpy":"属性"
         },
         {
             "name":"pickle",
@@ -270,11 +270,11 @@
         },
         {
             "name":"dumps",
-            "zpy":"忧郁；废物"
+            "zpy":"忧郁"
         },
         {
             "name":"endswith",
-            "zpy":"结尾"
+            "zpy":"结束随着"
         },
         {
             "name":"connect",
@@ -290,7 +290,7 @@
         },
         {
             "name":"global 'builtins.eval' is forbidden",
-            "zpy":"全球化的内置功能。Eval '是禁止的"
+            "zpy":"全球化的内置功能Eval是禁止的"
         },
         {
             "name":"protocol",
@@ -302,7 +302,7 @@
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"fix_imports",
@@ -314,7 +314,7 @@
         },
         {
             "name":"tasks",
-            "zpy":"任务工作苦差事(任务的复数)"
+            "zpy":"任务工作苦差事"
         },
         {
             "name":"new_reader",
@@ -326,7 +326,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"key_id",
@@ -390,11 +390,11 @@
         },
         {
             "name":"sqlite3",
-            "zpy":"平方lite 3"
+            "zpy":"平方lite3"
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         },
         {
             "name":"TextReader",
@@ -402,7 +402,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

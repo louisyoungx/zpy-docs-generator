@@ -1,6 +1,6 @@
 {
     "name":"ast",
-    "zpy":"大西洋标准时间（AtlanticStandardTime）",
+    "zpy":"大西洋标准时间AtlanticStandardTime",
     "functions":[
         {
             "name":"Store",
@@ -124,7 +124,7 @@
         },
         {
             "name":"Lambda",
-            "zpy":"11希腊语的第个字母(Λλ)"
+            "zpy":"Lambda"
         },
         {
             "name":"Raise",
@@ -212,7 +212,7 @@
         },
         {
             "name":"AugAssign",
-            "zpy":"8月分配"
+            "zpy":"AugAssign"
         },
         {
             "name":"MatchAs",
@@ -304,7 +304,7 @@
         },
         {
             "name":"end_lineno",
-            "zpy":"lineno结束"
+            "zpy":"错误末尾行号"
         },
         {
             "name":"--mode",
@@ -336,7 +336,7 @@
         },
         {
             "name":"Mult",
-            "zpy":"多个多元;多重;复合;乘法乘法"
+            "zpy":"多个多元"
         },
         {
             "name":"fix_missing_locations",
@@ -376,7 +376,7 @@
         },
         {
             "name":"UnaryOp",
-            "zpy":"联合国aryO p"
+            "zpy":"联合国aryOp"
         },
         {
             "name":"NodeVisitor",
@@ -420,11 +420,11 @@
         },
         {
             "name":"DictComp",
-            "zpy":"Dic t排版"
+            "zpy":"Dict排版"
         },
         {
             "name":"With",
-            "zpy":"和...在一起"
+            "zpy":"和在一起"
         },
         {
             "name":"Pass",
@@ -432,11 +432,11 @@
         },
         {
             "name":"PyCF_ONLY_AST",
-            "zpy":"只PyCF AST"
+            "zpy":"只PyCFAST"
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         },
         {
             "name":"NotIn",
@@ -450,11 +450,11 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"kwd_attrs",
-            "zpy":"kwd attrs"
+            "zpy":"kwd_attrs"
         },
         {
             "name":"annotation",
@@ -510,7 +510,7 @@
         },
         {
             "name":"targets",
-            "zpy":"目标枪靶投放范围(目标的复数)"
+            "zpy":"目标枪靶投放范围"
         },
         {
             "name":"rest",
@@ -518,7 +518,7 @@
         },
         {
             "name":"defaults",
-            "zpy":"违约;默认;预设值(默认的复数)"
+            "zpy":"违约"
         },
         {
             "name":"kwd_patterns",
@@ -538,7 +538,7 @@
         },
         {
             "name":"padded",
-            "zpy":"有装填垫料的；脚底有厚肉的"
+            "zpy":"有装填垫料的"
         },
         {
             "name":"finalbody",
@@ -554,7 +554,7 @@
         },
         {
             "name":"patterns",
-            "zpy":"模式(模式的复数形式)"
+            "zpy":"模式"
         },
         {
             "name":"vararg",
@@ -562,7 +562,7 @@
         },
         {
             "name":"handlers",
-            "zpy":"经理人操作者;陶器工人(处理程序的复数)"
+            "zpy":"经理人操作者"
         },
         {
             "name":"test",
@@ -570,7 +570,7 @@
         },
         {
             "name":"step",
-            "zpy":"步骤"
+            "zpy":"步"
         },
         {
             "name":"new_tree",
@@ -594,7 +594,7 @@
         },
         {
             "name":"generators",
-            "zpy":"发电机;生成器(发电机的复数)"
+            "zpy":"发电机"
         },
         {
             "name":"keywords",
@@ -606,7 +606,7 @@
         },
         {
             "name":"body",
-            "zpy":"身体"
+            "zpy":"躯干"
         },
         {
             "name":"expr",
@@ -638,7 +638,7 @@
         },
         {
             "name":"ast_obj",
-            "zpy":"ast obj"
+            "zpy":"ast_obj"
         },
         {
             "name":"kind",
@@ -682,7 +682,7 @@
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"visit",
@@ -718,7 +718,7 @@
         },
         {
             "name":"iter",
-            "zpy":"导管"
+            "zpy":"迭代"
         },
         {
             "name":"optional_vars",
@@ -734,11 +734,11 @@
         },
         {
             "name":"kwarg",
-            "zpy":"千瓦参数"
+            "zpy":"字典参数值"
         },
         {
             "name":"end_lineno",
-            "zpy":"lineno结束"
+            "zpy":"错误末尾行号"
         },
         {
             "name":"subject",
@@ -758,15 +758,15 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"items",
-            "zpy":"项目名目所有物品(项目的复数形式)"
+            "zpy":"所有项"
         },
         {
             "name":"keys",
-            "zpy":"关键帧;(钢琴等的)键;密钥(关键的复数)"
+            "zpy":"所有键"
         },
         {
             "name":"RewriteName",
@@ -782,7 +782,7 @@
         },
         {
             "name":"kwonlyargs",
-            "zpy":"Kw仅arg s"
+            "zpy":"Kw仅args"
         },
         {
             "name":"simple",
@@ -790,7 +790,7 @@
         },
         {
             "name":"names",
-            "zpy":"名字;名望(名称的复数形式)"
+            "zpy":"名字"
         },
         {
             "name":"is_async",
@@ -798,15 +798,15 @@
         },
         {
             "name":"elts",
-            "zpy":"e lts"
+            "zpy":"elts"
         },
         {
             "name":"source",
-            "zpy":"来源"
+            "zpy":"源"
         },
         {
             "name":"bases",
-            "zpy":"基础"
+            "zpy":"所有基础"
         },
         {
             "name":"fix_missing_locations",
@@ -814,7 +814,7 @@
         },
         {
             "name":"upper",
-            "zpy":"上面的"
+            "zpy":"大写"
         },
         {
             "name":"end_col_offset",
@@ -822,11 +822,11 @@
         },
         {
             "name":"returns",
-            "zpy":"回报收益;退货(返回的复数)"
+            "zpy":"回报收益"
         },
         {
             "name":"slice",
-            "zpy":"薄的切片"
+            "zpy":"切片"
         },
         {
             "name":"indent",
@@ -846,7 +846,7 @@
         },
         {
             "name":"UnaryOp",
-            "zpy":"联合国aryO p"
+            "zpy":"联合国aryOp"
         },
         {
             "name":"Load",
@@ -854,7 +854,7 @@
         },
         {
             "name":"unaryop",
-            "zpy":"联合国aryo p"
+            "zpy":"联合国aryop"
         },
         {
             "name":"format_spec",
@@ -866,11 +866,11 @@
         },
         {
             "name":"values",
-            "zpy":"对价值的看法"
+            "zpy":"所有值"
         },
         {
             "name":"cases",
-            "zpy":"案例;箱;情况(case的复数形式)"
+            "zpy":"案例"
         },
         {
             "name":"starargs",
@@ -878,7 +878,7 @@
         },
         {
             "name":"lower",
-            "zpy":"低的"
+            "zpy":"小写"
         },
         {
             "name":"decorator_list",
@@ -890,7 +890,7 @@
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         }
     ]
 }

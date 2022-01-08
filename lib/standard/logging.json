@@ -1,6 +1,6 @@
 {
     "name":"logging",
-    "zpy":"(木材)采运作业",
+    "zpy":"采运作业",
     "functions":[
         {
             "name":"Filter",
@@ -40,7 +40,7 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"getLevelName",
@@ -48,7 +48,7 @@
         },
         {
             "name":"Formatter",
-            "zpy":"划盘程序;格式化程序;格式器"
+            "zpy":"划盘程序"
         },
         {
             "name":"hasHandlers",
@@ -96,7 +96,7 @@
         },
         {
             "name":"flush",
-            "zpy":"流溢"
+            "zpy":"冲洗"
         },
         {
             "name":"LogRecord",
@@ -144,7 +144,7 @@
         },
         {
             "name":"setLogRecordFactory",
-            "zpy":"设置“日志记录工厂”"
+            "zpy":"设置日志记录工厂"
         },
         {
             "name":"formatStack",
@@ -270,11 +270,11 @@
         },
         {
             "name":"exc_info",
-            "zpy":"exc信息"
+            "zpy":"异常信息"
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"warning",
@@ -306,7 +306,7 @@
         },
         {
             "name":"setLogRecordFactory",
-            "zpy":"设置“日志记录工厂”"
+            "zpy":"设置日志记录工厂"
         },
         {
             "name":"level",
@@ -334,19 +334,19 @@
         },
         {
             "name":"logging",
-            "zpy":"(木材)采运作业"
+            "zpy":"采运作业"
         },
         {
             "name":"attrdict",
-            "zpy":"在tr (t)处"
+            "zpy":"在tr处"
         },
         {
             "name":"hdlr",
-            "zpy":"h dlr"
+            "zpy":"hdlr"
         },
         {
             "name":"defaults",
-            "zpy":"违约;默认;预设值(默认的复数)"
+            "zpy":"违约"
         },
         {
             "name":"getLogRecordFactory",
@@ -362,7 +362,7 @@
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         },
         {
             "name":"stacklevel",

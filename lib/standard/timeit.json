@@ -1,6 +1,6 @@
 {
     "name":"timeit",
-    "zpy":null,
+    "zpy":"timeit",
     "functions":[
         {
             "name":"default_timer",
@@ -62,7 +62,7 @@
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"callback",
@@ -86,7 +86,7 @@
         },
         {
             "name":"number",
-            "zpy":"数"
+            "zpy":"数字"
         },
         {
             "name":"stmt",
@@ -98,7 +98,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"repeat",

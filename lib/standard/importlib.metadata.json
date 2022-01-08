@@ -1,11 +1,11 @@
 {
     "name":"importlib.metadata",
-    "zpy":null,
+    "zpy":"importlib.metadata",
     "functions":[],
     "args":[
         {
             "name":"files",
-            "zpy":"文件;文档(文件的复数)"
+            "zpy":"文件"
         },
         {
             "name":"wheel_metadata",
@@ -13,7 +13,7 @@
         },
         {
             "name":"group",
-            "zpy":"团体"
+            "zpy":"群"
         },
         {
             "name":"select",
@@ -25,7 +25,7 @@
         },
         {
             "name":"dist",
-            "zpy":"距离(距离)分配(分布)"
+            "zpy":"距离"
         },
         {
             "name":"distribution",
@@ -65,7 +65,7 @@
         },
         {
             "name":"requires",
-            "zpy":"需要要求需求(需要的复数)"
+            "zpy":"需要要求需求"
         },
         {
             "name":"version",
@@ -89,7 +89,7 @@
         },
         {
             "name":"hash",
-            "zpy":"剁碎的食物"
+            "zpy":"散列"
         },
         {
             "name":"scripts",
@@ -113,7 +113,7 @@
         },
         {
             "name":"json",
-            "zpy":"JavaScript对象符号(JavaScriptSerializedObjectNotation)"
+            "zpy":"JavaScript对象符号"
         },
         {
             "name":"packages_distributions",
@@ -125,7 +125,7 @@
         },
         {
             "name":"names",
-            "zpy":"名字;名望(名称的复数形式)"
+            "zpy":"名字"
         }
     ]
 }

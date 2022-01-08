@@ -8,7 +8,7 @@
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"fromunicode",
@@ -24,7 +24,7 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"reverse",
@@ -40,7 +40,7 @@
         },
         {
             "name":"tobytes",
-            "zpy":"字节"
+            "zpy":"转为字节"
         },
         {
             "name":"byteswap",
@@ -52,15 +52,15 @@
         },
         {
             "name":"array",
-            "zpy":"排列"
+            "zpy":"数组"
         },
         {
             "name":"tolist",
-            "zpy":"列表"
+            "zpy":"转为列表"
         },
         {
             "name":"tounicode",
-            "zpy":"unicode"
+            "zpy":"tounicode"
         },
         {
             "name":"insert",
@@ -68,7 +68,7 @@
         },
         {
             "name":"fromlist",
-            "zpy":"从列表中"
+            "zpy":"从列表"
         },
         {
             "name":"fromfile",
@@ -76,7 +76,7 @@
         },
         {
             "name":"itemsize",
-            "zpy":"项目的大小"
+            "zpy":"项大小"
         },
         {
             "name":"remove",
@@ -90,15 +90,15 @@
     "args":[
         {
             "name":"list",
-            "zpy":"目录"
+            "zpy":"列表"
         },
         {
             "name":"array",
-            "zpy":"排列"
+            "zpy":"数组"
         },
         {
             "name":"iterable",
-            "zpy":"嗯可以"
+            "zpy":"可迭代"
         }
     ]
 }

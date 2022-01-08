@@ -1,10 +1,10 @@
 {
     "name":"quopri",
-    "zpy":null,
+    "zpy":"quopri",
     "functions":[
         {
             "name":"encode",
-            "zpy":"把(电文、情报等)译成密码"
+            "zpy":"编码"
         },
         {
             "name":"Error",
@@ -22,7 +22,7 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"out_file",

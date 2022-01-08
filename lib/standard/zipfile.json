@@ -1,10 +1,10 @@
 {
     "name":"zipfile",
-    "zpy":null,
+    "zpy":"zipfile",
     "functions":[
         {
             "name":"ZIP_LZMA",
-            "zpy":"ZIP LZMA"
+            "zpy":"ZIP_LZMA"
         },
         {
             "name":"printdir",
@@ -12,7 +12,7 @@
         },
         {
             "name":"PyZipFile",
-            "zpy":"Py Zip文件"
+            "zpy":"PyZip文件"
         },
         {
             "name":"file_size",
@@ -52,7 +52,7 @@
         },
         {
             "name":"reserved",
-            "zpy":"保留的"
+            "zpy":"保留字"
         },
         {
             "name":"ZipInfo",
@@ -60,7 +60,7 @@
         },
         {
             "name":"--create",
-            "zpy":"创建、"
+            "zpy":"创建"
         },
         {
             "name":"getinfo",
@@ -76,7 +76,7 @@
         },
         {
             "name":"ZIP_BZIP2",
-            "zpy":"ZIP BZIP2"
+            "zpy":"ZIP_BZIP2"
         },
         {
             "name":"close",
@@ -112,7 +112,7 @@
         },
         {
             "name":"is_zipfile",
-            "zpy":"zipfile"
+            "zpy":"is_zipfile"
         },
         {
             "name":"joinpath",
@@ -152,7 +152,7 @@
         },
         {
             "name":"--extract",
-            "zpy":"提取、"
+            "zpy":"提取"
         },
         {
             "name":"name",
@@ -168,7 +168,7 @@
         },
         {
             "name":"exists",
-            "zpy":"存在量词(存在的复数)"
+            "zpy":"存在量词"
         },
         {
             "name":"volume",
@@ -184,7 +184,7 @@
         },
         {
             "name":"iterdir",
-            "zpy":"er dir"
+            "zpy":"iterdir"
         },
         {
             "name":"filename",
@@ -200,7 +200,7 @@
         },
         {
             "name":"is_dir",
-            "zpy":"dir"
+            "zpy":"is_dir"
         },
         {
             "name":"--test",
@@ -220,7 +220,7 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"testzip",
@@ -234,11 +234,11 @@
         },
         {
             "name":"PyZipFile",
-            "zpy":"Py Zip文件"
+            "zpy":"PyZip文件"
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"writepy",
@@ -266,7 +266,7 @@
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"member",
@@ -282,7 +282,7 @@
         },
         {
             "name":"myfile",
-            "zpy":""
+            "zpy":"myfile"
         },
         {
             "name":"compression",
@@ -330,11 +330,11 @@
         },
         {
             "name":"optimize",
-            "zpy":"使完美"
+            "zpy":"优化"
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"notests",
@@ -358,11 +358,11 @@
         },
         {
             "name":"startswith",
-            "zpy":"首先"
+            "zpy":"开始随着"
         },
         {
             "name":"members",
-            "zpy":"成员;会员(成员的复数)"
+            "zpy":"成员"
         },
         {
             "name":"write",
@@ -370,7 +370,7 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"zinfo_or_arcname",
@@ -378,11 +378,11 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"allowZip64",
-            "zpy":"64年允许邮政"
+            "zpy":"allowZip64"
         }
     ]
 }

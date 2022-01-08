@@ -1,10 +1,10 @@
 {
     "name":"asyncore",
-    "zpy":null,
+    "zpy":"asyncore",
     "functions":[
         {
             "name":"recv",
-            "zpy":"接收收的到(接收)"
+            "zpy":"接收收的到"
         },
         {
             "name":"dispatcher_with_send",
@@ -60,7 +60,7 @@
         },
         {
             "name":"handle_read",
-            "zpy":"处理读、"
+            "zpy":"处理读"
         },
         {
             "name":"create_socket",
@@ -114,7 +114,7 @@
         },
         {
             "name":"recv",
-            "zpy":"接收收的到(接收)"
+            "zpy":"接收收的到"
         },
         {
             "name":"dispatcher_with_send",
@@ -218,7 +218,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

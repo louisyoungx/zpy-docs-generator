@@ -20,7 +20,7 @@
         },
         {
             "name":"runctx",
-            "zpy":"运行c tx"
+            "zpy":"运行ctx"
         },
         {
             "name":"print_callees",
@@ -40,7 +40,7 @@
         },
         {
             "name":"Stats",
-            "zpy":"静止坦克自动目标系统(StationaryTankAutomaticTargetSystem)"
+            "zpy":"静止坦克自动目标系统"
         },
         {
             "name":"sort_stats",
@@ -82,7 +82,7 @@
         },
         {
             "name":"restrictions",
-            "zpy":"限制限制条件(限制的复数形式)"
+            "zpy":"限制限制条件"
         },
         {
             "name":"timeunit",
@@ -126,7 +126,7 @@
         },
         {
             "name":"sort",
-            "zpy":"种类"
+            "zpy":"排序"
         },
         {
             "name":"ncalls",
@@ -138,7 +138,7 @@
         },
         {
             "name":"globals",
-            "zpy":"全球的年代"
+            "zpy":"全局变量"
         },
         {
             "name":"bias",
@@ -162,7 +162,7 @@
         },
         {
             "name":"Stats",
-            "zpy":"静止坦克自动目标系统(StationaryTankAutomaticTargetSystem)"
+            "zpy":"静止坦克自动目标系统"
         },
         {
             "name":"enable",
@@ -170,11 +170,11 @@
         },
         {
             "name":"sre_compile",
-            "zpy":"是编译、"
+            "zpy":"是编译"
         },
         {
             "name":"_compile",
-            "zpy":"编译、"
+            "zpy":"编译"
         },
         {
             "name":"your_time_func",
@@ -186,7 +186,7 @@
         },
         {
             "name":"function",
-            "zpy":"官能"
+            "zpy":"目标函数"
         },
         {
             "name":"_optimize_charset",
@@ -194,7 +194,7 @@
         },
         {
             "name":"calls",
-            "zpy":"调用;呼吁电话(称为的复数)"
+            "zpy":"调用"
         },
         {
             "name":"Ordered",
@@ -206,7 +206,7 @@
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"module",
@@ -226,7 +226,7 @@
         },
         {
             "name":"exec",
-            "zpy":"主任参谋"
+            "zpy":"执行"
         },
         {
             "name":"tottime",
@@ -254,7 +254,7 @@
         },
         {
             "name":"keys",
-            "zpy":"关键帧;(钢琴等的)键;密钥(关键的复数)"
+            "zpy":"所有键"
         },
         {
             "name":"your_computed_bias",
@@ -306,15 +306,15 @@
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         },
         {
             "name":"locals",
-            "zpy":"当地人；区域变量"
+            "zpy":"局部变量"
         },
         {
             "name":"_identityfunction",
-            "zpy":"identityfunction"
+            "zpy":"_identityfunction"
         }
     ]
 }

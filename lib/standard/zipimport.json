@@ -1,6 +1,6 @@
 {
     "name":"zipimport",
-    "zpy":null,
+    "zpy":"zipimport",
     "functions":[
         {
             "name":"get_data",
@@ -66,7 +66,7 @@
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"walk_packages",
@@ -90,7 +90,7 @@
         },
         {
             "name":"modules",
-            "zpy":"加载模块列表;模块(模块的复数)"
+            "zpy":"加载模块列表"
         },
         {
             "name":"module_finder",
@@ -110,7 +110,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"dirname",
@@ -134,7 +134,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"path_item",

@@ -1,6 +1,6 @@
 {
     "name":"mimetypes",
-    "zpy":null,
+    "zpy":"mimetypes",
     "functions":[
         {
             "name":"guess_extension",
@@ -36,7 +36,7 @@
         },
         {
             "name":"readfp",
-            "zpy":"读《外交政策》"
+            "zpy":"读外交政策"
         },
         {
             "name":"read_mime_types",
@@ -68,13 +68,13 @@
         },
         {
             "name":"init",
-            "zpy":"初始化(初始化)"
+            "zpy":"初始化"
         }
     ],
     "args":[
         {
             "name":"files",
-            "zpy":"文件;文档(文件的复数)"
+            "zpy":"文件"
         },
         {
             "name":"filenames",
@@ -102,7 +102,7 @@
         },
         {
             "name":"strict",
-            "zpy":"严厉的"
+            "zpy":"严格"
         },
         {
             "name":"encodings_map",
@@ -114,7 +114,7 @@
         },
         {
             "name":"init",
-            "zpy":"初始化(初始化)"
+            "zpy":"初始化"
         }
     ]
 }

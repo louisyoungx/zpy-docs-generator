@@ -1,10 +1,10 @@
 {
     "name":"pathlib",
-    "zpy":null,
+    "zpy":"pathlib",
     "functions":[
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"getmtime",
@@ -60,7 +60,7 @@
         },
         {
             "name":"isdir",
-            "zpy":"dir"
+            "zpy":"isdir"
         },
         {
             "name":"commonprefix",
@@ -68,7 +68,7 @@
         },
         {
             "name":"exists",
-            "zpy":"存在量词(存在的复数)"
+            "zpy":"存在量词"
         },
         {
             "name":"abspath",
@@ -76,7 +76,7 @@
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"拆分"
         },
         {
             "name":"samefile",
@@ -126,7 +126,7 @@
     "args":[
         {
             "name":"list",
-            "zpy":"目录"
+            "zpy":"列表"
         },
         {
             "name":"stat1",
@@ -150,11 +150,11 @@
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"strict",
-            "zpy":"严厉的"
+            "zpy":"严格"
         },
         {
             "name":"commonprefix",
@@ -170,7 +170,7 @@
         },
         {
             "name":"paths",
-            "zpy":"路径(路径的复数)"
+            "zpy":"路径"
         },
         {
             "name":"stat2",

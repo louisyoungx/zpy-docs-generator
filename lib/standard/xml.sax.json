@@ -1,6 +1,6 @@
 {
     "name":"xml.sax",
-    "zpy":null,
+    "zpy":"xml.sax",
     "functions":[
         {
             "name":"SAXParseException",
@@ -46,7 +46,7 @@
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"filename_or_stream",

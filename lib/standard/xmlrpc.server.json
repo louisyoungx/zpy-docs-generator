@@ -1,6 +1,6 @@
 {
     "name":"xmlrpc.server",
-    "zpy":null,
+    "zpy":"xmlrpc.server",
     "functions":[
         {
             "name":"rpc_paths",
@@ -8,11 +8,11 @@
         },
         {
             "name":"DocXMLRPCRequestHandler",
-            "zpy":"Doc XML RPC请求处理程序"
+            "zpy":"DocXMLRPC请求处理程序"
         },
         {
             "name":"SimpleXMLRPCRequestHandler",
-            "zpy":"简单的XML RPC请求处理器"
+            "zpy":"简单的XMLRPC请求处理器"
         },
         {
             "name":"register_introspection_functions",
@@ -28,15 +28,15 @@
         },
         {
             "name":"DocCGIXMLRPCRequestHandler",
-            "zpy":"Doc CGI XML RPC请求处理程序"
+            "zpy":"DocCGIXMLRPC请求处理程序"
         },
         {
             "name":"SimpleXMLRPCServer",
-            "zpy":"简单的XML RPC服务器"
+            "zpy":"简单的XMLRPC服务器"
         },
         {
             "name":"CGIXMLRPCRequestHandler",
-            "zpy":"CGI XML RPC请求处理程序"
+            "zpy":"CGIXMLRPC请求处理程序"
         },
         {
             "name":"handle_request",
@@ -60,7 +60,7 @@
         },
         {
             "name":"DocXMLRPCServer",
-            "zpy":"Doc XML RPC服务器"
+            "zpy":"DocXMLRPC服务器"
         }
     ],
     "args":[
@@ -70,7 +70,7 @@
         },
         {
             "name":"server_name",
-            "zpy":"服务器名称、"
+            "zpy":"服务器名称"
         },
         {
             "name":"client",
@@ -82,7 +82,7 @@
         },
         {
             "name":"function",
-            "zpy":"官能"
+            "zpy":"目标函数"
         },
         {
             "name":"use_builtin_types",
@@ -94,15 +94,15 @@
         },
         {
             "name":"xmlrpc",
-            "zpy":"xml rpc"
+            "zpy":"xmlrpc"
         },
         {
             "name":"SimpleXMLRPCServer",
-            "zpy":"简单的XML RPC服务器"
+            "zpy":"简单的XMLRPC服务器"
         },
         {
             "name":"CGIXMLRPCRequestHandler",
-            "zpy":"CGI XML RPC请求处理程序"
+            "zpy":"CGIXMLRPC请求处理程序"
         },
         {
             "name":"register_function",
@@ -114,7 +114,7 @@
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"logRequests",
@@ -214,7 +214,7 @@
         },
         {
             "name":"SimpleXMLRPCRequestHandler",
-            "zpy":"简单的XML RPC请求处理器"
+            "zpy":"简单的XMLRPC请求处理器"
         },
         {
             "name":"instance",

@@ -1,6 +1,6 @@
 {
     "name":"dataclasses",
-    "zpy":null,
+    "zpy":"dataclasses",
     "functions":[
         {
             "name":"Field",
@@ -24,7 +24,7 @@
         },
         {
             "name":"replace",
-            "zpy":"代替"
+            "zpy":"替换"
         },
         {
             "name":"fields",
@@ -32,7 +32,7 @@
         },
         {
             "name":"is_dataclass",
-            "zpy":"dataclass"
+            "zpy":"is_dataclass"
         },
         {
             "name":"make_dataclass",
@@ -44,7 +44,7 @@
         },
         {
             "name":"asdict",
-            "zpy":"dic t"
+            "zpy":"asdict"
         },
         {
             "name":"astuple",
@@ -82,7 +82,7 @@
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"order",
@@ -90,11 +90,11 @@
         },
         {
             "name":"bases",
-            "zpy":"基础"
+            "zpy":"所有基础"
         },
         {
             "name":"asdict",
-            "zpy":"dic t"
+            "zpy":"asdict"
         },
         {
             "name":"height",
@@ -102,7 +102,7 @@
         },
         {
             "name":"element",
-            "zpy":"元件"
+            "zpy":"元素"
         },
         {
             "name":"kw_only",
@@ -138,7 +138,7 @@
         },
         {
             "name":"is_dataclass",
-            "zpy":"dataclass"
+            "zpy":"is_dataclass"
         },
         {
             "name":"make_dataclass",
@@ -146,7 +146,7 @@
         },
         {
             "name":"repr",
-            "zpy":"代表表示"
+            "zpy":"返回字符值"
         },
         {
             "name":"cls_name",
@@ -154,7 +154,7 @@
         },
         {
             "name":"init",
-            "zpy":"初始化(初始化)"
+            "zpy":"初始化"
         },
         {
             "name":"dataclasses",
@@ -166,7 +166,7 @@
         },
         {
             "name":"InitVar",
-            "zpy":"Var"
+            "zpy":"InitVar"
         },
         {
             "name":"lookup",
@@ -174,7 +174,7 @@
         },
         {
             "name":"slots",
-            "zpy":"插槽;老虎机(槽的复数)"
+            "zpy":"插槽"
         },
         {
             "name":"name",
@@ -182,7 +182,7 @@
         },
         {
             "name":"hash",
-            "zpy":"剁碎的食物"
+            "zpy":"散列"
         },
         {
             "name":"Point",

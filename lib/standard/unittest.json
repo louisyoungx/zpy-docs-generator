@@ -1,6 +1,6 @@
 {
     "name":"unittest",
-    "zpy":null,
+    "zpy":"unittest",
     "functions":[
         {
             "name":"TextTestResult",
@@ -16,7 +16,7 @@
         },
         {
             "name":"_makeResult",
-            "zpy":"makeResult"
+            "zpy":"_makeResult"
         },
         {
             "name":"setUpClass",
@@ -104,7 +104,7 @@
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"addAsyncCleanup",
@@ -184,7 +184,7 @@
         },
         {
             "name":"--failfast",
-            "zpy":"failfast"
+            "zpy":"--failfast"
         },
         {
             "name":"main",
@@ -192,7 +192,7 @@
         },
         {
             "name":"assertDictEqual",
-            "zpy":"断言Dic t等于"
+            "zpy":"断言Dict等于"
         },
         {
             "name":"assertWarns",
@@ -212,7 +212,7 @@
         },
         {
             "name":"subTest",
-            "zpy":"子测验(程序教学用语)"
+            "zpy":"子测验"
         },
         {
             "name":"loadTestsFromNames",
@@ -324,7 +324,7 @@
         },
         {
             "name":"__iter__",
-            "zpy":"iter"
+            "zpy":"__迭代__"
         },
         {
             "name":"setUp",
@@ -432,7 +432,7 @@
         },
         {
             "name":"failures",
-            "zpy":"失败(失败的复数)"
+            "zpy":"失败"
         },
         {
             "name":"debug",
@@ -498,7 +498,7 @@
     "args":[
         {
             "name":"isupper",
-            "zpy":"上"
+            "zpy":"是大写"
         },
         {
             "name":"test_even",
@@ -510,11 +510,11 @@
         },
         {
             "name":"argv",
-            "zpy":"arg v"
+            "zpy":"argv"
         },
         {
             "name":"events",
-            "zpy":"事件;项目(事件的复数)"
+            "zpy":"事件"
         },
         {
             "name":"attr",
@@ -614,7 +614,7 @@
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"拆分"
         },
         {
             "name":"resultclass",
@@ -630,7 +630,7 @@
         },
         {
             "name":"callable",
-            "zpy":"请求即付的"
+            "zpy":"可调用"
         },
         {
             "name":"addAsyncCleanup",
@@ -658,7 +658,7 @@
         },
         {
             "name":"startswith",
-            "zpy":"首先"
+            "zpy":"开始随着"
         },
         {
             "name":"line",
@@ -670,7 +670,7 @@
         },
         {
             "name":"SomeException",
-            "zpy":"一些例外"
+            "zpy":"某些异常"
         },
         {
             "name":"testLoader",
@@ -702,7 +702,7 @@
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"assertEqual",
@@ -718,7 +718,7 @@
         },
         {
             "name":"makeSomethingDB",
-            "zpy":"DB"
+            "zpy":"makeSomethingDB"
         },
         {
             "name":"TestCase3",
@@ -806,7 +806,7 @@
         },
         {
             "name":"subTest",
-            "zpy":"子测验(程序教学用语)"
+            "zpy":"子测验"
         },
         {
             "name":"IsolatedAsyncioTestCase",
@@ -842,7 +842,7 @@
         },
         {
             "name":"subtest",
-            "zpy":"子测验(程序教学用语)"
+            "zpy":"子测验"
         },
         {
             "name":"addTests",
@@ -874,7 +874,7 @@
         },
         {
             "name":"function",
-            "zpy":"官能"
+            "zpy":"目标函数"
         },
         {
             "name":"fail",
@@ -886,7 +886,7 @@
         },
         {
             "name":"Widget",
-            "zpy":"装饰物；小机械；未定名的主要新产品"
+            "zpy":"装饰物"
         },
         {
             "name":"args",
@@ -902,7 +902,7 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"second",
@@ -950,7 +950,7 @@
         },
         {
             "name":"places",
-            "zpy":"地点;位置;位数(地方的复数)"
+            "zpy":"地点"
         },
         {
             "name":"loader",
@@ -1034,11 +1034,11 @@
         },
         {
             "name":"tests",
-            "zpy":"测验(测试的复数)"
+            "zpy":"测验"
         },
         {
             "name":"params",
-            "zpy":"参数;参数个数(param的复数)"
+            "zpy":"参数"
         },
         {
             "name":"tearDown",
@@ -1058,7 +1058,7 @@
         },
         {
             "name":"names",
-            "zpy":"名字;名望(名称的复数形式)"
+            "zpy":"名字"
         },
         {
             "name":"__version__",
@@ -1102,7 +1102,7 @@
         },
         {
             "name":"upper",
-            "zpy":"上面的"
+            "zpy":"大写"
         },
         {
             "name":"expectedFailure",
@@ -1154,7 +1154,7 @@
         },
         {
             "name":"logging",
-            "zpy":"(木材)采运作业"
+            "zpy":"采运作业"
         },
         {
             "name":"NumbersTest",
@@ -1182,11 +1182,11 @@
         },
         {
             "name":"widget",
-            "zpy":"装饰物；小机械；未定名的主要新产品"
+            "zpy":"装饰物"
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         },
         {
             "name":"suite",
@@ -1198,7 +1198,7 @@
         },
         {
             "name":"warnings",
-            "zpy":"发出警告(警告的复数形式);征候;<古>(解雇辞职等的)预先通知;可引以为戒的事(或人)"
+            "zpy":"发出警告"
         }
     ]
 }

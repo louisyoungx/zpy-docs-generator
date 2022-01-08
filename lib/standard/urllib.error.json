@@ -1,6 +1,6 @@
 {
     "name":"urllib.error",
-    "zpy":null,
+    "zpy":"urllib.error",
     "functions":[
         {
             "name":"read",
@@ -28,7 +28,7 @@
         },
         {
             "name":"modified",
-            "zpy":"改良的；改进的"
+            "zpy":"改良的"
         },
         {
             "name":"parse",
@@ -86,7 +86,7 @@
         },
         {
             "name":"requests",
-            "zpy":"要求(请求的名词复数)需要所请求的事物;申请书"
+            "zpy":"要求需要所请求的事物"
         },
         {
             "name":"can_fetch",

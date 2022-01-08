@@ -24,7 +24,7 @@
         },
         {
             "name":"runctx",
-            "zpy":"运行c tx"
+            "zpy":"运行ctx"
         },
         {
             "name":"--help",
@@ -36,7 +36,7 @@
         },
         {
             "name":"results",
-            "zpy":"结果;成绩(结果的复数)"
+            "zpy":"结果"
         },
         {
             "name":"--trace",
@@ -52,7 +52,7 @@
         },
         {
             "name":"--trackcalls",
-            "zpy":"trackcalls"
+            "zpy":"--trackcalls"
         },
         {
             "name":"--summary",
@@ -76,7 +76,7 @@
         },
         {
             "name":"--coverdir",
-            "zpy":"coverdir"
+            "zpy":"--coverdir"
         },
         {
             "name":"--count",
@@ -88,7 +88,7 @@
         },
         {
             "name":"--listfuncs",
-            "zpy":"listfuncs"
+            "zpy":"--listfuncs"
         }
     ],
     "args":[
@@ -118,7 +118,7 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"countcallers",
@@ -138,7 +138,7 @@
         },
         {
             "name":"globals",
-            "zpy":"全球的年代"
+            "zpy":"全局变量"
         },
         {
             "name":"somefile",
@@ -154,7 +154,7 @@
         },
         {
             "name":"results",
-            "zpy":"结果;成绩(结果的复数)"
+            "zpy":"结果"
         },
         {
             "name":"ignoremods",
@@ -178,7 +178,7 @@
         },
         {
             "name":"locals",
-            "zpy":"当地人；区域变量"
+            "zpy":"局部变量"
         },
         {
             "name":"Trace",

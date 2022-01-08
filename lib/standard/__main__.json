@@ -1,11 +1,11 @@
 {
     "name":"__main__",
-    "zpy":null,
+    "zpy":"__main__",
     "functions":[],
     "args":[
         {
             "name":"Define the variable `my_name`!",
-            "zpy":"定义变量“我的名字”!"
+            "zpy":"定义变量我的名字"
         },
         {
             "name":"configparser",
@@ -13,15 +13,15 @@
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"shlex",
-            "zpy":"sh lex"
+            "zpy":"shlex"
         },
         {
             "name":"argv",
-            "zpy":"arg v"
+            "zpy":"argv"
         },
         {
             "name":"asyncio",
@@ -33,7 +33,7 @@
         },
         {
             "name":"student_name",
-            "zpy":"学生姓名、"
+            "zpy":"学生姓名"
         },
         {
             "name":"did_user_define_their_name",

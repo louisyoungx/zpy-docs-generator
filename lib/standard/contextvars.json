@@ -1,6 +1,6 @@
 {
     "name":"contextvars",
-    "zpy":null,
+    "zpy":"contextvars",
     "functions":[
         {
             "name":"TIMEOUT_MAX",
@@ -44,7 +44,7 @@
         },
         {
             "name":"locked",
-            "zpy":"上锁的；不灵活的；下定决心的"
+            "zpy":"上锁的"
         },
         {
             "name":"LockType",

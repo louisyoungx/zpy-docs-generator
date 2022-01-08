@@ -1,10 +1,10 @@
 {
     "name":"mmap",
-    "zpy":"methylmethacrylatepolymer甲基丙烯酸甲酯聚合体;monomethyl-4-aminoantipyrine单甲基-4-胺基安替比林;maternalmeanarterialpressure母体平均动脉压;maximummedicalaidprice最大医学救助价格",
+    "zpy":"methylmethacrylatepolymer甲基丙烯酸甲酯聚合体",
     "functions":[
         {
             "name":"find",
-            "zpy":"发现"
+            "zpy":"找到"
         },
         {
             "name":"MADV_FREE_REUSE",
@@ -24,7 +24,7 @@
         },
         {
             "name":"MADV_NOHUGEPAGE",
-            "zpy":"MADV NOHUGEPAGE"
+            "zpy":"MADV_NOHUGEPAGE"
         },
         {
             "name":"rfind",
@@ -40,7 +40,7 @@
         },
         {
             "name":"MADV_DOFORK",
-            "zpy":"MADV DOFORK"
+            "zpy":"MADV_DOFORK"
         },
         {
             "name":"tell",
@@ -56,7 +56,7 @@
         },
         {
             "name":"MADV_DODUMP",
-            "zpy":"MADV DODUMP"
+            "zpy":"MADV_DODUMP"
         },
         {
             "name":"close",
@@ -68,11 +68,11 @@
         },
         {
             "name":"MADV_HUGEPAGE",
-            "zpy":"MADV HUGEPAGE"
+            "zpy":"MADV_HUGEPAGE"
         },
         {
             "name":"flush",
-            "zpy":"流溢"
+            "zpy":"冲洗"
         },
         {
             "name":"MADV_MERGEABLE",
@@ -112,11 +112,11 @@
         },
         {
             "name":"MADV_NOCORE",
-            "zpy":"MADV NOCORE"
+            "zpy":"MADV_NOCORE"
         },
         {
             "name":"MADV_DONTDUMP",
-            "zpy":"MADV DONTDUMP"
+            "zpy":"MADV_DONTDUMP"
         },
         {
             "name":"MAP_PRIVATE",
@@ -128,11 +128,11 @@
         },
         {
             "name":"mmap",
-            "zpy":"methylmethacrylatepolymer甲基丙烯酸甲酯聚合体;monomethyl-4-aminoantipyrine单甲基4 -胺基安替比林;maternalmeanarterialpressure母体平均动脉压;maximummedicalaidprice最大医学救助价格"
+            "zpy":"methylmethacrylatepolymer甲基丙烯酸甲酯聚合体"
         },
         {
             "name":"MADV_NOSYNC",
-            "zpy":"MADV NOSYNC"
+            "zpy":"MADV_NOSYNC"
         },
         {
             "name":"MAP_POPULATE",
@@ -148,7 +148,7 @@
         },
         {
             "name":"MADV_PROTECT",
-            "zpy":"MADV保护、"
+            "zpy":"MADV保护"
         },
         {
             "name":"MADV_NORMAL",
@@ -164,15 +164,15 @@
         },
         {
             "name":"MADV_HWPOISON",
-            "zpy":"MADV HWPOISON"
+            "zpy":"MADV_HWPOISON"
         },
         {
             "name":"MADV_AUTOSYNC",
-            "zpy":"MADV AUTOSYNC"
+            "zpy":"MADV_AUTOSYNC"
         },
         {
             "name":"MADV_DONTNEED",
-            "zpy":"MADV DONTNEED"
+            "zpy":"MADV_DONTNEED"
         },
         {
             "name":"MADV_SOFT_OFFLINE",
@@ -188,11 +188,11 @@
         },
         {
             "name":"MADV_UNMERGEABLE",
-            "zpy":"MADV UNMERGEABLE"
+            "zpy":"MADV_UNMERGEABLE"
         },
         {
             "name":"MADV_DONTFORK",
-            "zpy":"MADV DONTFORK"
+            "zpy":"MADV_DONTFORK"
         }
     ],
     "args":[
@@ -210,7 +210,7 @@
         },
         {
             "name":"mmap",
-            "zpy":"methylmethacrylatepolymer甲基丙烯酸甲酯聚合体;monomethyl-4-aminoantipyrine单甲基4 -胺基安替比林;maternalmeanarterialpressure母体平均动脉压;maximummedicalaidprice最大医学救助价格"
+            "zpy":"methylmethacrylatepolymer甲基丙烯酸甲酯聚合体"
         },
         {
             "name":"readline",
@@ -230,11 +230,11 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"bytes",
-            "zpy":"位元组"
+            "zpy":"字节串"
         },
         {
             "name":"write",

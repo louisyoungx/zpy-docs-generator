@@ -12,7 +12,7 @@
         },
         {
             "name":"events",
-            "zpy":"事件;项目(事件的复数)"
+            "zpy":"事件"
         },
         {
             "name":"DefaultSelector",
@@ -72,7 +72,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"SelectSelector",
@@ -94,7 +94,7 @@
         },
         {
             "name":"events",
-            "zpy":"事件;项目(事件的复数)"
+            "zpy":"事件"
         },
         {
             "name":"DefaultSelector",
@@ -110,7 +110,7 @@
         },
         {
             "name":"recv",
-            "zpy":"接收收的到(接收)"
+            "zpy":"接收收的到"
         },
         {
             "name":"BaseSelector",
@@ -194,7 +194,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"SelectSelector",

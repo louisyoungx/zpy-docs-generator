@@ -12,7 +12,7 @@
         },
         {
             "name":"dumps",
-            "zpy":"忧郁；废物"
+            "zpy":"忧郁"
         },
         {
             "name":"dump",
@@ -20,17 +20,17 @@
         },
         {
             "name":"loads",
-            "zpy":"货载量；负载"
+            "zpy":"货载量"
         }
     ],
     "args":[
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"bytes",
-            "zpy":"位元组"
+            "zpy":"字节串"
         }
     ]
 }

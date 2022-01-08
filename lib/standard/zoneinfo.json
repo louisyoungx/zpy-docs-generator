@@ -1,10 +1,10 @@
 {
     "name":"zoneinfo",
-    "zpy":null,
+    "zpy":"zoneinfo",
     "functions":[
         {
             "name":"cssclass_noday",
-            "zpy":"cssclass noday"
+            "zpy":"cssclass_noday"
         },
         {
             "name":"day_abbr",
@@ -206,7 +206,7 @@
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"withyear",

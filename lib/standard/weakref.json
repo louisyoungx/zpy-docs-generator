@@ -1,6 +1,6 @@
 {
     "name":"weakref",
-    "zpy":null,
+    "zpy":"weakref",
     "functions":[
         {
             "name":"WeakSet",
@@ -126,7 +126,7 @@
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"_finalizer",
@@ -138,7 +138,7 @@
         },
         {
             "name":"annotations",
-            "zpy":"注释(注释的复数形式)附注"
+            "zpy":"注释附注"
         },
         {
             "name":"Object",
@@ -154,11 +154,11 @@
         },
         {
             "name":"_id2obj_dict",
-            "zpy":"id2obj dict类型"
+            "zpy":"id2objdict类型"
         },
         {
             "name":"mkdtemp",
-            "zpy":"mkd temp"
+            "zpy":"mkdtemp"
         },
         {
             "name":"blue",
@@ -178,7 +178,7 @@
         },
         {
             "name":"modules",
-            "zpy":"加载模块列表;模块(模块的复数)"
+            "zpy":"加载模块列表"
         },
         {
             "name":"WeakValueDictionary",
@@ -194,11 +194,11 @@
         },
         {
             "name":"object",
-            "zpy":"物体"
+            "zpy":"对象"
         },
         {
             "name":"items",
-            "zpy":"项目名目所有物品(项目的复数形式)"
+            "zpy":"所有项"
         },
         {
             "name":"do_something_useful",
@@ -218,7 +218,7 @@
         },
         {
             "name":"kenny",
-            "zpy":"肯尼（姓氏）"
+            "zpy":"肯尼姓氏"
         }
     ]
 }

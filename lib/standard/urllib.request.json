@@ -1,6 +1,6 @@
 {
     "name":"urllib.request",
-    "zpy":null,
+    "zpy":"urllib.request",
     "functions":[
         {
             "name":"http_error_407",
@@ -12,7 +12,7 @@
         },
         {
             "name":"AbstractDigestAuthHandler",
-            "zpy":"摘要DigestA u th Handler"
+            "zpy":"摘要DigestAuthHandler"
         },
         {
             "name":"selector",
@@ -20,7 +20,7 @@
         },
         {
             "name":"setMaxConns",
-            "zpy":"设置Max Conn s"
+            "zpy":"设置MaxConns"
         },
         {
             "name":"UnknownHandler",
@@ -44,7 +44,7 @@
         },
         {
             "name":"pathname2url",
-            "zpy":"路径名2 url"
+            "zpy":"路径名2url"
         },
         {
             "name":"CacheFTPHandler",
@@ -76,7 +76,7 @@
         },
         {
             "name":"HTTPPasswordMgrWithDefaultRealm",
-            "zpy":"HTTP密码M gr With Default Realm"
+            "zpy":"HTTP密码MgrWithDefaultRealm"
         },
         {
             "name":"addinfourl",
@@ -112,7 +112,7 @@
         },
         {
             "name":"full_url",
-            "zpy":"完整的url。"
+            "zpy":"完整的url"
         },
         {
             "name":"default_open",
@@ -128,7 +128,7 @@
         },
         {
             "name":"BaseHandler.http_error_<nnn>(req, fp, code, msg, hdrs)",
-            "zpy":"BaseHandler。HTTP错误< NNN >(req fp code MSG HDRS)"
+            "zpy":"BaseHandlerHTTP错误NNN"
         },
         {
             "name":"get_header",
@@ -156,7 +156,7 @@
         },
         {
             "name":"HTTPCookieProcessor",
-            "zpy":"HTTP Cookie处理器"
+            "zpy":"HTTPCookie处理器"
         },
         {
             "name":"http_error_301",
@@ -164,7 +164,7 @@
         },
         {
             "name":"BaseHandler.<protocol>_request(req)",
-            "zpy":"BaseHandler。<协议>请求(req)"
+            "zpy":"BaseHandler协议请求"
         },
         {
             "name":"https_open",
@@ -184,7 +184,7 @@
         },
         {
             "name":"ProxyHandler.<protocol>_open(request)",
-            "zpy":"ProxyHandler。< protocol > open (request)"
+            "zpy":"ProxyHandler.<protocol>_open(request)"
         },
         {
             "name":"is_authenticated",
@@ -212,7 +212,7 @@
         },
         {
             "name":"BaseHandler.<protocol>_response(req, response)",
-            "zpy":"BaseHandler。<协议>响应(req response)"
+            "zpy":"BaseHandler协议响应"
         },
         {
             "name":"find_user_password",
@@ -240,7 +240,7 @@
         },
         {
             "name":"HTTPPasswordMgr",
-            "zpy":"HTTP密码M gr"
+            "zpy":"HTTP密码Mgr"
         },
         {
             "name":"set_proxy",
@@ -248,7 +248,7 @@
         },
         {
             "name":"url2pathname",
-            "zpy":"Url 2路径名"
+            "zpy":"Url2路径名"
         },
         {
             "name":"prompt_user_passwd",
@@ -284,7 +284,7 @@
         },
         {
             "name":"HTTPDigestAuthHandler",
-            "zpy":"HTTP DigestA u th Handler"
+            "zpy":"HTTPDigestAuthHandler"
         },
         {
             "name":"http_error_302",
@@ -300,7 +300,7 @@
         },
         {
             "name":"HTTPPasswordMgrWithPriorAuth",
-            "zpy":"HTTP密码M gr With Prior Au"
+            "zpy":"HTTP密码MgrWithPriorAu"
         },
         {
             "name":"header_items",
@@ -312,7 +312,7 @@
         },
         {
             "name":"ProxyDigestAuthHandler",
-            "zpy":"代理DigestA u处理程序"
+            "zpy":"代理DigestAu处理程序"
         },
         {
             "name":"http_error_307",
@@ -336,7 +336,7 @@
         },
         {
             "name":"BaseHandler.<protocol>_open(req)",
-            "zpy":"BaseHandler。<协议> open (req)"
+            "zpy":"BaseHandler协议open"
         },
         {
             "name":"file_open",
@@ -356,7 +356,7 @@
         },
         {
             "name":"headers",
-            "zpy":"标题(头的复数)"
+            "zpy":"标题"
         },
         {
             "name":"HTTPBasicAuthHandler",
@@ -388,11 +388,11 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ],
     "args":[
@@ -406,7 +406,7 @@
         },
         {
             "name":"x509",
-            "zpy":"x 509"
+            "zpy":"x509"
         },
         {
             "name":"proto",
@@ -422,7 +422,7 @@
         },
         {
             "name":"proxies",
-            "zpy":"代表权(代理的名词复数);(测算用的)代替物;(对代理人的)委托书;(英国国教教区献给主教等的)巡游费"
+            "zpy":"代表权巡游费"
         },
         {
             "name":"check_hostname",
@@ -450,7 +450,7 @@
         },
         {
             "name":"authuri",
-            "zpy":"非盟th uri"
+            "zpy":"非盟thuri"
         },
         {
             "name":"ProxyHandler",
@@ -466,7 +466,7 @@
         },
         {
             "name":"fullurl",
-            "zpy":""
+            "zpy":"fullurl"
         },
         {
             "name":"urllib",
@@ -530,7 +530,7 @@
         },
         {
             "name":"encode",
-            "zpy":"把(电文、情报等)译成密码"
+            "zpy":"编码"
         },
         {
             "name":"FancyURLopener",
@@ -582,7 +582,7 @@
         },
         {
             "name":"opener",
-            "zpy":"开...的人"
+            "zpy":"开启器"
         },
         {
             "name":"Request",
@@ -594,7 +594,7 @@
         },
         {
             "name":"urlencode",
-            "zpy":""
+            "zpy":"urlencode"
         },
         {
             "name":"auth_handler",
@@ -610,7 +610,7 @@
         },
         {
             "name":"params",
-            "zpy":"参数;参数个数(param的复数)"
+            "zpy":"参数"
         },
         {
             "name":"newurl",
@@ -622,7 +622,7 @@
         },
         {
             "name":"passwd",
-            "zpy":"口令(密码)"
+            "zpy":"口令"
         },
         {
             "name":"add_header",
@@ -630,7 +630,7 @@
         },
         {
             "name":"headers",
-            "zpy":"标题(头的复数)"
+            "zpy":"标题"
         },
         {
             "name":"password_mgr",
@@ -662,11 +662,11 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

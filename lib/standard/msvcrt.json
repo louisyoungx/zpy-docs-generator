@@ -1,6 +1,6 @@
 {
     "name":"msvcrt",
-    "zpy":null,
+    "zpy":"msvcrt",
     "functions":[
         {
             "name":"setmode",
@@ -8,7 +8,7 @@
         },
         {
             "name":"getwch",
-            "zpy":"得到w ch"
+            "zpy":"得到wch"
         },
         {
             "name":"getch",
@@ -16,7 +16,7 @@
         },
         {
             "name":"putch",
-            "zpy":"ch"
+            "zpy":"putch"
         },
         {
             "name":"ungetch",
@@ -32,7 +32,7 @@
         },
         {
             "name":"locking",
-            "zpy":"锁定;加锁"
+            "zpy":"锁定"
         },
         {
             "name":"LK_LOCK",
@@ -44,7 +44,7 @@
         },
         {
             "name":"putwch",
-            "zpy":"把w ch"
+            "zpy":"把wch"
         },
         {
             "name":"ungetwch",
@@ -52,7 +52,7 @@
         },
         {
             "name":"get_osfhandle",
-            "zpy":"osfhandle"
+            "zpy":"get_osfhandle"
         },
         {
             "name":"getche",
@@ -82,11 +82,11 @@
     "args":[
         {
             "name":"nbytes",
-            "zpy":"n个字节"
+            "zpy":"数组字节数"
         },
         {
             "name":"flags",
-            "zpy":"标记旗帜(国旗的复数)"
+            "zpy":"所有标志"
         },
         {
             "name":"char",
@@ -98,7 +98,7 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"unicode_char",

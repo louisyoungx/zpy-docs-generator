@@ -1,6 +1,6 @@
 {
     "name":"plistlib",
-    "zpy":null,
+    "zpy":"plistlib",
     "functions":[
         {
             "name":"load",
@@ -8,15 +8,15 @@
         },
         {
             "name":"FMT_XML",
-            "zpy":"FMT XML"
+            "zpy":"FMT_XML"
         },
         {
             "name":"dumps",
-            "zpy":"忧郁；废物"
+            "zpy":"忧郁"
         },
         {
             "name":"loads",
-            "zpy":"货载量；负载"
+            "zpy":"货载量"
         },
         {
             "name":"dump",
@@ -98,7 +98,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"aDict",
@@ -126,7 +126,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

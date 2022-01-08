@@ -1,10 +1,10 @@
 {
     "name":"ipaddress",
-    "zpy":null,
+    "zpy":"ipaddress",
     "functions":[
         {
             "name":"IPv4Interface",
-            "zpy":"IPv 4接口"
+            "zpy":"IPv4接口"
         },
         {
             "name":"is_link_local",
@@ -36,7 +36,7 @@
         },
         {
             "name":"packed",
-            "zpy":"充满...的"
+            "zpy":"充满的"
         },
         {
             "name":"with_netmask",
@@ -44,7 +44,7 @@
         },
         {
             "name":"IPv4Address",
-            "zpy":"IPv 4个地址"
+            "zpy":"IPv4个地址"
         },
         {
             "name":"summarize_address_range",
@@ -56,7 +56,7 @@
         },
         {
             "name":"hosts",
-            "zpy":""
+            "zpy":"hosts"
         },
         {
             "name":"get_mixed_type_key",
@@ -80,11 +80,11 @@
         },
         {
             "name":"max_prefixlen",
-            "zpy":"马克斯•prefixlen"
+            "zpy":"马克斯prefixlen"
         },
         {
             "name":"v6_int_to_packed",
-            "zpy":"V6 int到包装"
+            "zpy":"V6int到包装"
         },
         {
             "name":"address_exclude",
@@ -92,7 +92,7 @@
         },
         {
             "name":"IPv6Network",
-            "zpy":"IPv 6网络"
+            "zpy":"IPv6网络"
         },
         {
             "name":"ipv4_mapped",
@@ -100,7 +100,7 @@
         },
         {
             "name":"supernet_of",
-            "zpy":"supernet"
+            "zpy":"supernet_of"
         },
         {
             "name":"NetmaskValueError",
@@ -116,7 +116,7 @@
         },
         {
             "name":"sixtofour",
-            "zpy":"6 - 4、"
+            "zpy":"sixtofour"
         },
         {
             "name":"version",
@@ -128,7 +128,7 @@
         },
         {
             "name":"with_hostmask",
-            "zpy":"hostmask"
+            "zpy":"with_hostmask"
         },
         {
             "name":"broadcast_address",
@@ -148,7 +148,7 @@
         },
         {
             "name":"scope_id",
-            "zpy":"id、范围"
+            "zpy":"id范围"
         },
         {
             "name":"is_global",
@@ -156,7 +156,7 @@
         },
         {
             "name":"IPv6Address",
-            "zpy":"IPv 6地址"
+            "zpy":"IPv6地址"
         },
         {
             "name":"is_unspecified",
@@ -164,7 +164,7 @@
         },
         {
             "name":"IPv6Interface",
-            "zpy":"IPv 6接口"
+            "zpy":"IPv6接口"
         },
         {
             "name":"supernet",
@@ -176,11 +176,11 @@
         },
         {
             "name":"subnets",
-            "zpy":"(子网的复数)子网络"
+            "zpy":"子网络"
         },
         {
             "name":"v4_int_to_packed",
-            "zpy":"V4 int到打包"
+            "zpy":"V4int到打包"
         },
         {
             "name":"ip_network",
@@ -188,7 +188,7 @@
         },
         {
             "name":"IPv4Network",
-            "zpy":"IPv 4网络"
+            "zpy":"IPv4网络"
         },
         {
             "name":"num_addresses",
@@ -200,7 +200,7 @@
         },
         {
             "name":"overlaps",
-            "zpy":"部分重叠(重叠的第三人称单数);(物体)部份重叠;交叠;(时间上)部份重叠"
+            "zpy":"部分重叠部份重叠"
         },
         {
             "name":"subnet_of",
@@ -208,7 +208,7 @@
         },
         {
             "name":"with_prefixlen",
-            "zpy":"prefixlen"
+            "zpy":"with_prefixlen"
         },
         {
             "name":"teredo",
@@ -226,11 +226,11 @@
         },
         {
             "name":"IPv4Interface",
-            "zpy":"IPv 4接口"
+            "zpy":"IPv4接口"
         },
         {
             "name":"4294967296 (>= 2**32) is not permitted as an IPv4 address",
-            "zpy":"4294967296(>= 2 ** 32)不允许作为IPv4地址"
+            "zpy":"4294967296 (>= 2**32) is not permitted as an IPv4 address"
         },
         {
             "name":"collapse_addresses",
@@ -254,7 +254,7 @@
         },
         {
             "name":"IPv4Address",
-            "zpy":"IPv 4个地址"
+            "zpy":"IPv4个地址"
         },
         {
             "name":"new prefix must be longer",
@@ -262,11 +262,11 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"hosts",
-            "zpy":""
+            "zpy":"hosts"
         },
         {
             "name":"last",
@@ -290,7 +290,7 @@
         },
         {
             "name":"supernet_of",
-            "zpy":"supernet"
+            "zpy":"supernet_of"
         },
         {
             "name":"subnet_of",
@@ -318,19 +318,19 @@
         },
         {
             "name":"with_hostmask",
-            "zpy":"hostmask"
+            "zpy":"with_hostmask"
         },
         {
             "name":"prefixlen_diff",
-            "zpy":"prefixlen diff"
+            "zpy":"prefixlen_diff"
         },
         {
             "name":"addresses",
-            "zpy":"称呼(地址的名词复数);(在信封包裹等上)书写(收件人姓名地址);(收件人的)姓名和地址;(书面或口头的)发言"
+            "zpy":"称呼发言"
         },
         {
             "name":"IPv6Address",
-            "zpy":"IPv 6地址"
+            "zpy":"IPv6地址"
         },
         {
             "name":"supernet",
@@ -338,15 +338,15 @@
         },
         {
             "name":"<module>",
-            "zpy":"> <模块"
+            "zpy":"模块"
         },
         {
             "name":"subnets",
-            "zpy":"(子网的复数)子网络"
+            "zpy":"子网络"
         },
         {
             "name":"v4_int_to_packed",
-            "zpy":"V4 int到打包"
+            "zpy":"V4int到打包"
         },
         {
             "name":"ip_network",
@@ -354,7 +354,7 @@
         },
         {
             "name":"IPv4Network",
-            "zpy":"IPv 4网络"
+            "zpy":"IPv4网络"
         },
         {
             "name":"ipaddress",
@@ -362,11 +362,11 @@
         },
         {
             "name":"strict",
-            "zpy":"严厉的"
+            "zpy":"严格"
         },
         {
             "name":"with_prefixlen",
-            "zpy":"prefixlen"
+            "zpy":"with_prefixlen"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "name":"os.path",
-    "zpy":null,
+    "zpy":"os.path",
     "functions":[
         {
             "name":"filelineno",
@@ -32,7 +32,7 @@
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         },
         {
             "name":"input",
@@ -54,15 +54,15 @@
     "args":[
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"files",
-            "zpy":"文件;文档(文件的复数)"
+            "zpy":"文件"
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"fileinput",
@@ -70,7 +70,7 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"process",

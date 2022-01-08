@@ -1,6 +1,6 @@
 {
     "name":"smtplib",
-    "zpy":null,
+    "zpy":"smtplib",
     "functions":[
         {
             "name":"helo",
@@ -32,7 +32,7 @@
         },
         {
             "name":"has_extn",
-            "zpy":"extn"
+            "zpy":"has_extn"
         },
         {
             "name":"SMTPHeloError",
@@ -44,7 +44,7 @@
         },
         {
             "name":"SMTP_SSL",
-            "zpy":"SMTP SSL"
+            "zpy":"SMTP_SSL"
         },
         {
             "name":"SMTPNotSupportedError",
@@ -56,7 +56,7 @@
         },
         {
             "name":"LMTP",
-            "zpy":"LM TP"
+            "zpy":"LMTP"
         },
         {
             "name":"SMTPRecipientsRefused",
@@ -96,7 +96,7 @@
         },
         {
             "name":"login",
-            "zpy":"注册(程序)"
+            "zpy":"注册"
         },
         {
             "name":"connect",
@@ -108,7 +108,7 @@
         },
         {
             "name":"auth",
-            "zpy":"自生的(真实的);授权的(授权)"
+            "zpy":"自生的"
         }
     ],
     "args":[
@@ -122,7 +122,7 @@
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"set_debuglevel",
@@ -158,7 +158,7 @@
         },
         {
             "name":"to_addrs",
-            "zpy":"addr"
+            "zpy":"to_addrs"
         },
         {
             "name":"host",
@@ -222,7 +222,7 @@
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"拆分"
         },
         {
             "name":"keyfile",
@@ -238,7 +238,7 @@
         },
         {
             "name":"strip",
-            "zpy":"长条"
+            "zpy":"移除"
         },
         {
             "name":"line",

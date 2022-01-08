@@ -1,6 +1,6 @@
 {
     "name":"textwrap",
-    "zpy":null,
+    "zpy":"textwrap",
     "functions":[
         {
             "name":"decimal",
@@ -12,7 +12,7 @@
         },
         {
             "name":"ucd_3_2_0",
-            "zpy":"Ucd 32 20 0"
+            "zpy":"ucd_3_2_0"
         },
         {
             "name":"category",
@@ -48,7 +48,7 @@
         },
         {
             "name":"mirrored",
-            "zpy":"反映(镜子的过去式和过去分词);反射;映照;将(玻璃)喷镀成镜子"
+            "zpy":"反映喷镀成镜子"
         },
         {
             "name":"numeric",
@@ -90,7 +90,7 @@
         },
         {
             "name":"unistr",
-            "zpy":"uni str"
+            "zpy":"unistr"
         },
         {
             "name":"not a decimal",
@@ -98,7 +98,7 @@
         },
         {
             "name":"<module>",
-            "zpy":"> <模块"
+            "zpy":"模块"
         },
         {
             "name":"bidirectional",

@@ -1,6 +1,6 @@
 {
     "name":"tracemalloc",
-    "zpy":null,
+    "zpy":"tracemalloc",
     "functions":[
         {
             "name":"Filter",
@@ -24,11 +24,11 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"dump",
@@ -80,7 +80,7 @@
         },
         {
             "name":"traces",
-            "zpy":"痕迹;遗迹(跟踪的复数)"
+            "zpy":"痕迹"
         },
         {
             "name":"statistics",
@@ -88,7 +88,7 @@
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"get_traceback_limit",
@@ -136,7 +136,7 @@
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         },
         {
             "name":"Trace",
@@ -162,7 +162,7 @@
         },
         {
             "name":"_hexdig",
-            "zpy":"hexdig"
+            "zpy":"_hexdig"
         },
         {
             "name":"stat",
@@ -198,7 +198,7 @@
         },
         {
             "name":"python3",
-            "zpy":"python 3"
+            "zpy":"python3"
         },
         {
             "name":"File",
@@ -242,7 +242,7 @@
         },
         {
             "name":"_b32tab2",
-            "zpy":"b32tab2"
+            "zpy":"_b32tab2"
         },
         {
             "name":"allocated",
@@ -282,7 +282,7 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"display_top",
@@ -314,7 +314,7 @@
         },
         {
             "name":"mcls",
-            "zpy":"megacyclespersecond兆周/秒兆赫"
+            "zpy":"megacyclespersecond兆周秒兆赫"
         },
         {
             "name":"nframe",
@@ -326,7 +326,7 @@
         },
         {
             "name":"_b85chars",
-            "zpy":"b85chars"
+            "zpy":"_b85chars"
         },
         {
             "name":"inclusive",
@@ -334,7 +334,7 @@
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"first_peak",
@@ -370,7 +370,7 @@
         },
         {
             "name":"sysconfig",
-            "zpy":"s y配置"
+            "zpy":"sy配置"
         },
         {
             "name":"top_stats",
@@ -394,11 +394,11 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"class_definition",
@@ -422,11 +422,11 @@
         },
         {
             "name":"exec",
-            "zpy":"主任参谋"
+            "zpy":"执行"
         },
         {
             "name":"_b85chars2",
-            "zpy":"b85chars2"
+            "zpy":"_b85chars2"
         },
         {
             "name":"cumulative",
@@ -454,7 +454,7 @@
         },
         {
             "name":"blocks",
-            "zpy":"积木黑金石;街区;双头木鱼;楼群(块的复数)"
+            "zpy":"积木黑金石"
         },
         {
             "name":"traceback",
@@ -482,7 +482,7 @@
         },
         {
             "name":"strip",
-            "zpy":"长条"
+            "zpy":"移除"
         },
         {
             "name":"get_traced_memory",
@@ -502,7 +502,7 @@
         },
         {
             "name":"bases",
-            "zpy":"基础"
+            "zpy":"所有基础"
         },
         {
             "name":"mock",
@@ -518,7 +518,7 @@
         },
         {
             "name":"_a85chars",
-            "zpy":"a85chars"
+            "zpy":"_a85chars"
         },
         {
             "name":"unittest",
@@ -546,7 +546,7 @@
         },
         {
             "name":"collections",
-            "zpy":"集合物件收集(收集的复数)"
+            "zpy":"集合物件收集"
         },
         {
             "name":"lines",
@@ -554,7 +554,7 @@
         },
         {
             "name":"_b32tab",
-            "zpy":"b32tab"
+            "zpy":"_b32tab"
         },
         {
             "name":"inspect",
@@ -586,7 +586,7 @@
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         },
         {
             "name":"key_type",
@@ -594,11 +594,11 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"_a85chars2",
-            "zpy":"a85chars2"
+            "zpy":"_a85chars2"
         }
     ]
 }

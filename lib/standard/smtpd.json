@@ -1,6 +1,6 @@
 {
     "name":"smtpd",
-    "zpy":null,
+    "zpy":"smtpd",
     "functions":[
         {
             "name":"DebuggingServer",
@@ -56,7 +56,7 @@
         },
         {
             "name":"rcpttos",
-            "zpy":"从RCP t到s"
+            "zpy":"从RCPt到s"
         },
         {
             "name":"process_message",
@@ -82,7 +82,7 @@
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"data_size_limit",
@@ -114,7 +114,7 @@
         },
         {
             "name":"rcpttos",
-            "zpy":"从RCP t到s"
+            "zpy":"从RCPt到s"
         },
         {
             "name":"addr",
@@ -122,7 +122,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"remoteaddr",

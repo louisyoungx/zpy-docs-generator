@@ -1,6 +1,6 @@
 {
     "name":"sched",
-    "zpy":"（无线电）固定播送时间",
+    "zpy":"无线电固定播送时间",
     "functions":[
         {
             "name":"queue",
@@ -46,7 +46,7 @@
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"sleep",
@@ -66,7 +66,7 @@
         },
         {
             "name":"blocking",
-            "zpy":"组成块;粘连"
+            "zpy":"组成块"
         },
         {
             "name":"delayfunc",
@@ -90,7 +90,7 @@
         },
         {
             "name":"sched",
-            "zpy":"（无线电）固定播送时间"
+            "zpy":"无线电固定播送时间"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "name":"rlcompleter",
-    "zpy":null,
+    "zpy":"rlcompleter",
     "functions":[
         {
             "name":"complete",

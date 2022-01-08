@@ -1,6 +1,6 @@
 {
     "name":"webbrowser",
-    "zpy":null,
+    "zpy":"webbrowser",
     "functions":[
         {
             "name":"register",
@@ -16,7 +16,7 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"Error",

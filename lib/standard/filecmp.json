@@ -1,6 +1,6 @@
 {
     "name":"filecmp",
-    "zpy":null,
+    "zpy":"filecmp",
     "functions":[
         {
             "name":"common_funny",
@@ -126,7 +126,7 @@
         },
         {
             "name":"values",
-            "zpy":"对价值的看法"
+            "zpy":"所有值"
         },
         {
             "name":"dcmp",
@@ -138,11 +138,11 @@
         },
         {
             "name":"dir2",
-            "zpy":"dir 2"
+            "zpy":"dir2"
         },
         {
             "name":"dir1",
-            "zpy":"dir 1"
+            "zpy":"dir1"
         },
         {
             "name":"shallow",

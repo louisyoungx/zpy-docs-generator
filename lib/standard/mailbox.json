@@ -24,11 +24,11 @@
         },
         {
             "name":"mbox",
-            "zpy":""
+            "zpy":"mbox"
         },
         {
             "name":"popitem",
-            "zpy":"流行物品"
+            "zpy":"出栈一项"
         },
         {
             "name":"get_folder",
@@ -36,7 +36,7 @@
         },
         {
             "name":"MMDFMessage",
-            "zpy":"MM DF消息"
+            "zpy":"MMDF消息"
         },
         {
             "name":"get_bytes",
@@ -52,7 +52,7 @@
         },
         {
             "name":"MMDF",
-            "zpy":"MM DF"
+            "zpy":"MMDF"
         },
         {
             "name":"set_labels",
@@ -96,7 +96,7 @@
         },
         {
             "name":"flush",
-            "zpy":"流溢"
+            "zpy":"冲洗"
         },
         {
             "name":"MHMessage",
@@ -104,7 +104,7 @@
         },
         {
             "name":"clear",
-            "zpy":"清楚的"
+            "zpy":"清除"
         },
         {
             "name":"get_sequences",
@@ -128,7 +128,7 @@
         },
         {
             "name":"pack",
-            "zpy":"包裹"
+            "zpy":"包"
         },
         {
             "name":"set_from",
@@ -164,7 +164,7 @@
         },
         {
             "name":"__iter__",
-            "zpy":"iter"
+            "zpy":"__迭代__"
         },
         {
             "name":"iteritems",
@@ -172,7 +172,7 @@
         },
         {
             "name":"unlock",
-            "zpy":"开...的锁"
+            "zpy":"开的锁"
         },
         {
             "name":"get_visible",
@@ -192,11 +192,11 @@
         },
         {
             "name":"values",
-            "zpy":"对价值的看法"
+            "zpy":"所有值"
         },
         {
             "name":"__delitem__",
-            "zpy":"delitem"
+            "zpy":"__delitem__"
         },
         {
             "name":"set_date",
@@ -204,11 +204,11 @@
         },
         {
             "name":"items",
-            "zpy":"项目名目所有物品(项目的复数形式)"
+            "zpy":"所有项"
         },
         {
             "name":"keys",
-            "zpy":"关键帧;(钢琴等的)键;密钥(关键的复数)"
+            "zpy":"所有键"
         },
         {
             "name":"set_subdir",
@@ -224,7 +224,7 @@
         },
         {
             "name":"__setitem__",
-            "zpy":"setitem"
+            "zpy":"__setitem__"
         },
         {
             "name":"list_folders",
@@ -232,7 +232,7 @@
         },
         {
             "name":"__getitem__",
-            "zpy":"getitem"
+            "zpy":"__getitem__"
         },
         {
             "name":"__contains__",
@@ -294,7 +294,7 @@
         },
         {
             "name":"flags",
-            "zpy":"标记旗帜(国旗的复数)"
+            "zpy":"所有标志"
         },
         {
             "name":"from_",
@@ -306,7 +306,7 @@
         },
         {
             "name":"mbox",
-            "zpy":""
+            "zpy":"mbox"
         },
         {
             "name":"boxes",
@@ -350,7 +350,7 @@
         },
         {
             "name":"flush",
-            "zpy":"流溢"
+            "zpy":"冲洗"
         },
         {
             "name":"MHMessage",
@@ -390,7 +390,7 @@
         },
         {
             "name":"unlock",
-            "zpy":"开...的锁"
+            "zpy":"开的锁"
         },
         {
             "name":"name",
@@ -406,7 +406,7 @@
         },
         {
             "name":"sequences",
-            "zpy":"后果(序列的名词复数);(纸牌中的)顺牌;有关联的一组事物;(电影中表现同一主题或场面的)一组镜头"
+            "zpy":"后果一组镜头"
         },
         {
             "name":"folder",
@@ -414,11 +414,11 @@
         },
         {
             "name":"lower",
-            "zpy":"低的"
+            "zpy":"小写"
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"mailbox",
@@ -438,7 +438,7 @@
         },
         {
             "name":"labels",
-            "zpy":"标签分类(标签的复数形式)"
+            "zpy":"标签分类"
         },
         {
             "name":"destination",

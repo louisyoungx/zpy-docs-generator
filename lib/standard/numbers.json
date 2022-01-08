@@ -1,6 +1,6 @@
 {
     "name":"numbers",
-    "zpy":"数字（number的复数）；算术",
+    "zpy":"数字number的复数",
     "functions":[
         {
             "name":"real",
@@ -8,7 +8,7 @@
         },
         {
             "name":"imag",
-            "zpy":"复数虚部；图像放大"
+            "zpy":"复数虚部"
         },
         {
             "name":"denominator",
@@ -54,7 +54,7 @@
         },
         {
             "name":"_add",
-            "zpy":"添加、"
+            "zpy":"添加"
         },
         {
             "name":"_operator_fallbacks",
@@ -94,7 +94,7 @@
         },
         {
             "name":"numbers",
-            "zpy":"数字(数量的复数);算术"
+            "zpy":"数字"
         },
         {
             "name":"MyFoo",

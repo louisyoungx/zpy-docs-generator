@@ -1,6 +1,6 @@
 {
     "name":"html.parser",
-    "zpy":null,
+    "zpy":"html.parser",
     "functions":[
         {
             "name":"entitydefs",
@@ -16,7 +16,7 @@
         },
         {
             "name":"html5",
-            "zpy":"html 5"
+            "zpy":"html5"
         }
     ],
     "args":[]

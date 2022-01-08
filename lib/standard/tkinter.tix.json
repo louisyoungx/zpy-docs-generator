@@ -1,6 +1,6 @@
 {
     "name":"tkinter.tix",
-    "zpy":null,
+    "zpy":"tkinter.tix",
     "functions":[],
     "args":[]
 }

@@ -4,7 +4,7 @@
     "functions":[
         {
             "name":"translate",
-            "zpy":"翻译"
+            "zpy":"转化"
         },
         {
             "name":"filter",
@@ -22,7 +22,7 @@
     "args":[
         {
             "name":"reobj",
-            "zpy":"obj"
+            "zpy":"reobj"
         },
         {
             "name":"pattern",
@@ -30,7 +30,7 @@
         },
         {
             "name":"translate",
-            "zpy":"翻译"
+            "zpy":"转化"
         },
         {
             "name":"listdir",
@@ -50,7 +50,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"compile",
@@ -62,7 +62,7 @@
         },
         {
             "name":"names",
-            "zpy":"名字;名望(名称的复数形式)"
+            "zpy":"名字"
         }
     ]
 }

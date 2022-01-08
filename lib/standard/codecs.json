@@ -1,10 +1,10 @@
 {
     "name":"codecs",
-    "zpy":"(codec的复数)编码译码器",
+    "zpy":"编码译码器",
     "functions":[
         {
             "name":"BOM_UTF32",
-            "zpy":"BOM UTF32"
+            "zpy":"BOM_UTF32"
         },
         {
             "name":"BOM_LE",
@@ -64,7 +64,7 @@
         },
         {
             "name":"BOM_UTF32_BE",
-            "zpy":"BOM UTF32"
+            "zpy":"BOM_UTF32_BE"
         },
         {
             "name":"unregister",
@@ -84,7 +84,7 @@
         },
         {
             "name":"BOM_UTF32_LE",
-            "zpy":"BOM UTF32勒"
+            "zpy":"BOMUTF32勒"
         },
         {
             "name":"streamwriter",
@@ -124,7 +124,7 @@
         },
         {
             "name":"encode",
-            "zpy":"把(电文、情报等)译成密码"
+            "zpy":"编码"
         },
         {
             "name":"namereplace_errors",
@@ -148,7 +148,7 @@
         },
         {
             "name":"BOM_UTF8",
-            "zpy":"BOM UTF8"
+            "zpy":"BOM_UTF8"
         },
         {
             "name":"name",
@@ -164,7 +164,7 @@
         },
         {
             "name":"BOM_UTF16_LE",
-            "zpy":"BOM UTF16勒"
+            "zpy":"BOMUTF16勒"
         },
         {
             "name":"incrementalencoder",
@@ -184,7 +184,7 @@
         },
         {
             "name":"BOM_UTF16",
-            "zpy":"BOM UTF16"
+            "zpy":"BOM_UTF16"
         },
         {
             "name":"StreamReaderWriter",
@@ -200,11 +200,11 @@
         },
         {
             "name":"BOM_UTF16_BE",
-            "zpy":"BOM UTF16"
+            "zpy":"BOM_UTF16_BE"
         },
         {
             "name":"ToUnicode",
-            "zpy":"Unicode"
+            "zpy":"ToUnicode"
         },
         {
             "name":"write",
@@ -212,7 +212,7 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"StreamWriter",
@@ -230,7 +230,7 @@
         },
         {
             "name":"list",
-            "zpy":"目录"
+            "zpy":"列表"
         },
         {
             "name":"iterator",
@@ -238,7 +238,7 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"streamreader",
@@ -254,7 +254,7 @@
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"Writer",
@@ -262,7 +262,7 @@
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"Reader",
@@ -286,7 +286,7 @@
         },
         {
             "name":"encode",
-            "zpy":"把(电文、情报等)译成密码"
+            "zpy":"编码"
         },
         {
             "name":"file_encoding",
@@ -310,7 +310,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"state",
@@ -318,11 +318,11 @@
         },
         {
             "name":"object",
-            "zpy":"物体"
+            "zpy":"对象"
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"filename",

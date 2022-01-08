@@ -1,10 +1,10 @@
 {
     "name":"tkinter.ttk",
-    "zpy":null,
+    "zpy":"tkinter.ttk",
     "functions":[
         {
             "name":"element_create",
-            "zpy":"元素创建、"
+            "zpy":"元素创建"
         },
         {
             "name":"selection",
@@ -24,7 +24,7 @@
         },
         {
             "name":"Widget",
-            "zpy":"装饰物；小机械；未定名的主要新产品"
+            "zpy":"装饰物"
         },
         {
             "name":"index",
@@ -52,7 +52,7 @@
         },
         {
             "name":"step",
-            "zpy":"步骤"
+            "zpy":"步"
         },
         {
             "name":"bbox",
@@ -68,11 +68,11 @@
         },
         {
             "name":"item",
-            "zpy":"项目"
+            "zpy":"项"
         },
         {
             "name":"reattach",
-            "zpy":"再次附着（附属）"
+            "zpy":"再次附着附属"
         },
         {
             "name":"parent",
@@ -92,7 +92,7 @@
         },
         {
             "name":"prev",
-            "zpy":"上一个(前)"
+            "zpy":"上一个"
         },
         {
             "name":"identify_element",
@@ -164,7 +164,7 @@
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"hide",
@@ -180,7 +180,7 @@
         },
         {
             "name":"exists",
-            "zpy":"存在量词(存在的复数)"
+            "zpy":"存在量词"
         },
         {
             "name":"insert",
@@ -212,7 +212,7 @@
         },
         {
             "name":"Combobox",
-            "zpy":"组合框；下拉列表框"
+            "zpy":"组合框"
         },
         {
             "name":"configure",
@@ -314,7 +314,7 @@
         },
         {
             "name":"item",
-            "zpy":"项目"
+            "zpy":"项"
         },
         {
             "name":"parent",
@@ -338,7 +338,7 @@
         },
         {
             "name":"pack",
-            "zpy":"包裹"
+            "zpy":"包"
         },
         {
             "name":"background",
@@ -382,7 +382,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"state",
@@ -394,7 +394,7 @@
         },
         {
             "name":"items",
-            "zpy":"项目名目所有物品(项目的复数形式)"
+            "zpy":"所有项"
         },
         {
             "name":"Style",
@@ -410,7 +410,7 @@
         },
         {
             "name":"Combobox",
-            "zpy":"组合框；下拉列表框"
+            "zpy":"组合框"
         },
         {
             "name":"configure",
@@ -430,7 +430,7 @@
         },
         {
             "name":"mbtn",
-            "zpy":"mbt n"
+            "zpy":"mbtn"
         },
         {
             "name":"column",
@@ -438,7 +438,7 @@
         },
         {
             "name":"settings",
-            "zpy":"设置(设置的复数)"
+            "zpy":"设置"
         }
     ]
 }

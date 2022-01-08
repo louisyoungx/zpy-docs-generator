@@ -16,7 +16,7 @@
         },
         {
             "name":"whichdb",
-            "zpy":"db"
+            "zpy":"whichdb"
         },
         {
             "name":"reorganize",
@@ -32,7 +32,7 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"library",
@@ -46,7 +46,7 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"filename",
@@ -62,11 +62,11 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         }
     ]
 }

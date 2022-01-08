@@ -1,18 +1,18 @@
 {
     "name":"aifc",
-    "zpy":null,
+    "zpy":"aifc",
     "functions":[
         {
             "name":"avgpp",
-            "zpy":"avg pp、"
+            "zpy":"avgpp"
         },
         {
             "name":"maxpp",
-            "zpy":"马克斯•页"
+            "zpy":"马克斯页"
         },
         {
             "name":"lin2adpcm",
-            "zpy":"Lin 2 adp cm"
+            "zpy":"lin2adpcm"
         },
         {
             "name":"minmax",
@@ -32,7 +32,7 @@
         },
         {
             "name":"alaw2lin",
-            "zpy":"A law 2 lin"
+            "zpy":"alaw2lin"
         },
         {
             "name":"bias",
@@ -60,7 +60,7 @@
         },
         {
             "name":"adpcm2lin",
-            "zpy":"Adp c2lin"
+            "zpy":"adpcm2lin"
         },
         {
             "name":"findmax",
@@ -84,7 +84,7 @@
         },
         {
             "name":"ulaw2lin",
-            "zpy":"U law 2 lin"
+            "zpy":"ulaw2lin"
         },
         {
             "name":"reverse",
@@ -118,7 +118,7 @@
         },
         {
             "name":"ipos",
-            "zpy":"首次公开募股(InitialPublicOfferings);初次公开发行(InitialPublicOffering)"
+            "zpy":"首次公开募股"
         },
         {
             "name":"inputdata",

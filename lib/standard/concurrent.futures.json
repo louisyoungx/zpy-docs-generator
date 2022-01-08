@@ -1,6 +1,6 @@
 {
     "name":"concurrent.futures",
-    "zpy":null,
+    "zpy":"concurrent.futures",
     "functions":[
         {
             "name":"TimeoutError",
@@ -118,7 +118,7 @@
         },
         {
             "name":"URLS",
-            "zpy":"资源定位符(UniformResourceLocators)"
+            "zpy":"资源定位符"
         },
         {
             "name":"future",
@@ -130,7 +130,7 @@
         },
         {
             "name":"sqrt_n",
-            "zpy":"√6 n"
+            "zpy":"开根号n"
         },
         {
             "name":"wait_on_a",
@@ -146,7 +146,7 @@
         },
         {
             "name":"is_prime",
-            "zpy":"是'"
+            "zpy":"是"
         },
         {
             "name":"prime",
@@ -178,7 +178,7 @@
         },
         {
             "name":"sqrt",
-            "zpy":"开平方根(squareroot)"
+            "zpy":"开平方根"
         },
         {
             "name":"mp_context",
@@ -190,7 +190,7 @@
         },
         {
             "name":"iterables",
-            "zpy":"e增加"
+            "zpy":"所有可枚举值"
         },
         {
             "name":"wait_on_future",
@@ -202,7 +202,7 @@
         },
         {
             "name":"PRIMES",
-            "zpy":"初期；青春"
+            "zpy":"初期"
         },
         {
             "name":"ThreadPoolExecutor",
@@ -222,7 +222,7 @@
         },
         {
             "name":"number",
-            "zpy":"数"
+            "zpy":"数字"
         },
         {
             "name":"main",
@@ -282,7 +282,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"executor",

@@ -1,6 +1,6 @@
 {
     "name":"difflib",
-    "zpy":null,
+    "zpy":"difflib",
     "functions":[
         {
             "name":"shorten",
@@ -40,7 +40,7 @@
         },
         {
             "name":"max_lines",
-            "zpy":"马克斯•行"
+            "zpy":"马克斯行"
         },
         {
             "name":"fill",
@@ -86,7 +86,7 @@
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"fix_sentence_endings",
@@ -106,7 +106,7 @@
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"shorten",
@@ -162,7 +162,7 @@
         },
         {
             "name":"max_lines",
-            "zpy":"马克斯•行"
+            "zpy":"马克斯行"
         },
         {
             "name":"replace_whitespace",

@@ -8,15 +8,15 @@
         },
         {
             "name":"a2b_hqx",
-            "zpy":"a2b hqx"
+            "zpy":"a2b_hqx"
         },
         {
             "name":"crc_hqx",
-            "zpy":"crc hqx"
+            "zpy":"crc_hqx"
         },
         {
             "name":"b2a_base64",
-            "zpy":"b2a base64"
+            "zpy":"b2a_base64"
         },
         {
             "name":"Incomplete",
@@ -24,11 +24,11 @@
         },
         {
             "name":"b2a_hqx",
-            "zpy":"b2a hqx"
+            "zpy":"b2a_hqx"
         },
         {
             "name":"a2b_uu",
-            "zpy":"a2b uu"
+            "zpy":"a2b_uu"
         },
         {
             "name":"hexlify",
@@ -36,7 +36,7 @@
         },
         {
             "name":"rledecode_hqx",
-            "zpy":"rledecode hqx"
+            "zpy":"rledecode_hqx"
         },
         {
             "name":"b2a_hex",
@@ -44,7 +44,7 @@
         },
         {
             "name":"b2a_qp",
-            "zpy":"b2a qp"
+            "zpy":"b2a_qp"
         },
         {
             "name":"unhexlify",
@@ -52,23 +52,23 @@
         },
         {
             "name":"crc32",
-            "zpy":"crc 32岁"
+            "zpy":"crc32岁"
         },
         {
             "name":"a2b_qp",
-            "zpy":"a2b qp"
+            "zpy":"a2b_qp"
         },
         {
             "name":"rlecode_hqx",
-            "zpy":"rlecode hqx"
+            "zpy":"rlecode_hqx"
         },
         {
             "name":"b2a_uu",
-            "zpy":"b2a uu"
+            "zpy":"b2a_uu"
         },
         {
             "name":"a2b_base64",
-            "zpy":"a2b base64"
+            "zpy":"a2b_base64"
         },
         {
             "name":"Error",
@@ -82,11 +82,11 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"backtick",
@@ -118,7 +118,7 @@
         },
         {
             "name":"crc32",
-            "zpy":"crc 32岁"
+            "zpy":"crc32岁"
         },
         {
             "name":"hexstr",
@@ -126,11 +126,11 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         }
     ]
 }

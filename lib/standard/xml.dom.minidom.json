@@ -1,6 +1,6 @@
 {
     "name":"xml.dom.minidom",
-    "zpy":null,
+    "zpy":"xml.dom.minidom",
     "functions":[
         {
             "name":"parseString",
@@ -16,7 +16,7 @@
         },
         {
             "name":"unlink",
-            "zpy":"拆开(链环)"
+            "zpy":"拆开"
         },
         {
             "name":"parse",
@@ -38,7 +38,7 @@
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"datasource",
@@ -46,7 +46,7 @@
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"handleToc",
@@ -86,11 +86,11 @@
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"handleSlide",
@@ -138,7 +138,7 @@
         },
         {
             "name":"slides",
-            "zpy":"滑徐徐而行;下跌(幻灯片的三单形式)"
+            "zpy":"滑徐徐而行"
         },
         {
             "name":"points",
@@ -146,15 +146,15 @@
         },
         {
             "name":"dom1",
-            "zpy":"dom 1"
+            "zpy":"dom1"
         },
         {
             "name":"dom2",
-            "zpy":"dom 2"
+            "zpy":"dom2"
         },
         {
             "name":"dom3",
-            "zpy":"dom 3"
+            "zpy":"dom3"
         },
         {
             "name":"newl",
@@ -162,7 +162,7 @@
         },
         {
             "name":"title",
-            "zpy":"头衔"
+            "zpy":"标题"
         },
         {
             "name":"writer",
@@ -230,7 +230,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"impl",

@@ -1,6 +1,6 @@
 {
     "name":"xml.sax.xmlreader",
-    "zpy":null,
+    "zpy":"xml.sax.xmlreader",
     "functions":[
         {
             "name":"setLocale",
@@ -56,7 +56,7 @@
         },
         {
             "name":"AttributesNSImpl",
-            "zpy":"属性nsi mpl"
+            "zpy":"属性nsimpl"
         },
         {
             "name":"getColumnNumber",
@@ -120,7 +120,7 @@
         },
         {
             "name":"getNameByQName",
-            "zpy":"得到名字By Q名字"
+            "zpy":"得到名字ByQ名字"
         },
         {
             "name":"setDTDHandler",
@@ -182,7 +182,7 @@
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"handler",
@@ -190,11 +190,11 @@
         },
         {
             "name":"source",
-            "zpy":"来源"
+            "zpy":"源"
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"propertyname",
@@ -230,7 +230,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

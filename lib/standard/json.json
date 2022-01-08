@@ -1,6 +1,6 @@
 {
     "name":"json",
-    "zpy":"JavaScript对象符号（JavaScriptSerializedObjectNotation）",
+    "zpy":"JavaScript对象符号JavaScriptSerializedObjectNotation",
     "functions":[
         {
             "name":"getcaps",
@@ -14,7 +14,7 @@
     "args":[
         {
             "name":"caps",
-            "zpy":"盒式磁带程序设计系统(CassetteProgrammingSystem);计算机辅助产品检索(ComputerAssistedProductSearch)"
+            "zpy":"盒式磁带程序设计系统"
         },
         {
             "name":"plist",

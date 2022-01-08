@@ -48,7 +48,7 @@
         },
         {
             "name":"replace",
-            "zpy":"代替"
+            "zpy":"替换"
         },
         {
             "name":"Signature",
@@ -144,7 +144,7 @@
         },
         {
             "name":"isgetsetdescriptor",
-            "zpy":"就是get set descriptor"
+            "zpy":"就是getsetdescriptor"
         },
         {
             "name":"getfile",
@@ -192,7 +192,7 @@
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"description",
@@ -204,7 +204,7 @@
         },
         {
             "name":"parameters",
-            "zpy":"参数;参量(参数的复数)"
+            "zpy":"参数"
         },
         {
             "name":"getgeneratorstate",
@@ -260,7 +260,7 @@
         },
         {
             "name":"getclosurevars",
-            "zpy":"获取闭包var s"
+            "zpy":"获取闭包vars"
         },
         {
             "name":"ismodule",
@@ -394,15 +394,15 @@
         },
         {
             "name":"f() missing 1 required positional argument: 'a'",
-            "zpy":"F()缺少1个必需的位置参数:' a '"
+            "zpy":"F缺少1个必需的位置参数a"
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"_foo",
-            "zpy":"foo"
+            "zpy":"_foo"
         },
         {
             "name":"default",
@@ -426,7 +426,7 @@
         },
         {
             "name":"globals",
-            "zpy":"全球的年代"
+            "zpy":"全局变量"
         },
         {
             "name":"gen_coro",
@@ -442,11 +442,11 @@
         },
         {
             "name":"eval_str",
-            "zpy":"eval str"
+            "zpy":"eval_str"
         },
         {
             "name":"parameters",
-            "zpy":"参数;参量(参数的复数)"
+            "zpy":"参数"
         },
         {
             "name":"slot_descriptor",
@@ -478,7 +478,7 @@
         },
         {
             "name":"replace",
-            "zpy":"代替"
+            "zpy":"替换"
         },
         {
             "name":"formatargspec",
@@ -498,7 +498,7 @@
         },
         {
             "name":"values",
-            "zpy":"对价值的看法"
+            "zpy":"所有值"
         },
         {
             "name":"unique",
@@ -510,7 +510,7 @@
         },
         {
             "name":"object",
-            "zpy":"物体"
+            "zpy":"对象"
         },
         {
             "name":"traceback",
@@ -518,7 +518,7 @@
         },
         {
             "name":"callable",
-            "zpy":"请求即付的"
+            "zpy":"可调用"
         },
         {
             "name":"frame",
@@ -554,7 +554,7 @@
         },
         {
             "name":"agen",
-            "zpy":"再次(等于再一次)"
+            "zpy":"再次"
         },
         {
             "name":"getset_descriptor",
@@ -562,7 +562,7 @@
         },
         {
             "name":"locals",
-            "zpy":"当地人；区域变量"
+            "zpy":"局部变量"
         },
         {
             "name":"new_sig",

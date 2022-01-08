@@ -1,10 +1,10 @@
 {
     "name":"cmath",
-    "zpy":null,
+    "zpy":"cmath",
     "functions":[
         {
             "name":"rect",
-            "zpy":"矩形(矩形);收据(收据)"
+            "zpy":"矩形"
         },
         {
             "name":"isinf",
@@ -20,11 +20,11 @@
         },
         {
             "name":"atan",
-            "zpy":"(每股)人名;(土)阿坦"
+            "zpy":"阿坦"
         },
         {
             "name":"sqrt",
-            "zpy":"开平方根(squareroot)"
+            "zpy":"开平方根"
         },
         {
             "name":"atanh",
@@ -36,7 +36,7 @@
         },
         {
             "name":"acosh",
-            "zpy":". sh"
+            "zpy":"acosh"
         },
         {
             "name":"tanh",
@@ -90,7 +90,7 @@
         },
         {
             "name":"imag",
-            "zpy":"复数虚部；图像放大"
+            "zpy":"复数虚部"
         },
         {
             "name":"rel_tol",

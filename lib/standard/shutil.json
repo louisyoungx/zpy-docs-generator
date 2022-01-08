@@ -1,6 +1,6 @@
 {
     "name":"shutil",
-    "zpy":null,
+    "zpy":"shutil",
     "functions":[
         {
             "name":"copyfileobj",
@@ -32,7 +32,7 @@
         },
         {
             "name":"chown",
-            "zpy":"ch"
+            "zpy":"chown"
         },
         {
             "name":"unregister_unpack_format",
@@ -114,11 +114,11 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"onerror",
@@ -126,19 +126,19 @@
         },
         {
             "name":"group",
-            "zpy":"团体"
+            "zpy":"群"
         },
         {
             "name":"patterns",
-            "zpy":"模式(模式的复数形式)"
+            "zpy":"模式"
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"source",
-            "zpy":"来源"
+            "zpy":"源"
         },
         {
             "name":"stat",
@@ -174,7 +174,7 @@
         },
         {
             "name":"root_dir",
-            "zpy":"root dir"
+            "zpy":"root_dir"
         },
         {
             "name":"base_dir",
@@ -210,7 +210,7 @@
         },
         {
             "name":"_logpath",
-            "zpy":"logpath"
+            "zpy":"_logpath"
         },
         {
             "name":"user",
@@ -238,7 +238,7 @@
         },
         {
             "name":"isdir",
-            "zpy":"dir"
+            "zpy":"isdir"
         },
         {
             "name":"symlinks",
@@ -262,7 +262,7 @@
         },
         {
             "name":"logging",
-            "zpy":"(木材)采运作业"
+            "zpy":"采运作业"
         },
         {
             "name":"chmod",
@@ -270,7 +270,7 @@
         },
         {
             "name":"winerror",
-            "zpy":"赢得错误"
+            "zpy":"Win错误"
         },
         {
             "name":"ignore_dangling_symlinks",
@@ -282,7 +282,7 @@
         },
         {
             "name":"S_IWRITE",
-            "zpy":"IWRITE"
+            "zpy":"S_IWRITE"
         },
         {
             "name":"copystat",
@@ -294,7 +294,7 @@
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"fallback",
@@ -306,7 +306,7 @@
         },
         {
             "name":"names",
-            "zpy":"名字;名望(名称的复数形式)"
+            "zpy":"名字"
         },
         {
             "name":"destination",
@@ -318,7 +318,7 @@
         },
         {
             "name":"archive_name",
-            "zpy":"档案名称、"
+            "zpy":"档案名称"
         },
         {
             "name":"Error",

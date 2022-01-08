@@ -1,6 +1,6 @@
 {
     "name":"winreg",
-    "zpy":null,
+    "zpy":"winreg",
     "functions":[
         {
             "name":"PlaySound",
@@ -28,11 +28,11 @@
         },
         {
             "name":"MB_ICONQUESTION",
-            "zpy":"MB ICONQUESTION"
+            "zpy":"MB_ICONQUESTION"
         },
         {
             "name":"MB_ICONEXCLAMATION",
-            "zpy":"MB ICONEXCLAMATION"
+            "zpy":"MB_ICONEXCLAMATION"
         },
         {
             "name":"SND_ALIAS",
@@ -56,7 +56,7 @@
         },
         {
             "name":"MB_ICONASTERISK",
-            "zpy":"MB ICONASTERISK"
+            "zpy":"MB_ICONASTERISK"
         },
         {
             "name":"Beep",
@@ -68,7 +68,7 @@
         },
         {
             "name":"MB_ICONHAND",
-            "zpy":"MB ICONHAND"
+            "zpy":"MB_ICONHAND"
         }
     ],
     "args":[
@@ -78,7 +78,7 @@
         },
         {
             "name":"flags",
-            "zpy":"标记旗帜(国旗的复数)"
+            "zpy":"所有标志"
         },
         {
             "name":"type",

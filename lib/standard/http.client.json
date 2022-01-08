@@ -1,6 +1,6 @@
 {
     "name":"http.client",
-    "zpy":null,
+    "zpy":"http.client",
     "functions":[
         {
             "name":"parse_headers",
@@ -124,7 +124,7 @@
         },
         {
             "name":"headers",
-            "zpy":"标题(头的复数)"
+            "zpy":"标题"
         },
         {
             "name":"HTTPSConnection",
@@ -258,7 +258,7 @@
         },
         {
             "name":"body",
-            "zpy":"身体"
+            "zpy":"躯干"
         },
         {
             "name":"timeout",
@@ -270,7 +270,7 @@
         },
         {
             "name":"headers",
-            "zpy":"标题(头的复数)"
+            "zpy":"标题"
         },
         {
             "name":"level",
@@ -286,7 +286,7 @@
         },
         {
             "name":"urlencode",
-            "zpy":""
+            "zpy":"urlencode"
         },
         {
             "name":"HTTPSConnection",
@@ -326,11 +326,11 @@
         },
         {
             "name":"params",
-            "zpy":"参数;参数个数(param的复数)"
+            "zpy":"参数"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"reason",

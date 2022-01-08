@@ -1,6 +1,6 @@
 {
     "name":"xdrlib",
-    "zpy":null,
+    "zpy":"xdrlib",
     "functions":[
         {
             "name":"pack_fstring",
@@ -122,7 +122,7 @@
     "args":[
         {
             "name":"list",
-            "zpy":"目录"
+            "zpy":"列表"
         },
         {
             "name":"pack_int",
@@ -134,7 +134,7 @@
         },
         {
             "name":"bytes",
-            "zpy":"位元组"
+            "zpy":"字节串"
         },
         {
             "name":"pack_double",
@@ -150,7 +150,7 @@
         },
         {
             "name":"array",
-            "zpy":"排列"
+            "zpy":"数组"
         },
         {
             "name":"pack_item",
@@ -162,7 +162,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"instance",
@@ -178,7 +178,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

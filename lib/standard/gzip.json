@@ -36,15 +36,15 @@
         },
         {
             "name":"decompress",
-            "zpy":"(使)减压"
+            "zpy":"减压"
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"--decompress",
@@ -62,7 +62,7 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"s_out",
@@ -78,7 +78,7 @@
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"newline",
@@ -86,7 +86,7 @@
         },
         {
             "name":"f_out",
-            "zpy":"f"
+            "zpy":"f_out"
         },
         {
             "name":"content",
@@ -98,7 +98,7 @@
         },
         {
             "name":"f_in",
-            "zpy":"f"
+            "zpy":"f_in"
         },
         {
             "name":"mtime",
@@ -110,7 +110,7 @@
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"s_in",
@@ -134,11 +134,11 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

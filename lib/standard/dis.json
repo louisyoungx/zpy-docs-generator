@@ -1,6 +1,6 @@
 {
     "name":"dis",
-    "zpy":"狄斯(阴间的神)",
+    "zpy":"狄斯",
     "functions":[
         {
             "name":"DICT_MERGE",
@@ -36,7 +36,7 @@
         },
         {
             "name":"cmp_op",
-            "zpy":"cmp op"
+            "zpy":"cmp_op"
         },
         {
             "name":"INPLACE_MATRIX_MULTIPLY",
@@ -44,7 +44,7 @@
         },
         {
             "name":"Bytecode",
-            "zpy":""
+            "zpy":"Bytecode"
         },
         {
             "name":"BINARY_RSHIFT",
@@ -52,7 +52,7 @@
         },
         {
             "name":"GET_AWAITABLE",
-            "zpy":"AWAITABLE"
+            "zpy":"GET_AWAITABLE"
         },
         {
             "name":"IMPORT_STAR",
@@ -172,7 +172,7 @@
         },
         {
             "name":"distb",
-            "zpy":"dist b"
+            "zpy":"distb"
         },
         {
             "name":"hasconst",
@@ -192,7 +192,7 @@
         },
         {
             "name":"IS_OP",
-            "zpy":"OP"
+            "zpy":"IS_OP"
         },
         {
             "name":"BUILD_LIST",
@@ -204,7 +204,7 @@
         },
         {
             "name":"ROT_FOUR",
-            "zpy":"4、腐烂"
+            "zpy":"ROT_FOUR"
         },
         {
             "name":"JUMP_ABSOLUTE",
@@ -224,7 +224,7 @@
         },
         {
             "name":"BINARY_SUBTRACT",
-            "zpy":"二进制减、"
+            "zpy":"二进制减"
         },
         {
             "name":"BINARY_XOR",
@@ -348,7 +348,7 @@
         },
         {
             "name":"GET_ITER",
-            "zpy":"ITER"
+            "zpy":"GET_ITER"
         },
         {
             "name":"BEFORE_ASYNC_WITH",
@@ -388,7 +388,7 @@
         },
         {
             "name":"argval",
-            "zpy":"arg val"
+            "zpy":"argval"
         },
         {
             "name":"IMPORT_FROM",
@@ -488,7 +488,7 @@
         },
         {
             "name":"GET_ANEXT",
-            "zpy":"ANEXT"
+            "zpy":"GET_ANEXT"
         },
         {
             "name":"COPY_DICT_WITHOUT_KEYS",
@@ -496,7 +496,7 @@
         },
         {
             "name":"ROT_THREE",
-            "zpy":"3、腐烂"
+            "zpy":"ROT_THREE"
         },
         {
             "name":"DUP_TOP",
@@ -508,11 +508,11 @@
         },
         {
             "name":"INPLACE_SUBTRACT",
-            "zpy":"原地减、"
+            "zpy":"原地减"
         },
         {
             "name":"opcode",
-            "zpy":"操作码；作业码"
+            "zpy":"操作码"
         },
         {
             "name":"BINARY_FLOOR_DIVIDE",
@@ -520,7 +520,7 @@
         },
         {
             "name":"INPLACE_ADD",
-            "zpy":"原地添加、"
+            "zpy":"原地添加"
         },
         {
             "name":"STORE_ATTR",
@@ -580,7 +580,7 @@
         },
         {
             "name":"BINARY_ADD",
-            "zpy":"二进制文件添加、"
+            "zpy":"二进制文件添加"
         },
         {
             "name":"UNARY_INVERT",
@@ -628,7 +628,7 @@
         },
         {
             "name":"BUILD_CONST_KEY_MAP",
-            "zpy":"构建const key map"
+            "zpy":"构建constkeymap"
         },
         {
             "name":"MATCH_KEYS",
@@ -642,15 +642,15 @@
         },
         {
             "name":"bytecode",
-            "zpy":""
+            "zpy":"bytecode"
         },
         {
             "name":"Bytecode",
-            "zpy":""
+            "zpy":"Bytecode"
         },
         {
             "name":"instr",
-            "zpy":"指示书(指令);指导人(教师)"
+            "zpy":"指示书"
         },
         {
             "name":"opname",
@@ -674,7 +674,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"myfunc",
@@ -682,7 +682,7 @@
         },
         {
             "name":"opcode",
-            "zpy":"操作码；作业码"
+            "zpy":"操作码"
         },
         {
             "name":"jump",

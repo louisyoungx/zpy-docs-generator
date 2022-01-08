@@ -1,6 +1,6 @@
 {
     "name":"ossaudiodev",
-    "zpy":null,
+    "zpy":"ossaudiodev",
     "functions":[
         {
             "name":"obufcount",
@@ -8,7 +8,7 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"bufsize",
@@ -16,11 +16,11 @@
         },
         {
             "name":"get_recsrc",
-            "zpy":"recsrc"
+            "zpy":"get_recsrc"
         },
         {
             "name":"channels",
-            "zpy":"通道;水槽;隧道;频道;录音声道(通道的复数形式)"
+            "zpy":"通道"
         },
         {
             "name":"speed",
@@ -84,11 +84,11 @@
         },
         {
             "name":"getfmts",
-            "zpy":"得到f mts"
+            "zpy":"得到fmts"
         },
         {
             "name":"controls",
-            "zpy":"控制;控制元件;控制装置(控制的复数)"
+            "zpy":"控制"
         },
         {
             "name":"OSSAudioError",
@@ -108,7 +108,7 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"set_recsrc",
@@ -126,7 +126,7 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"nchannels",
@@ -138,11 +138,11 @@
         },
         {
             "name":"channels",
-            "zpy":"通道;水槽;隧道;频道;录音声道(通道的复数形式)"
+            "zpy":"通道"
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"code",
@@ -150,7 +150,7 @@
         },
         {
             "name":"setrecsrc",
-            "zpy":"设置rec s rc"
+            "zpy":"设置recsrc"
         },
         {
             "name":"setparameters",
@@ -194,11 +194,11 @@
         },
         {
             "name":"controls",
-            "zpy":"控制;控制元件;控制装置(控制的复数)"
+            "zpy":"控制"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

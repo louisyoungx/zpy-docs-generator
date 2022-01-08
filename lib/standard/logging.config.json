@@ -1,6 +1,6 @@
 {
     "name":"logging.config",
-    "zpy":null,
+    "zpy":"logging.config",
     "functions":[
         {
             "name":"listen",
@@ -16,7 +16,7 @@
         },
         {
             "name":"dictConfig",
-            "zpy":"dic t配置"
+            "zpy":"dict配置"
         }
     ],
     "args":[
@@ -26,11 +26,11 @@
         },
         {
             "name":"defaults",
-            "zpy":"违约;默认;预设值(默认的复数)"
+            "zpy":"违约"
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"dictConfigClass",

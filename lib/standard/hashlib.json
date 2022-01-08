@@ -1,6 +1,6 @@
 {
     "name":"hashlib",
-    "zpy":null,
+    "zpy":"hashlib",
     "functions":[
         {
             "name":"digest",

@@ -1,6 +1,6 @@
 {
     "name":"readline",
-    "zpy":null,
+    "zpy":"readline",
     "functions":[
         {
             "name":"set_completer_delims",
@@ -64,7 +64,7 @@
         },
         {
             "name":"get_endidx",
-            "zpy":"endidx"
+            "zpy":"get_endidx"
         },
         {
             "name":"get_line_buffer",
@@ -100,7 +100,7 @@
         },
         {
             "name":"get_begidx",
-            "zpy":"begidx"
+            "zpy":"get_begidx"
         },
         {
             "name":"add_history",
@@ -122,7 +122,7 @@
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"readline",
@@ -150,7 +150,7 @@
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"code",
@@ -190,7 +190,7 @@
         },
         {
             "name":"prev_h_len",
-            "zpy":"prev h兰"
+            "zpy":"prevh兰"
         },
         {
             "name":"save_history",

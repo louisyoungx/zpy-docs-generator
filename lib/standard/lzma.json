@@ -1,6 +1,6 @@
 {
     "name":"lzma",
-    "zpy":null,
+    "zpy":"lzma",
     "functions":[
         {
             "name":"LZMACompressor",
@@ -28,7 +28,7 @@
         },
         {
             "name":"flush",
-            "zpy":"流溢"
+            "zpy":"冲洗"
         },
         {
             "name":"is_check_supported",
@@ -44,11 +44,11 @@
         },
         {
             "name":"decompress",
-            "zpy":"(使)减压"
+            "zpy":"减压"
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"unused_data",
@@ -58,15 +58,15 @@
     "args":[
         {
             "name":"out1",
-            "zpy":"1"
+            "zpy":"out1"
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"FILTER_DELTA",
@@ -82,11 +82,11 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"newline",
@@ -94,7 +94,7 @@
         },
         {
             "name":"flush",
-            "zpy":"流溢"
+            "zpy":"冲洗"
         },
         {
             "name":"data_in",
@@ -114,7 +114,7 @@
         },
         {
             "name":"out2",
-            "zpy":"2"
+            "zpy":"out2"
         },
         {
             "name":"check",
@@ -126,7 +126,7 @@
         },
         {
             "name":"out4",
-            "zpy":"4"
+            "zpy":"out4"
         },
         {
             "name":"size",
@@ -142,7 +142,7 @@
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"filters",
@@ -178,15 +178,15 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"out3",
-            "zpy":"3"
+            "zpy":"out3"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

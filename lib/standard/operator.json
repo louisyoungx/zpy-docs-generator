@@ -8,7 +8,7 @@
         },
         {
             "name":"__add__",
-            "zpy":"添加、"
+            "zpy":"添加"
         },
         {
             "name":"index",
@@ -16,7 +16,7 @@
         },
         {
             "name":"__ixor__",
-            "zpy":"ixor"
+            "zpy":"__ixor__"
         },
         {
             "name":"truth",
@@ -28,7 +28,7 @@
         },
         {
             "name":"__rshift__",
-            "zpy":"rshift"
+            "zpy":"__rshift__"
         },
         {
             "name":"ipow",
@@ -36,15 +36,15 @@
         },
         {
             "name":"__iconcat__",
-            "zpy":"iconcat"
+            "zpy":"__iconcat__"
         },
         {
             "name":"__eq__",
-            "zpy":"情商"
+            "zpy":"__eq__"
         },
         {
             "name":"__ge__",
-            "zpy":"通用电气、"
+            "zpy":"通用电气"
         },
         {
             "name":"__mod__",
@@ -52,7 +52,7 @@
         },
         {
             "name":"__getitem__",
-            "zpy":"getitem"
+            "zpy":"__getitem__"
         },
         {
             "name":"__concat__",
@@ -64,11 +64,11 @@
         },
         {
             "name":"__abs__",
-            "zpy":"abs、"
+            "zpy":"__abs__"
         },
         {
             "name":"__ior__",
-            "zpy":"ior"
+            "zpy":"__ior__"
         },
         {
             "name":"isub",
@@ -80,7 +80,7 @@
         },
         {
             "name":"__itruediv__",
-            "zpy":"itruediv"
+            "zpy":"__itruediv__"
         },
         {
             "name":"iconcat",
@@ -96,15 +96,15 @@
         },
         {
             "name":"__xor__",
-            "zpy":"xor"
+            "zpy":"__xor__"
         },
         {
             "name":"__matmul__",
-            "zpy":"matmul"
+            "zpy":"__matmul__"
         },
         {
             "name":"__delitem__",
-            "zpy":"delitem"
+            "zpy":"__delitem__"
         },
         {
             "name":"countOf",
@@ -116,11 +116,11 @@
         },
         {
             "name":"__isub__",
-            "zpy":"isub"
+            "zpy":"__isub__"
         },
         {
             "name":"__mul__",
-            "zpy":"mul"
+            "zpy":"__mul__"
         },
         {
             "name":"__iand__",
@@ -128,11 +128,11 @@
         },
         {
             "name":"__setitem__",
-            "zpy":"setitem"
+            "zpy":"__setitem__"
         },
         {
             "name":"__truediv__",
-            "zpy":"truediv"
+            "zpy":"__truediv__"
         },
         {
             "name":"__contains__",
@@ -144,7 +144,7 @@
         },
         {
             "name":"__imatmul__",
-            "zpy":"imatmul"
+            "zpy":"__imatmul__"
         },
         {
             "name":"attrgetter",
@@ -192,7 +192,7 @@
         },
         {
             "name":"__irshift__",
-            "zpy":"irshift"
+            "zpy":"__irshift__"
         },
         {
             "name":"itruediv",
@@ -204,7 +204,7 @@
         },
         {
             "name":"__ilshift__",
-            "zpy":"ilshift"
+            "zpy":"__ilshift__"
         },
         {
             "name":"imod",
@@ -216,11 +216,11 @@
         },
         {
             "name":"__floordiv__",
-            "zpy":"floordiv"
+            "zpy":"__floordiv__"
         },
         {
             "name":"__lt__",
-            "zpy":"lt"
+            "zpy":"__lt__"
         },
         {
             "name":"__inv__",
@@ -232,11 +232,11 @@
         },
         {
             "name":"__imul__",
-            "zpy":"imul"
+            "zpy":"__imul__"
         },
         {
             "name":"__gt__",
-            "zpy":"gt"
+            "zpy":"__gt__"
         },
         {
             "name":"iand",
@@ -244,11 +244,11 @@
         },
         {
             "name":"__ifloordiv__",
-            "zpy":"ifloordiv"
+            "zpy":"__ifloordiv__"
         },
         {
             "name":"__lshift__",
-            "zpy":"lshift"
+            "zpy":"__lshift__"
         },
         {
             "name":"floordiv",
@@ -256,7 +256,7 @@
         },
         {
             "name":"indexOf",
-            "zpy":""
+            "zpy":"indexOf"
         },
         {
             "name":"iadd",
@@ -292,7 +292,7 @@
         },
         {
             "name":"__iadd__",
-            "zpy":"iadd"
+            "zpy":"__iadd__"
         },
         {
             "name":"__ne__",
@@ -308,11 +308,11 @@
         },
         {
             "name":"contains",
-            "zpy":"包含;容纳;包含某字符串(含的单三形式)"
+            "zpy":"包含"
         },
         {
             "name":"__ipow__",
-            "zpy":"ipow"
+            "zpy":"__ipow__"
         },
         {
             "name":"setitem",
@@ -350,11 +350,11 @@
         },
         {
             "name":"item",
-            "zpy":"项目"
+            "zpy":"项"
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"default",
@@ -374,7 +374,7 @@
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"拆分"
         },
         {
             "name":"itemgetter",
@@ -382,7 +382,7 @@
         },
         {
             "name":"items",
-            "zpy":"项目名目所有物品(项目的复数形式)"
+            "zpy":"所有项"
         },
         {
             "name":"getcount",

@@ -1,6 +1,6 @@
 {
     "name":"lib2to3",
-    "zpy":null,
+    "zpy":"lib2to3",
     "functions":[
         {
             "name":"urllib",
@@ -8,11 +8,11 @@
         },
         {
             "name":"import",
-            "zpy":"进口货"
+            "zpy":"导入"
         },
         {
             "name":"except",
-            "zpy":"除"
+            "zpy":"捕获"
         },
         {
             "name":"apply",
@@ -48,11 +48,11 @@
         },
         {
             "name":"paren",
-            "zpy":"括弧(括号)"
+            "zpy":"括弧"
         },
         {
             "name":"renames",
-            "zpy":"给……重新取的名"
+            "zpy":"给重新取的名"
         },
         {
             "name":"xrange",
@@ -64,7 +64,7 @@
         },
         {
             "name":"repr",
-            "zpy":"代表表示"
+            "zpy":"返回字符值"
         },
         {
             "name":"long",
@@ -72,7 +72,7 @@
         },
         {
             "name":"exec",
-            "zpy":"主任参谋"
+            "zpy":"执行"
         },
         {
             "name":"methodattrs",
@@ -84,7 +84,7 @@
         },
         {
             "name":"raise",
-            "zpy":"上升"
+            "zpy":"抛出"
         },
         {
             "name":"filter",
@@ -92,11 +92,11 @@
         },
         {
             "name":"isinstance",
-            "zpy":"实例"
+            "zpy":"是实例"
         },
         {
             "name":"dict",
-            "zpy":"词典"
+            "zpy":"字典"
         },
         {
             "name":"reduce",
@@ -112,7 +112,7 @@
         },
         {
             "name":"types",
-            "zpy":"打字(类型的第三人称单数形式)"
+            "zpy":"所有类型"
         },
         {
             "name":"raw_input",
@@ -128,11 +128,11 @@
         },
         {
             "name":"asserts",
-            "zpy":"声称(断言的第三人称单数);维护坚持自己的主张;生效"
+            "zpy":"声称"
         },
         {
             "name":"idioms",
-            "zpy":"习语(成语的复数形式);成语;(在语言等方面所表现的)风格;(某时期或某地区的人的)语言和语法"
+            "zpy":"习语语言和语法"
         },
         {
             "name":"metaclass",
@@ -168,11 +168,11 @@
         },
         {
             "name":"sys_exc",
-            "zpy":"sys exc"
+            "zpy":"sys_exc"
         },
         {
             "name":"imports2",
-            "zpy":"2进口"
+            "zpy":"imports2"
         },
         {
             "name":"has_key",
@@ -188,7 +188,7 @@
         },
         {
             "name":"imports",
-            "zpy":"进口商品;进口总额(导入的复数)"
+            "zpy":"进口商品"
         },
         {
             "name":"tuple_params",
@@ -206,7 +206,7 @@
         },
         {
             "name":"sort",
-            "zpy":"种类"
+            "zpy":"排序"
         },
         {
             "name":"some_iterable",
@@ -222,7 +222,7 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         }
     ]
 }

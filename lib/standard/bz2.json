@@ -1,10 +1,10 @@
 {
     "name":"bz2",
-    "zpy":null,
+    "zpy":"bz2",
     "functions":[
         {
             "name":"BZ2File",
-            "zpy":"BZ 2文件"
+            "zpy":"BZ2文件"
         },
         {
             "name":"needs_input",
@@ -12,11 +12,11 @@
         },
         {
             "name":"flush",
-            "zpy":"流溢"
+            "zpy":"冲洗"
         },
         {
             "name":"BZ2Compressor",
-            "zpy":"BZ 2压缩机"
+            "zpy":"BZ2压缩机"
         },
         {
             "name":"peek",
@@ -28,11 +28,11 @@
         },
         {
             "name":"decompress",
-            "zpy":"(使)减压"
+            "zpy":"减压"
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"unused_data",
@@ -46,7 +46,7 @@
     "args":[
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"compresslevel",
@@ -54,11 +54,11 @@
         },
         {
             "name":"decompress",
-            "zpy":"(使)减压"
+            "zpy":"减压"
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"newline",
@@ -70,11 +70,11 @@
         },
         {
             "name":"flush",
-            "zpy":"流溢"
+            "zpy":"冲洗"
         },
         {
             "name":"comp",
-            "zpy":"电脑及相关知识DOS内部命令:比较两个文件的内容"
+            "zpy":"电脑及相关知识DOS内部命令比较两个文件的内容"
         },
         {
             "name":"content",
@@ -102,7 +102,7 @@
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"filename",
@@ -114,7 +114,7 @@
         },
         {
             "name":"BZ2Compressor",
-            "zpy":"BZ 2压缩机"
+            "zpy":"BZ2压缩机"
         },
         {
             "name":"unused",
@@ -126,11 +126,11 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

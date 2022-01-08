@@ -1,6 +1,6 @@
 {
     "name":"xml.dom.pulldom",
-    "zpy":null,
+    "zpy":"xml.dom.pulldom",
     "functions":[
         {
             "name":"expandNode",
@@ -36,7 +36,7 @@
         },
         {
             "name":"SAX2DOM",
-            "zpy":"DOM、SAX "
+            "zpy":"SAX2DOM"
         }
     ],
     "args":[
@@ -74,7 +74,7 @@
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"node",

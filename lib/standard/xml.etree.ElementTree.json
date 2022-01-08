@@ -1,6 +1,6 @@
 {
     "name":"xml.etree.ElementTree",
-    "zpy":null,
+    "zpy":"xml.etree.ElementTree",
     "functions":[
         {
             "name":"iterfind",
@@ -8,7 +8,7 @@
         },
         {
             "name":"find",
-            "zpy":"发现"
+            "zpy":"找到"
         },
         {
             "name":"text",
@@ -20,7 +20,7 @@
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"C14NWriterTarget",
@@ -40,7 +40,7 @@
         },
         {
             "name":"_setroot",
-            "zpy":"setroot"
+            "zpy":"_setroot"
         },
         {
             "name":"parse",
@@ -48,11 +48,11 @@
         },
         {
             "name":"XMLID",
-            "zpy":"XML ID"
+            "zpy":"XMLID"
         },
         {
             "name":"attrib",
-            "zpy":"DOS外部命令:显示及修改文件的属性"
+            "zpy":"DOS外部命令显示及修改文件的属性"
         },
         {
             "name":"QName",
@@ -72,7 +72,7 @@
         },
         {
             "name":"canonicalize",
-            "zpy":"规范、"
+            "zpy":"规范"
         },
         {
             "name":"default_loader",
@@ -108,11 +108,11 @@
         },
         {
             "name":"iter",
-            "zpy":"导管"
+            "zpy":"迭代"
         },
         {
             "name":"clear",
-            "zpy":"清楚的"
+            "zpy":"清除"
         },
         {
             "name":"TreeBuilder",
@@ -144,7 +144,7 @@
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"fromstringlist",
@@ -160,7 +160,7 @@
         },
         {
             "name":"XMLPullParser",
-            "zpy":"XML Pull解析器"
+            "zpy":"XMLPull解析器"
         },
         {
             "name":"insert",
@@ -168,11 +168,11 @@
         },
         {
             "name":"items",
-            "zpy":"项目名目所有物品(项目的复数形式)"
+            "zpy":"所有项"
         },
         {
             "name":"keys",
-            "zpy":"关键帧;(钢琴等的)键;密钥(关键的复数)"
+            "zpy":"所有键"
         },
         {
             "name":"Element",
@@ -220,7 +220,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"tail",
@@ -230,11 +230,11 @@
     "args":[
         {
             "name":"find",
-            "zpy":"发现"
+            "zpy":"找到"
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"head",
@@ -246,7 +246,7 @@
         },
         {
             "name":"events",
-            "zpy":"事件;项目(事件的复数)"
+            "zpy":"事件"
         },
         {
             "name":"index",
@@ -326,7 +326,7 @@
         },
         {
             "name":"href",
-            "zpy":"超文本引用(hypertextreference);超链接"
+            "zpy":"超文本引用"
         },
         {
             "name":"method",
@@ -338,11 +338,11 @@
         },
         {
             "name":"attrib",
-            "zpy":"DOS外部命令:显示及修改文件的属性"
+            "zpy":"DOS外部命令显示及修改文件的属性"
         },
         {
             "name":"element",
-            "zpy":"元件"
+            "zpy":"元素"
         },
         {
             "name":"pubid",
@@ -378,7 +378,7 @@
         },
         {
             "name":"clear",
-            "zpy":"清楚的"
+            "zpy":"清除"
         },
         {
             "name":"strip_text",
@@ -394,11 +394,11 @@
         },
         {
             "name":"body",
-            "zpy":"身体"
+            "zpy":"躯干"
         },
         {
             "name":"namespaces",
-            "zpy":""
+            "zpy":"namespaces"
         },
         {
             "name":"xml_declaration",
@@ -430,7 +430,7 @@
         },
         {
             "name":"XMLPullParser",
-            "zpy":"XML Pull解析器"
+            "zpy":"XMLPull解析器"
         },
         {
             "name":"tree",
@@ -454,7 +454,7 @@
         },
         {
             "name":"Cleese",
-            "zpy":"(克里斯)人名;(英)克利斯"
+            "zpy":"克利斯"
         },
         {
             "name":"rank",
@@ -486,11 +486,11 @@
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"elem",
-            "zpy":"伊特姆"
+            "zpy":"elem"
         },
         {
             "name":"target",
@@ -498,7 +498,7 @@
         },
         {
             "name":"iter",
-            "zpy":"导管"
+            "zpy":"迭代"
         },
         {
             "name":"loader",
@@ -514,7 +514,7 @@
         },
         {
             "name":"qname_aware_attrs",
-            "zpy":"qname attrs有所了解"
+            "zpy":"qnameattrs有所了解"
         },
         {
             "name":"default_namespace",
@@ -534,19 +534,19 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"title",
-            "zpy":"头衔"
+            "zpy":"标题"
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"items",
-            "zpy":"项目名目所有物品(项目的复数形式)"
+            "zpy":"所有项"
         },
         {
             "name":"Element",
@@ -554,7 +554,7 @@
         },
         {
             "name":"Gunther",
-            "zpy":"巩特尔（《尼伯龙之歌》中的勃艮第王）"
+            "zpy":"巩特尔尼伯龙之歌中的勃艮第王"
         },
         {
             "name":"sequence",
@@ -586,7 +586,7 @@
         },
         {
             "name":"options",
-            "zpy":"选择期权;选择项(选项的复数)"
+            "zpy":"选择期权"
         },
         {
             "name":"attribs",
@@ -594,7 +594,7 @@
         },
         {
             "name":"source",
-            "zpy":"来源"
+            "zpy":"源"
         },
         {
             "name":"text_or_uri",
@@ -614,11 +614,11 @@
         },
         {
             "name":"Lancelot",
-            "zpy":"兰斯洛特(亚瑟王武士)"
+            "zpy":"兰斯洛特"
         },
         {
             "name":"canonicalize",
-            "zpy":"规范、"
+            "zpy":"规范"
         },
         {
             "name":"Clement",
@@ -666,7 +666,7 @@
         },
         {
             "name":"Eric",
-            "zpy":"科教资源信息中心(EducationalResourcesInformationCenter);电子遥控与独立控制(ElectronicRemoteandIndependentControl)"
+            "zpy":"科教资源信息中心"
         },
         {
             "name":"subelements",
@@ -686,7 +686,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

@@ -32,7 +32,7 @@
         },
         {
             "name":"choices",
-            "zpy":"选择(选择的复数)"
+            "zpy":"选择"
         },
         {
             "name":"setstate",
@@ -60,7 +60,7 @@
         },
         {
             "name":"vonmisesvariate",
-            "zpy":"•冯•米塞斯变量"
+            "zpy":"冯米塞斯变量"
         },
         {
             "name":"uniform",
@@ -106,7 +106,7 @@
     "args":[
         {
             "name":"combined",
-            "zpy":"结合的；组合的"
+            "zpy":"结合的"
         },
         {
             "name":"num_servers",
@@ -122,7 +122,7 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"beta",
@@ -138,11 +138,11 @@
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"kappa",
-            "zpy":"希腊文第十个字母(K)"
+            "zpy":"希腊文第十个字母"
         },
         {
             "name":"choice",
@@ -154,7 +154,7 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"fmean",
@@ -170,7 +170,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"getrandbits",
@@ -182,7 +182,7 @@
         },
         {
             "name":"gamma",
-            "zpy":"希腊语的第三个字母(Γ"
+            "zpy":"希腊语的第三个字母Γ"
         },
         {
             "name":"service_duration",
@@ -198,7 +198,7 @@
         },
         {
             "name":"servers",
-            "zpy":"服务器(服务器的复数)"
+            "zpy":"服务器"
         },
         {
             "name":"gauss",
@@ -206,7 +206,7 @@
         },
         {
             "name":"choices",
-            "zpy":"选择(选择的复数)"
+            "zpy":"选择"
         },
         {
             "name":"new_diff",
@@ -234,11 +234,11 @@
         },
         {
             "name":"quantiles",
-            "zpy":"分位数；分位点"
+            "zpy":"分位数"
         },
         {
             "name":"placebo",
-            "zpy":"(为死者所诵的)晚祷歌"
+            "zpy":"晚祷歌"
         },
         {
             "name":"version",
@@ -246,7 +246,7 @@
         },
         {
             "name":"waits",
-            "zpy":"等候(等待的第三人称单数);等待;(尤指长期地)希望盼望"
+            "zpy":"等候希望盼望"
         },
         {
             "name":"math",
@@ -278,7 +278,7 @@
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"拆分"
         },
         {
             "name":"shuffle",
@@ -306,7 +306,7 @@
         },
         {
             "name":"weights",
-            "zpy":"重量;砝码(重量的复数)"
+            "zpy":"重量"
         },
         {
             "name":"randrange",

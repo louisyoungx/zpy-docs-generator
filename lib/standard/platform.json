@@ -4,7 +4,7 @@
     "functions":[
         {
             "name":"EL2NSYNC",
-            "zpy":"EL 2 NSYNC"
+            "zpy":"EL2NSYNC"
         },
         {
             "name":"EBADR",
@@ -32,7 +32,7 @@
         },
         {
             "name":"ELNRNG",
-            "zpy":"EL NR NG"
+            "zpy":"ELNRNG"
         },
         {
             "name":"EINPROGRESS",
@@ -40,7 +40,7 @@
         },
         {
             "name":"EDOM",
-            "zpy":"伊多姆(即雅各之兄伊索)"
+            "zpy":"伊多姆"
         },
         {
             "name":"EUCLEAN",
@@ -76,7 +76,7 @@
         },
         {
             "name":"EADDRINUSE",
-            "zpy":"Ead Dr In use"
+            "zpy":"EADDRINUSE"
         },
         {
             "name":"EEXIST",
@@ -100,7 +100,7 @@
         },
         {
             "name":"ESRMNT",
-            "zpy":"E SRM NT"
+            "zpy":"ESRMNT"
         },
         {
             "name":"EBADFD",
@@ -120,7 +120,7 @@
         },
         {
             "name":"ECHRNG",
-            "zpy":"ECHR NG"
+            "zpy":"ECHRNG"
         },
         {
             "name":"EPROTO",
@@ -160,11 +160,11 @@
         },
         {
             "name":"ENODEV",
-            "zpy":"ENO DEV"
+            "zpy":"ENODEV"
         },
         {
             "name":"ENOSR",
-            "zpy":"OSR"
+            "zpy":"ENOSR"
         },
         {
             "name":"EFBIG",
@@ -176,7 +176,7 @@
         },
         {
             "name":"ETXTBSY",
-            "zpy":"x TBS y"
+            "zpy":"ETXTBSY"
         },
         {
             "name":"ENOTCONN",
@@ -216,7 +216,7 @@
         },
         {
             "name":"EACCES",
-            "zpy":"E ACC"
+            "zpy":"EACCES"
         },
         {
             "name":"ENOSPC",
@@ -224,7 +224,7 @@
         },
         {
             "name":"ENOLINK",
-            "zpy":"E NOLINK"
+            "zpy":"ENOLINK"
         },
         {
             "name":"EOPNOTSUPP",
@@ -232,7 +232,7 @@
         },
         {
             "name":"ESRCH",
-            "zpy":"ES R CH"
+            "zpy":"ESRCH"
         },
         {
             "name":"EOVERFLOW",
@@ -264,7 +264,7 @@
         },
         {
             "name":"EL3RST",
-            "zpy":"EL 3 RST"
+            "zpy":"EL3RST"
         },
         {
             "name":"ELIBEXEC",
@@ -272,7 +272,7 @@
         },
         {
             "name":"EREMCHG",
-            "zpy":"ER EMC HG"
+            "zpy":"EREMCHG"
         },
         {
             "name":"EAFNOSUPPORT",
@@ -292,7 +292,7 @@
         },
         {
             "name":"EPFNOSUPPORT",
-            "zpy":"Ep f不支持"
+            "zpy":"Epf不支持"
         },
         {
             "name":"EDEADLOCK",
@@ -328,7 +328,7 @@
         },
         {
             "name":"EBADSLT",
-            "zpy":"EB ADSL T"
+            "zpy":"EBADSLT"
         },
         {
             "name":"EDOTDOT",
@@ -336,7 +336,7 @@
         },
         {
             "name":"ELIBSCN",
-            "zpy":"伊莱BSC N"
+            "zpy":"伊莱BSCN"
         },
         {
             "name":"ETOOMANYREFS",
@@ -356,11 +356,11 @@
         },
         {
             "name":"ENOSTR",
-            "zpy":"OSTR"
+            "zpy":"ENOSTR"
         },
         {
             "name":"EILSEQ",
-            "zpy":"E IL SEQ"
+            "zpy":"EILSEQ"
         },
         {
             "name":"ENOPROTOOPT",
@@ -368,19 +368,19 @@
         },
         {
             "name":"EBADF",
-            "zpy":"F E坏"
+            "zpy":"FE坏"
         },
         {
             "name":"EL2HLT",
-            "zpy":"El 2 h lt"
+            "zpy":"EL2HLT"
         },
         {
             "name":"ELIBACC",
-            "zpy":"伊莱BAC C"
+            "zpy":"伊莱BACC"
         },
         {
             "name":"ENOENT",
-            "zpy":"ENO ENT"
+            "zpy":"ENOENT"
         },
         {
             "name":"EMSGSIZE",
@@ -420,19 +420,19 @@
         },
         {
             "name":"E2BIG",
-            "zpy":"E 2大"
+            "zpy":"E2大"
         },
         {
             "name":"EIDRM",
-            "zpy":"EI DRM"
+            "zpy":"EIDRM"
         },
         {
             "name":"ENOMEM",
-            "zpy":"ENO MEM"
+            "zpy":"ENOMEM"
         },
         {
             "name":"ENOCSI",
-            "zpy":"ENO CSI"
+            "zpy":"ENOCSI"
         },
         {
             "name":"ENETDOWN",
@@ -464,7 +464,7 @@
         },
         {
             "name":"EL3HLT",
-            "zpy":"El 3lt"
+            "zpy":"EL3HLT"
         },
         {
             "name":"ECOMM",
@@ -472,7 +472,7 @@
         },
         {
             "name":"ENONET",
-            "zpy":"ENONE T"
+            "zpy":"ENONET"
         },
         {
             "name":"ENAVAIL",

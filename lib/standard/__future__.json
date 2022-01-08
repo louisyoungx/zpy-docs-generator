@@ -1,6 +1,6 @@
 {
     "name":"__future__",
-    "zpy":null,
+    "zpy":"__future__",
     "functions":[
         {
             "name":"DEBUG_SAVEALL",
@@ -106,7 +106,7 @@
     "args":[
         {
             "name":"flags",
-            "zpy":"标记旗帜(国旗的复数)"
+            "zpy":"所有标志"
         },
         {
             "name":"is_tracked",

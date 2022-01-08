@@ -24,11 +24,11 @@
         },
         {
             "name":"Options",
-            "zpy":"选择期权;选择项(选项的复数)"
+            "zpy":"选择期权"
         },
         {
             "name":"HAS_ALPN",
-            "zpy":"ALPN"
+            "zpy":"HAS_ALPN"
         },
         {
             "name":"VerifyFlags",
@@ -56,7 +56,7 @@
         },
         {
             "name":"OP_NO_TLSv1_1",
-            "zpy":"OP NO TLSv1"
+            "zpy":"OP_NO_TLSv1_1"
         },
         {
             "name":"pending",
@@ -64,7 +64,7 @@
         },
         {
             "name":"HAS_SNI",
-            "zpy":"SNI"
+            "zpy":"HAS_SNI"
         },
         {
             "name":"security_level",
@@ -72,7 +72,7 @@
         },
         {
             "name":"HAS_TLSv1_3",
-            "zpy":"TLSv1 3"
+            "zpy":"HAS_TLSv1_3"
         },
         {
             "name":"check_hostname",
@@ -112,7 +112,7 @@
         },
         {
             "name":"RAND_add",
-            "zpy":"兰德添加、"
+            "zpy":"兰德添加"
         },
         {
             "name":"DER_cert_to_PEM_cert",
@@ -156,7 +156,7 @@
         },
         {
             "name":"ALERT_DESCRIPTION_*",
-            "zpy":"警报描述*"
+            "zpy":"警报描述"
         },
         {
             "name":"VERIFY_X509_PARTIAL_CHAIN",
@@ -164,7 +164,7 @@
         },
         {
             "name":"HAS_TLSv1_2",
-            "zpy":"TLSv1 2"
+            "zpy":"HAS_TLSv1_2"
         },
         {
             "name":"sni_callback",
@@ -172,7 +172,7 @@
         },
         {
             "name":"OP_ENABLE_MIDDLEBOX_COMPAT",
-            "zpy":"Op启用middlebox compat"
+            "zpy":"Op启用middleboxcompat"
         },
         {
             "name":"set_default_verify_paths",
@@ -232,7 +232,7 @@
         },
         {
             "name":"OP_NO_TLSv1_3",
-            "zpy":"OP NO TLSv1 3"
+            "zpy":"OP_NO_TLSv1_3"
         },
         {
             "name":"RAND_bytes",
@@ -260,7 +260,7 @@
         },
         {
             "name":"TLSv1_2",
-            "zpy":"TLSv1 2"
+            "zpy":"TLSv1_2"
         },
         {
             "name":"verify_message",
@@ -280,11 +280,11 @@
         },
         {
             "name":"PROTOCOL_TLSv1_2",
-            "zpy":"协议TLSv1 2"
+            "zpy":"协议TLSv12"
         },
         {
             "name":"TLSv1_3",
-            "zpy":"TLSv1 3"
+            "zpy":"TLSv1_3"
         },
         {
             "name":"wrap_socket",
@@ -300,7 +300,7 @@
         },
         {
             "name":"HAS_SSLv3",
-            "zpy":"SSLv3"
+            "zpy":"HAS_SSLv3"
         },
         {
             "name":"post_handshake_auth",
@@ -320,7 +320,7 @@
         },
         {
             "name":"TLSv1",
-            "zpy":"TLS v 1"
+            "zpy":"TLSv1"
         },
         {
             "name":"minimum_version",
@@ -368,7 +368,7 @@
         },
         {
             "name":"OP_NO_TLSv1_2",
-            "zpy":"OP NO TLSv1 2"
+            "zpy":"OP_NO_TLSv1_2"
         },
         {
             "name":"OP_SINGLE_ECDH_USE",
@@ -396,7 +396,7 @@
         },
         {
             "name":"TLSv1_1",
-            "zpy":"TLSv1 1"
+            "zpy":"TLSv1_1"
         },
         {
             "name":"set_ecdh_curve",
@@ -472,7 +472,7 @@
         },
         {
             "name":"options",
-            "zpy":"选择期权;选择项(选项的复数)"
+            "zpy":"选择期权"
         },
         {
             "name":"RAND_pseudo_bytes",
@@ -484,7 +484,7 @@
         },
         {
             "name":"HAS_ECDH",
-            "zpy":"ECDH"
+            "zpy":"HAS_ECDH"
         },
         {
             "name":"verify_code",
@@ -528,7 +528,7 @@
         },
         {
             "name":"PROTOCOL_TLSv1_1",
-            "zpy":"协议TLSv1 1"
+            "zpy":"协议TLSv11"
         },
         {
             "name":"MemoryBIO",
@@ -552,7 +552,7 @@
         },
         {
             "name":"HAS_TLSv1_1",
-            "zpy":"TLSv1 1"
+            "zpy":"HAS_TLSv1_1"
         },
         {
             "name":"AlertDescription",
@@ -564,11 +564,11 @@
         },
         {
             "name":"SSLSyscallError",
-            "zpy":"S S LSy的呼叫错误"
+            "zpy":"SSLSy的呼叫错误"
         },
         {
             "name":"HAS_TLSv1",
-            "zpy":"TLSv1"
+            "zpy":"HAS_TLSv1"
         },
         {
             "name":"SSLSocket",
@@ -588,11 +588,11 @@
         },
         {
             "name":"OP_ALL",
-            "zpy":"OP"
+            "zpy":"OP_ALL"
         },
         {
             "name":"SSLv3",
-            "zpy":"SSL v 3"
+            "zpy":"SSLv3"
         },
         {
             "name":"OP_NO_SSLv3",
@@ -618,7 +618,7 @@
         },
         {
             "name":"x509",
-            "zpy":"x 509"
+            "zpy":"x509"
         },
         {
             "name":"PROTOCOL_SSLv23",
@@ -638,7 +638,7 @@
         },
         {
             "name":"bytes",
-            "zpy":"位元组"
+            "zpy":"字节串"
         },
         {
             "name":"enter",
@@ -702,7 +702,7 @@
         },
         {
             "name":"openssl",
-            "zpy":""
+            "zpy":"openssl"
         },
         {
             "name":"connstream",
@@ -718,7 +718,7 @@
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"拆分"
         },
         {
             "name":"mygroup",
@@ -726,7 +726,7 @@
         },
         {
             "name":"timestamp",
-            "zpy":"时间戳；时间邮票"
+            "zpy":"时间戳"
         },
         {
             "name":"bind",
@@ -762,7 +762,7 @@
         },
         {
             "name":"recv",
-            "zpy":"接收收的到(接收)"
+            "zpy":"接收收的到"
         },
         {
             "name":"cert_time",
@@ -854,7 +854,7 @@
         },
         {
             "name":"protocols",
-            "zpy":"协议礼仪礼节;条款(协议的复数)"
+            "zpy":"协议礼仪礼节"
         },
         {
             "name":"left",
@@ -870,7 +870,7 @@
         },
         {
             "name":"about",
-            "zpy":"在...周围"
+            "zpy":"在周围"
         },
         {
             "name":"outgoing",
@@ -890,7 +890,7 @@
         },
         {
             "name":"<module>",
-            "zpy":"> <模块"
+            "zpy":"模块"
         },
         {
             "name":"buffer",
@@ -906,7 +906,7 @@
         },
         {
             "name":"PROTOCOL_TLSv1_2",
-            "zpy":"协议TLSv1 2"
+            "zpy":"协议TLSv12"
         },
         {
             "name":"Generating",
@@ -914,7 +914,7 @@
         },
         {
             "name":"TLSv1_3",
-            "zpy":"TLSv1 3"
+            "zpy":"TLSv1_3"
         },
         {
             "name":"wrap_socket",
@@ -978,7 +978,7 @@
         },
         {
             "name":"into",
-            "zpy":"进入...之内"
+            "zpy":"进入之内"
         },
         {
             "name":"server_side",
@@ -1002,7 +1002,7 @@
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"server_hostname",
@@ -1042,7 +1042,7 @@
         },
         {
             "name":"PEM_cert_string",
-            "zpy":"PEM cert字符串"
+            "zpy":"PEMcert字符串"
         },
         {
             "name":"writing",
@@ -1074,7 +1074,7 @@
         },
         {
             "name":"ciphers",
-            "zpy":"密码(密码的名词复数);零;不重要的人;无价值的东西"
+            "zpy":"密码"
         },
         {
             "name":"newsocket",
@@ -1086,7 +1086,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"keyfile",
@@ -1118,7 +1118,7 @@
         },
         {
             "name":"base64",
-            "zpy":"64年基地"
+            "zpy":"base64"
         },
         {
             "name":"root",
@@ -1162,7 +1162,7 @@
         },
         {
             "name":"options",
-            "zpy":"选择期权;选择项(选项的复数)"
+            "zpy":"选择期权"
         },
         {
             "name":"SOCK_STREAM",
@@ -1206,11 +1206,11 @@
         },
         {
             "name":"DER_cert_bytes",
-            "zpy":"DER cert字节"
+            "zpy":"DERcert字节"
         },
         {
             "name":"hostname 'example.org' doesn't match 'example.com'",
-            "zpy":"Hostname的例子。Org ' doesn ' t match '示例。com”"
+            "zpy":"Hostname的例子Orgdoesntmatch示例com"
         },
         {
             "name":"cert_store_stats",
@@ -1322,7 +1322,7 @@
         },
         {
             "name":"stats",
-            "zpy":"静止坦克自动目标系统(StationaryTankAutomaticTargetSystem)"
+            "zpy":"静止坦克自动目标系统"
         },
         {
             "name":"Distinguished",
@@ -1330,11 +1330,11 @@
         },
         {
             "name":"nodes",
-            "zpy":"节点(节点的复数形式)"
+            "zpy":"节点"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

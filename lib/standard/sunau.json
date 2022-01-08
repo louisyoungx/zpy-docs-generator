@@ -1,6 +1,6 @@
 {
     "name":"sunau",
-    "zpy":null,
+    "zpy":"sunau",
     "functions":[
         {
             "name":"setparams",
@@ -24,7 +24,7 @@
         },
         {
             "name":"AUDIO_FILE_ENCODING_MULAW_8",
-            "zpy":"音频文件编码mulaw 8"
+            "zpy":"音频文件编码mulaw8"
         },
         {
             "name":"getnframes",
@@ -64,7 +64,7 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"getcomptype",
@@ -76,11 +76,11 @@
         },
         {
             "name":"AUDIO_FILE_ENCODING_ADPCM_G722",
-            "zpy":"音频文件编码adpcm g722"
+            "zpy":"音频文件编码adpcmg722"
         },
         {
             "name":"AUDIO_FILE_ENCODING_ADPCM_G721",
-            "zpy":"音频文件编码adpcm g721"
+            "zpy":"音频文件编码adpcmg721"
         },
         {
             "name":"AUDIO_FILE_ENCODING_LINEAR_32",
@@ -120,7 +120,7 @@
         },
         {
             "name":"AUDIO_FILE_ENCODING_ADPCM_G723_5",
-            "zpy":"音频文件编码adpcm g723 5"
+            "zpy":"音频文件编码adpcmg7235"
         },
         {
             "name":"setnframes",
@@ -136,7 +136,7 @@
         },
         {
             "name":"AUDIO_FILE_ENCODING_ADPCM_G723_3",
-            "zpy":"音频文件编码adpcm g723"
+            "zpy":"音频文件编码adpcmg723"
         },
         {
             "name":"rewind",
@@ -154,7 +154,7 @@
     "args":[
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"type",
@@ -170,11 +170,11 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ]
 }

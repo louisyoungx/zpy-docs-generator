@@ -1,6 +1,6 @@
 {
     "name":"urllib.parse",
-    "zpy":null,
+    "zpy":"urllib.parse",
     "functions":[
         {
             "name":"code",
@@ -8,7 +8,7 @@
         },
         {
             "name":"headers",
-            "zpy":"标题(头的复数)"
+            "zpy":"标题"
         },
         {
             "name":"ContentTooShortError",

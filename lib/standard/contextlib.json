@@ -1,6 +1,6 @@
 {
     "name":"contextlib",
-    "zpy":null,
+    "zpy":"contextlib",
     "functions":[
         {
             "name":"abstractproperty",
@@ -32,7 +32,7 @@
         },
         {
             "name":"__subclasshook__",
-            "zpy":"subclasshook"
+            "zpy":"__subclasshook__"
         },
         {
             "name":"abstractclassmethod",
@@ -50,11 +50,11 @@
         },
         {
             "name":"MyABC",
-            "zpy":"我的美国广播公司(ABC)"
+            "zpy":"我的美国广播公司"
         },
         {
             "name":"setter",
-            "zpy":"从事安装的人"
+            "zpy":"setter"
         },
         {
             "name":"subclass",
@@ -74,7 +74,7 @@
         },
         {
             "name":"_fdel",
-            "zpy":"fdel"
+            "zpy":"_fdel"
         },
         {
             "name":"_get_x",
@@ -82,7 +82,7 @@
         },
         {
             "name":"_fget",
-            "zpy":"fget"
+            "zpy":"_fget"
         },
         {
             "name":"register",
@@ -90,7 +90,7 @@
         },
         {
             "name":"_fset",
-            "zpy":"fset"
+            "zpy":"_fset"
         }
     ]
 }

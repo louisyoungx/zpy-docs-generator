@@ -1,10 +1,10 @@
 {
     "name":"fileinput",
-    "zpy":null,
+    "zpy":"fileinput",
     "functions":[
         {
             "name":"S_IFIFO",
-            "zpy":"IFIFO"
+            "zpy":"S_IFIFO"
         },
         {
             "name":"UF_APPEND",
@@ -12,15 +12,15 @@
         },
         {
             "name":"S_IROTH",
-            "zpy":"IROTH"
+            "zpy":"S_IROTH"
         },
         {
             "name":"S_ISWHT",
-            "zpy":"ISWHT"
+            "zpy":"S_ISWHT"
         },
         {
             "name":"S_IFLNK",
-            "zpy":"IFLNK"
+            "zpy":"S_IFLNK"
         },
         {
             "name":"FILE_ATTRIBUTE_SYSTEM",
@@ -28,7 +28,7 @@
         },
         {
             "name":"S_IXOTH",
-            "zpy":"IXOTH"
+            "zpy":"S_IXOTH"
         },
         {
             "name":"FILE_ATTRIBUTE_NOT_CONTENT_INDEXED",
@@ -40,7 +40,7 @@
         },
         {
             "name":"S_ISVTX",
-            "zpy":"ISVTX"
+            "zpy":"S_ISVTX"
         },
         {
             "name":"FILE_ATTRIBUTE_INTEGRITY_STREAM",
@@ -48,11 +48,11 @@
         },
         {
             "name":"S_ISDOOR",
-            "zpy":"ISDOOR"
+            "zpy":"S_ISDOOR"
         },
         {
             "name":"S_ISREG",
-            "zpy":"ISREG"
+            "zpy":"S_ISREG"
         },
         {
             "name":"FILE_ATTRIBUTE_ARCHIVE",
@@ -64,15 +64,15 @@
         },
         {
             "name":"S_IFWHT",
-            "zpy":"IFWHT"
+            "zpy":"S_IFWHT"
         },
         {
             "name":"S_ISFIFO",
-            "zpy":"ISFIFO"
+            "zpy":"S_ISFIFO"
         },
         {
             "name":"S_IEXEC",
-            "zpy":"IEXEC"
+            "zpy":"S_IEXEC"
         },
         {
             "name":"S_IMODE",
@@ -80,11 +80,11 @@
         },
         {
             "name":"S_IWUSR",
-            "zpy":"IWUSR"
+            "zpy":"S_IWUSR"
         },
         {
             "name":"S_IFREG",
-            "zpy":"IFREG"
+            "zpy":"S_IFREG"
         },
         {
             "name":"ST_MTIME",
@@ -92,7 +92,7 @@
         },
         {
             "name":"S_IFSOCK",
-            "zpy":"IFSOCK"
+            "zpy":"S_IFSOCK"
         },
         {
             "name":"UF_IMMUTABLE",
@@ -108,7 +108,7 @@
         },
         {
             "name":"S_IXUSR",
-            "zpy":"IXUSR"
+            "zpy":"S_IXUSR"
         },
         {
             "name":"UF_NODUMP",
@@ -124,7 +124,7 @@
         },
         {
             "name":"S_ENFMT",
-            "zpy":"ENFMT"
+            "zpy":"S_ENFMT"
         },
         {
             "name":"FILE_ATTRIBUTE_DIRECTORY",
@@ -136,7 +136,7 @@
         },
         {
             "name":"S_IFMT",
-            "zpy":"IFMT"
+            "zpy":"S_IFMT"
         },
         {
             "name":"FILE_ATTRIBUTE_HIDDEN",
@@ -164,7 +164,7 @@
         },
         {
             "name":"S_IWRITE",
-            "zpy":"IWRITE"
+            "zpy":"S_IWRITE"
         },
         {
             "name":"FILE_ATTRIBUTE_OFFLINE",
@@ -172,11 +172,11 @@
         },
         {
             "name":"S_IREAD",
-            "zpy":"IREAD"
+            "zpy":"S_IREAD"
         },
         {
             "name":"S_ISSOCK",
-            "zpy":"ISSOCK"
+            "zpy":"S_ISSOCK"
         },
         {
             "name":"SF_NOUNLINK",
@@ -184,11 +184,11 @@
         },
         {
             "name":"S_ISLNK",
-            "zpy":"ISLNK"
+            "zpy":"S_ISLNK"
         },
         {
             "name":"S_ISBLK",
-            "zpy":"ISBLK"
+            "zpy":"S_ISBLK"
         },
         {
             "name":"FILE_ATTRIBUTE_NO_SCRUB_DATA",
@@ -200,23 +200,23 @@
         },
         {
             "name":"S_IRGRP",
-            "zpy":"IRGRP"
+            "zpy":"S_IRGRP"
         },
         {
             "name":"S_IRUSR",
-            "zpy":"IRUSR"
+            "zpy":"S_IRUSR"
         },
         {
             "name":"S_ISPORT",
-            "zpy":"ISPORT"
+            "zpy":"S_ISPORT"
         },
         {
             "name":"S_IXGRP",
-            "zpy":"IXGRP"
+            "zpy":"S_IXGRP"
         },
         {
             "name":"S_IFDIR",
-            "zpy":"IFDIR"
+            "zpy":"S_IFDIR"
         },
         {
             "name":"IO_REPARSE_TAG_APPEXECLINK",
@@ -236,19 +236,19 @@
         },
         {
             "name":"S_ISDIR",
-            "zpy":"ISDIR"
+            "zpy":"S_ISDIR"
         },
         {
             "name":"S_ISUID",
-            "zpy":"ISUID"
+            "zpy":"S_ISUID"
         },
         {
             "name":"S_IFBLK",
-            "zpy":"IFBLK"
+            "zpy":"S_IFBLK"
         },
         {
             "name":"S_ISGID",
-            "zpy":"ISGID"
+            "zpy":"S_ISGID"
         },
         {
             "name":"SF_IMMUTABLE",
@@ -280,7 +280,7 @@
         },
         {
             "name":"S_IFCHR",
-            "zpy":"IFCHR"
+            "zpy":"S_IFCHR"
         },
         {
             "name":"FILE_ATTRIBUTE_NORMAL",
@@ -288,7 +288,7 @@
         },
         {
             "name":"S_IFDOOR",
-            "zpy":"IFDOOR"
+            "zpy":"S_IFDOOR"
         },
         {
             "name":"ST_NLINK",
@@ -296,7 +296,7 @@
         },
         {
             "name":"S_IWGRP",
-            "zpy":"IWGRP"
+            "zpy":"S_IWGRP"
         },
         {
             "name":"ST_CTIME",
@@ -304,11 +304,11 @@
         },
         {
             "name":"S_IWOTH",
-            "zpy":"IWOTH"
+            "zpy":"S_IWOTH"
         },
         {
             "name":"S_IRWXG",
-            "zpy":"IRWXG"
+            "zpy":"S_IRWXG"
         },
         {
             "name":"IO_REPARSE_TAG_MOUNT_POINT",
@@ -316,7 +316,7 @@
         },
         {
             "name":"S_ISCHR",
-            "zpy":"ISCHR"
+            "zpy":"S_ISCHR"
         },
         {
             "name":"IO_REPARSE_TAG_SYMLINK",
@@ -324,15 +324,15 @@
         },
         {
             "name":"S_IRWXU",
-            "zpy":"IRWXU"
+            "zpy":"S_IRWXU"
         },
         {
             "name":"S_IRWXO",
-            "zpy":"IRWXO"
+            "zpy":"S_IRWXO"
         },
         {
             "name":"S_IFPORT",
-            "zpy":"IFPORT"
+            "zpy":"S_IFPORT"
         },
         {
             "name":"ST_DEV",
@@ -342,7 +342,7 @@
     "args":[
         {
             "name":"S_ISREG",
-            "zpy":"ISREG"
+            "zpy":"S_ISREG"
         },
         {
             "name":"visitfile",
@@ -350,11 +350,11 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"listdir",
@@ -382,7 +382,7 @@
         },
         {
             "name":"argv",
-            "zpy":"arg v"
+            "zpy":"argv"
         },
         {
             "name":"walktree",
@@ -390,11 +390,11 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"S_ISDIR",
-            "zpy":"ISDIR"
+            "zpy":"S_ISDIR"
         }
     ]
 }

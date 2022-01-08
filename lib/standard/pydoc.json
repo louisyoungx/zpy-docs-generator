@@ -1,6 +1,6 @@
 {
     "name":"pydoc",
-    "zpy":null,
+    "zpy":"pydoc",
     "functions":[],
     "args":[
         {
@@ -9,7 +9,7 @@
         },
         {
             "name":"argv",
-            "zpy":"arg v"
+            "zpy":"argv"
         },
         {
             "name":"nlines",
@@ -41,7 +41,7 @@
         },
         {
             "name":"python3",
-            "zpy":"python 3"
+            "zpy":"python3"
         },
         {
             "name":"faulthandler",
@@ -61,7 +61,7 @@
         },
         {
             "name":"rstrip",
-            "zpy":"r地带"
+            "zpy":"移除末尾字符"
         }
     ]
 }

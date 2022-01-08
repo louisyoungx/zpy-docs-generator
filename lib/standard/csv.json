@@ -1,6 +1,6 @@
 {
     "name":"csv",
-    "zpy":"战斗支援车（CombatSupportVehicle）",
+    "zpy":"战斗支援车CombatSupportVehicle",
     "functions":[
         {
             "name":"QUOTE_ALL",
@@ -32,11 +32,11 @@
         },
         {
             "name":"delimiter",
-            "zpy":"定义符;定界符"
+            "zpy":"定义符"
         },
         {
             "name":"DictWriter",
-            "zpy":"Dic t作家"
+            "zpy":"Dict作家"
         },
         {
             "name":"QUOTE_NONNUMERIC",
@@ -44,7 +44,7 @@
         },
         {
             "name":"DictReader",
-            "zpy":"Dic tReader。"
+            "zpy":"DictReader"
         },
         {
             "name":"has_header",
@@ -76,7 +76,7 @@
         },
         {
             "name":"__next__",
-            "zpy":"接下来"
+            "zpy":"__下一个__"
         },
         {
             "name":"dialect",
@@ -124,11 +124,11 @@
         },
         {
             "name":"fieldnames",
-            "zpy":"字段代码；字段名"
+            "zpy":"字段代码"
         },
         {
             "name":"strict",
-            "zpy":"严厉的"
+            "zpy":"严格"
         },
         {
             "name":"Sniffer",
@@ -154,7 +154,7 @@
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"restkey",
@@ -174,7 +174,7 @@
         },
         {
             "name":"delimiters",
-            "zpy":"(分隔符的复数)定义符;定界符"
+            "zpy":"定义符"
         },
         {
             "name":"args",
@@ -190,19 +190,19 @@
         },
         {
             "name":"delimiter",
-            "zpy":"定义符;定界符"
+            "zpy":"定义符"
         },
         {
             "name":"DictWriter",
-            "zpy":"Dic t作家"
+            "zpy":"Dict作家"
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"newline",
@@ -214,7 +214,7 @@
         },
         {
             "name":"DictReader",
-            "zpy":"Dic tReader。"
+            "zpy":"DictReader"
         },
         {
             "name":"restval",
@@ -290,7 +290,7 @@
         },
         {
             "name":"fieldnames",
-            "zpy":"字段代码；字段名"
+            "zpy":"字段代码"
         },
         {
             "name":"filename",
@@ -302,7 +302,7 @@
         },
         {
             "name":"rows",
-            "zpy":"返回引用中的行数行(行的复数形式)"
+            "zpy":"返回引用中的行数行"
         },
         {
             "name":"Error",

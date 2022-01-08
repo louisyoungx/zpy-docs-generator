@@ -42,15 +42,15 @@
         },
         {
             "name":"getpass",
-            "zpy":"get pass"
+            "zpy":"getpass"
         },
         {
             "name":"compare_hash",
-            "zpy":"compare hash"
+            "zpy":"compare_hash"
         },
         {
             "name":"cryptedpasswd",
-            "zpy":"crypt ed pass wd"
+            "zpy":"cryptedpasswd"
         },
         {
             "name":"method",
@@ -58,7 +58,7 @@
         },
         {
             "name":"hashed",
-            "zpy":"肉末(hash的过去式和过去分词);肉丁土豆泥;（尤指电话上的）#号"
+            "zpy":"肉末"
         },
         {
             "name":"plaintext",
@@ -66,7 +66,7 @@
         },
         {
             "name":"cleartext",
-            "zpy":""
+            "zpy":"cleartext"
         },
         {
             "name":"crypt",
@@ -74,11 +74,11 @@
         },
         {
             "name":"rounds",
-            "zpy":"圆形物；旋转；巡视；循环（round的复数）"
+            "zpy":"圆形物"
         },
         {
             "name":"compare_digest",
-            "zpy":"compare digest"
+            "zpy":"compare_digest"
         },
         {
             "name":"salt",
@@ -86,7 +86,7 @@
         },
         {
             "name":"getpwnam",
-            "zpy":"get pwn am"
+            "zpy":"getpwnam"
         },
         {
             "name":"word",

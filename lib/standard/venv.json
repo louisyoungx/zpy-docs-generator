@@ -1,6 +1,6 @@
 {
     "name":"venv",
-    "zpy":null,
+    "zpy":"venv",
     "functions":[
         {
             "name":"upgrade_dependencies",
@@ -46,7 +46,7 @@
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"install_pip",
@@ -58,7 +58,7 @@
         },
         {
             "name":"python3",
-            "zpy":"python 3"
+            "zpy":"python3"
         },
         {
             "name":"Thread",
@@ -102,7 +102,7 @@
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"拆分"
         },
         {
             "name":"install_setuptools",
@@ -110,7 +110,7 @@
         },
         {
             "name":"startswith",
-            "zpy":"首先"
+            "zpy":"开始随着"
         },
         {
             "name":"urlparse",
@@ -154,7 +154,7 @@
         },
         {
             "name":"unlink",
-            "zpy":"拆开(链环)"
+            "zpy":"拆开"
         },
         {
             "name":"context",
@@ -162,7 +162,7 @@
         },
         {
             "name":"clear",
-            "zpy":"清楚的"
+            "zpy":"清除"
         },
         {
             "name":"distpath",
@@ -194,15 +194,15 @@
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"env_dir",
-            "zpy":"env dir"
+            "zpy":"env_dir"
         },
         {
             "name":"endswith",
-            "zpy":"结尾"
+            "zpy":"结束随着"
         },
         {
             "name":"environment",
@@ -214,7 +214,7 @@
         },
         {
             "name":"env_exe",
-            "zpy":"env exe"
+            "zpy":"env_exe"
         },
         {
             "name":"dirs",
@@ -242,7 +242,7 @@
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"description",
@@ -262,7 +262,7 @@
         },
         {
             "name":"flush",
-            "zpy":"流溢"
+            "zpy":"冲洗"
         },
         {
             "name":"target",
@@ -270,7 +270,7 @@
         },
         {
             "name":"pred",
-            "zpy":"断言;宣布谓语(谓词)"
+            "zpy":"断言"
         },
         {
             "name":"environ",
@@ -286,7 +286,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"dest",
@@ -310,7 +310,7 @@
         },
         {
             "name":"files",
-            "zpy":"文件;文档(文件的复数)"
+            "zpy":"文件"
         },
         {
             "name":"parse_args",
@@ -322,11 +322,11 @@
         },
         {
             "name":"options",
-            "zpy":"选择期权;选择项(选项的复数)"
+            "zpy":"选择期权"
         },
         {
             "name":"help",
-            "zpy":"帮忙"
+            "zpy":"帮助"
         },
         {
             "name":"create_configuration",
@@ -350,7 +350,7 @@
         },
         {
             "name":"ExtendedEnvBuilder",
-            "zpy":"扩展En v Builder"
+            "zpy":"扩展EnvBuilder"
         },
         {
             "name":"abspath",
@@ -370,7 +370,7 @@
         },
         {
             "name":"venv",
-            "zpy":"ven v"
+            "zpy":"venv"
         },
         {
             "name":"with_pip",

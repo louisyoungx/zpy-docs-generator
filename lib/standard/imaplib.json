@@ -1,10 +1,10 @@
 {
     "name":"imaplib",
-    "zpy":null,
+    "zpy":"imaplib",
     "functions":[
         {
             "name":"list",
-            "zpy":"目录"
+            "zpy":"列表"
         },
         {
             "name":"fetch",
@@ -20,7 +20,7 @@
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"deleteacl",
@@ -32,7 +32,7 @@
         },
         {
             "name":"getacl",
-            "zpy":"cl"
+            "zpy":"getacl"
         },
         {
             "name":"expunge",
@@ -52,7 +52,7 @@
         },
         {
             "name":"sort",
-            "zpy":"种类"
+            "zpy":"排序"
         },
         {
             "name":"getquota",
@@ -148,7 +148,7 @@
         },
         {
             "name":"Int2AP",
-            "zpy":"在t2 AP中"
+            "zpy":"在t2AP中"
         },
         {
             "name":"getannotation",
@@ -168,7 +168,7 @@
         },
         {
             "name":"IMAP4_SSL",
-            "zpy":"IMAP4 SSL"
+            "zpy":"IMAP4_SSL"
         },
         {
             "name":"setquota",
@@ -188,7 +188,7 @@
         },
         {
             "name":"IMAP4",
-            "zpy":"IMAP 4"
+            "zpy":"IMAP4"
         },
         {
             "name":"error",
@@ -196,11 +196,11 @@
         },
         {
             "name":"login",
-            "zpy":"注册(程序)"
+            "zpy":"注册"
         },
         {
             "name":"readonly",
-            "zpy":"只读的"
+            "zpy":"只读"
         },
         {
             "name":"Time2Internaldate",
@@ -236,7 +236,7 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"lsub",
@@ -254,7 +254,7 @@
         },
         {
             "name":"flags",
-            "zpy":"标记旗帜(国旗的复数)"
+            "zpy":"所有标志"
         },
         {
             "name":"fetch",
@@ -374,11 +374,11 @@
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"limits",
-            "zpy":"范围领土;极限(限制的复数)"
+            "zpy":"范围领土"
         },
         {
             "name":"size",
@@ -398,7 +398,7 @@
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"拆分"
         },
         {
             "name":"directory",
@@ -414,11 +414,11 @@
         },
         {
             "name":"IMAP4",
-            "zpy":"IMAP 4"
+            "zpy":"IMAP4"
         },
         {
             "name":"login",
-            "zpy":"注册(程序)"
+            "zpy":"注册"
         },
         {
             "name":"mailbox",
@@ -430,7 +430,7 @@
         },
         {
             "name":"readonly",
-            "zpy":"只读的"
+            "zpy":"只读"
         },
         {
             "name":"flagstr",
@@ -462,11 +462,11 @@
         },
         {
             "name":"names",
-            "zpy":"名字;名望(名称的复数形式)"
+            "zpy":"名字"
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"entry",

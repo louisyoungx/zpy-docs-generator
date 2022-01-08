@@ -1,6 +1,6 @@
 {
     "name":"datetime",
-    "zpy":null,
+    "zpy":"datetime",
     "functions":[
         {
             "name":"isocalendar",
@@ -28,7 +28,7 @@
         },
         {
             "name":"combine",
-            "zpy":"(使)联合"
+            "zpy":"联合"
         },
         {
             "name":"timetz",
@@ -96,7 +96,7 @@
         },
         {
             "name":"replace",
-            "zpy":"代替"
+            "zpy":"替换"
         },
         {
             "name":"tzinfo",
@@ -104,7 +104,7 @@
         },
         {
             "name":"__str__",
-            "zpy":"str"
+            "zpy":"__str__"
         },
         {
             "name":"__format__",
@@ -112,7 +112,7 @@
         },
         {
             "name":"strftime",
-            "zpy":"str f时间"
+            "zpy":"strf时间"
         },
         {
             "name":"fromisocalendar",
@@ -136,7 +136,7 @@
         },
         {
             "name":"timestamp",
-            "zpy":"时间戳；时间邮票"
+            "zpy":"时间戳"
         },
         {
             "name":"MINYEAR",
@@ -186,7 +186,7 @@
         },
         {
             "name":"combine",
-            "zpy":"(使)联合"
+            "zpy":"联合"
         },
         {
             "name":"minute",
@@ -198,7 +198,7 @@
         },
         {
             "name":"dston",
-            "zpy":"dst"
+            "zpy":"dston"
         },
         {
             "name":"Mountain",
@@ -222,15 +222,15 @@
         },
         {
             "name":"_isdst",
-            "zpy":"isdst"
+            "zpy":"_isdst"
         },
         {
             "name":"hours",
-            "zpy":"小时(小时的复数形式)"
+            "zpy":"小时"
         },
         {
             "name":"replace",
-            "zpy":"代替"
+            "zpy":"替换"
         },
         {
             "name":"Local",
@@ -242,7 +242,7 @@
         },
         {
             "name":"timestamp",
-            "zpy":"时间戳；时间邮票"
+            "zpy":"时间戳"
         },
         {
             "name":"daylight",
@@ -250,11 +250,11 @@
         },
         {
             "name":"dstoff",
-            "zpy":"dst"
+            "zpy":"dstoff"
         },
         {
             "name":"weeks",
-            "zpy":"威克斯（姓氏）"
+            "zpy":"威克斯姓氏"
         },
         {
             "name":"utcoffset",
@@ -262,7 +262,7 @@
         },
         {
             "name":"tm_isdst",
-            "zpy":"tm isdst"
+            "zpy":"tm_isdst"
         },
         {
             "name":"isoformat",
@@ -294,7 +294,7 @@
         },
         {
             "name":"'>' not supported between instances of 'datetime.timedelta' and 'int'",
-            "zpy":"datetime实例之间不支持'>'。Timedelta '和int '"
+            "zpy":"datetime实例之间不支持Timedelta和int"
         },
         {
             "name":"SECOND",
@@ -314,7 +314,7 @@
         },
         {
             "name":"DSTEND_1987_2006",
-            "zpy":"DSTEND 1987 2006"
+            "zpy":"DSTEND_1987_2006"
         },
         {
             "name":"timespec",
@@ -326,11 +326,11 @@
         },
         {
             "name":"DSTSTART_2007",
-            "zpy":"DSTSTART 2007"
+            "zpy":"DSTSTART_2007"
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"tzinfo",
@@ -346,7 +346,7 @@
         },
         {
             "name":"<module>",
-            "zpy":"> <模块"
+            "zpy":"模块"
         },
         {
             "name":"fromisoformat",
@@ -382,7 +382,7 @@
         },
         {
             "name":"dtoff",
-            "zpy":"dt"
+            "zpy":"dtoff"
         },
         {
             "name":"days_to_go",
@@ -394,7 +394,7 @@
         },
         {
             "name":"DSTEND_2007",
-            "zpy":"DSTEND 2007"
+            "zpy":"DSTEND_2007"
         },
         {
             "name":"month",
@@ -446,7 +446,7 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"second",
@@ -470,11 +470,11 @@
         },
         {
             "name":"DSTSTART_1967_1986",
-            "zpy":"DSTSTART 1967 1986"
+            "zpy":"DSTSTART_1967_1986"
         },
         {
             "name":"DSTEND_1967_1986",
-            "zpy":"DSTEND 1967 1986"
+            "zpy":"DSTEND_1967_1986"
         },
         {
             "name":"KabulTz",
@@ -514,11 +514,11 @@
         },
         {
             "name":"milliseconds",
-            "zpy":"毫秒(毫秒的复数形式)"
+            "zpy":"毫秒"
         },
         {
             "name":"DSTDIFF",
-            "zpy":"DST DIFF"
+            "zpy":"DSTDIFF"
         },
         {
             "name":"minutes",
@@ -578,7 +578,7 @@
         },
         {
             "name":"strftime",
-            "zpy":"str f时间"
+            "zpy":"strf时间"
         },
         {
             "name":"reprname",
@@ -590,7 +590,7 @@
         },
         {
             "name":"dst_diff",
-            "zpy":"dst diff"
+            "zpy":"dst_diff"
         },
         {
             "name":"timedelta",
@@ -598,7 +598,7 @@
         },
         {
             "name":"DSTSTART_1987_2006",
-            "zpy":"DSTSTART 1987 2006"
+            "zpy":"DSTSTART_1987_2006"
         },
         {
             "name":"weekday",

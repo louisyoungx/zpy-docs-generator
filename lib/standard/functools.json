@@ -1,6 +1,6 @@
 {
     "name":"functools",
-    "zpy":null,
+    "zpy":"functools",
     "functions":[
         {
             "name":"func",
@@ -12,7 +12,7 @@
         },
         {
             "name":"wraps",
-            "zpy":"外衣;书刊检查披肩(包装的复数形式)"
+            "zpy":"外衣"
         },
         {
             "name":"cache",
@@ -66,7 +66,7 @@
     "args":[
         {
             "name":"updated",
-            "zpy":"更新的；现代化的"
+            "zpy":"更新的"
         },
         {
             "name":"Cell",
@@ -138,7 +138,7 @@
         },
         {
             "name":"typed",
-            "zpy":"打字(类型的过去式和过去分词)"
+            "zpy":"打字"
         },
         {
             "name":"other",
@@ -154,7 +154,7 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"currsize",
@@ -166,7 +166,7 @@
         },
         {
             "name":"element",
-            "zpy":"元件"
+            "zpy":"元素"
         },
         {
             "name":"base",
@@ -182,7 +182,7 @@
         },
         {
             "name":"hits",
-            "zpy":"击打;网页点击数;采样数(打击的复数)"
+            "zpy":"击打"
         },
         {
             "name":"sequence_of_numbers",
@@ -194,7 +194,7 @@
         },
         {
             "name":"Mapping",
-            "zpy":"映射;变换;映象"
+            "zpy":"映射"
         },
         {
             "name":"state",
@@ -234,7 +234,7 @@
         },
         {
             "name":"fargs",
-            "zpy":"gs"
+            "zpy":"fargs"
         },
         {
             "name":"set_state",
@@ -242,7 +242,7 @@
         },
         {
             "name":"function",
-            "zpy":"官能"
+            "zpy":"目标函数"
         },
         {
             "name":"args",
@@ -250,15 +250,15 @@
         },
         {
             "name":"basetwo",
-            "zpy":"2、基础"
+            "zpy":"basetwo"
         },
         {
             "name":"wraps",
-            "zpy":"外衣;书刊检查披肩(包装的复数形式)"
+            "zpy":"外衣"
         },
         {
             "name":"elem",
-            "zpy":"伊特姆"
+            "zpy":"elem"
         },
         {
             "name":"_alive",
@@ -270,7 +270,7 @@
         },
         {
             "name":"iterable",
-            "zpy":"嗯可以"
+            "zpy":"可迭代"
         },
         {
             "name":"registry",
@@ -298,15 +298,15 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"items",
-            "zpy":"项目名目所有物品(项目的复数形式)"
+            "zpy":"所有项"
         },
         {
             "name":"keys",
-            "zpy":"关键帧;(钢琴等的)键;密钥(关键的复数)"
+            "zpy":"所有键"
         },
         {
             "name":"factorial",
@@ -346,15 +346,15 @@
         },
         {
             "name":"misses",
-            "zpy":"（用于姓名或姓之前"
+            "zpy":"用于姓名或姓之前"
         },
         {
             "name":"assigned",
-            "zpy":"已分配的；指定的"
+            "zpy":"已分配的"
         },
         {
             "name":"imag",
-            "zpy":"复数虚部；图像放大"
+            "zpy":"复数虚部"
         },
         {
             "name":"fkeywords",
@@ -362,7 +362,7 @@
         },
         {
             "name":"lower",
-            "zpy":"低的"
+            "zpy":"小写"
         },
         {
             "name":"urlopen",

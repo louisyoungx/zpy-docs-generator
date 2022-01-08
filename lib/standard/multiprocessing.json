@@ -12,7 +12,7 @@
         },
         {
             "name":"unlink",
-            "zpy":"拆开(链环)"
+            "zpy":"拆开"
         },
         {
             "name":"name",
@@ -28,11 +28,11 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"SharedMemory",
@@ -50,7 +50,7 @@
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"ndarray",
@@ -74,7 +74,7 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"shared_memory",
@@ -94,7 +94,7 @@
         },
         {
             "name":"unlink",
-            "zpy":"拆开(链环)"
+            "zpy":"拆开"
         },
         {
             "name":"existing_shm",
@@ -114,7 +114,7 @@
         },
         {
             "name":"nbytes",
-            "zpy":"n个字节"
+            "zpy":"数组字节数"
         },
         {
             "name":"create",
@@ -122,7 +122,7 @@
         },
         {
             "name":"array",
-            "zpy":"排列"
+            "zpy":"数组"
         },
         {
             "name":"SharedMemoryManager",
@@ -134,7 +134,7 @@
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"pickle",
@@ -158,11 +158,11 @@
         },
         {
             "name":"loads",
-            "zpy":"货载量；负载"
+            "zpy":"货载量"
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"buffer",
@@ -174,7 +174,7 @@
         },
         {
             "name":"int64",
-            "zpy":"在64 t"
+            "zpy":"在64t"
         },
         {
             "name":"sequence",
@@ -190,7 +190,7 @@
         },
         {
             "name":"dumps",
-            "zpy":"忧郁；废物"
+            "zpy":"忧郁"
         },
         {
             "name":"dtype",

@@ -4,11 +4,11 @@
     "functions":[
         {
             "name":"isatty",
-            "zpy":"atty"
+            "zpy":"isatty"
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"readline",
@@ -52,7 +52,7 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"StringIO",
@@ -64,11 +64,11 @@
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"newlines",
-            "zpy":""
+            "zpy":"newlines"
         },
         {
             "name":"open_code",
@@ -96,7 +96,7 @@
         },
         {
             "name":"flush",
-            "zpy":"流溢"
+            "zpy":"冲洗"
         },
         {
             "name":"BufferedReader",
@@ -168,7 +168,7 @@
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"truncate",
@@ -222,7 +222,7 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"reader",
@@ -262,7 +262,7 @@
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"newline",
@@ -278,7 +278,7 @@
         },
         {
             "name":"opener",
-            "zpy":"开...的人"
+            "zpy":"开启器"
         },
         {
             "name":"lines",
@@ -318,7 +318,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"hint",
@@ -334,11 +334,11 @@
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"closefd",
-            "zpy":"fd"
+            "zpy":"关闭fd"
         },
         {
             "name":"initial_value",

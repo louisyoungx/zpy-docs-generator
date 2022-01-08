@@ -1,6 +1,6 @@
 {
     "name":"asyncio",
-    "zpy":null,
+    "zpy":"asyncio",
     "functions":[],
     "args":[
         {

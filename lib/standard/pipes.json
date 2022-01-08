@@ -8,7 +8,7 @@
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"copy",
@@ -28,11 +28,11 @@
         },
         {
             "name":"prepend",
-            "zpy":"预先考虑；预谋"
+            "zpy":"预先考虑"
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         }
     ],
     "args":[
@@ -46,7 +46,7 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"read",
@@ -58,7 +58,7 @@
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"kind",
@@ -78,7 +78,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"infile",
@@ -86,7 +86,7 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         }
     ]
 }

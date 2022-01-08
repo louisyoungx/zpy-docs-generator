@@ -1,6 +1,6 @@
 {
     "name":"unittest.mock",
-    "zpy":null,
+    "zpy":"unittest.mock",
     "functions":[],
     "args":[
         {
@@ -65,11 +65,11 @@
         },
         {
             "name":"vals",
-            "zpy":"ValuesandLifestylesSystem价值观与生活方式(市场营销学)可以确定九种消费心理学的细分"
+            "zpy":"ValuesandLifestylesSystem价值观与生活方式可以确定九种消费心理学的细分"
         },
         {
             "name":"exc_type",
-            "zpy":"exc类型"
+            "zpy":"异常类型"
         },
         {
             "name":"copy",
@@ -93,7 +93,7 @@
         },
         {
             "name":"Expected call: mock({1})",
-            "zpy":"预期调用:mock ({1})"
+            "zpy":"预期调用mock"
         },
         {
             "name":"TestCase",
@@ -173,11 +173,11 @@
         },
         {
             "name":"clear",
-            "zpy":"清楚的"
+            "zpy":"清除"
         },
         {
             "name":"Boom!",
-            "zpy":"繁荣!"
+            "zpy":"繁荣"
         },
         {
             "name":"response",
@@ -201,7 +201,7 @@
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"my_dict",
@@ -209,7 +209,7 @@
         },
         {
             "name":"Expected: ((<Matcher object at 0x...>,), {})",
-            "zpy":"期望:(< 0x的匹配器对象…>)   {})"
+            "zpy":"期望"
         },
         {
             "name":"not_a_test",
@@ -249,7 +249,7 @@
         },
         {
             "name":"chained",
-            "zpy":"装链的；链接的"
+            "zpy":"装链的"
         },
         {
             "name":"real",
@@ -261,7 +261,7 @@
         },
         {
             "name":"object has no attribute 'old_method'",
-            "zpy":"对象没有属性' old method '"
+            "zpy":"对象没有属性oldmethod"
         },
         {
             "name":"match_wrong",
@@ -301,11 +301,11 @@
         },
         {
             "name":"calls",
-            "zpy":"调用;呼吁电话(称为的复数)"
+            "zpy":"调用"
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"something",
@@ -337,7 +337,7 @@
         },
         {
             "name":"iter",
-            "zpy":"导管"
+            "zpy":"迭代"
         },
         {
             "name":"AsyncContextManager",
@@ -353,7 +353,7 @@
         },
         {
             "name":"Expected to be called once. Called 2 times.",
-            "zpy":"期望被调用一次。打了2次。"
+            "zpy":"期望被调用一次打了2次"
         },
         {
             "name":"mock_frob",
@@ -369,7 +369,7 @@
         },
         {
             "name":"modules",
-            "zpy":"加载模块列表;模块(模块的复数)"
+            "zpy":"加载模块列表"
         },
         {
             "name":"name",
@@ -397,7 +397,7 @@
         },
         {
             "name":"object",
-            "zpy":"物体"
+            "zpy":"对象"
         },
         {
             "name":"three",
@@ -441,7 +441,7 @@
         },
         {
             "name":"Expected: (({6},), {})",
-            "zpy":"期望:(({6}){})"
+            "zpy":"期望"
         },
         {
             "name":"test_something",
@@ -489,15 +489,15 @@
         },
         {
             "name":"expected",
-            "zpy":"预期的；预料的"
+            "zpy":"预期的"
         },
         {
             "name":"dict",
-            "zpy":"词典"
+            "zpy":"字典"
         },
         {
             "name":"patcher",
-            "zpy":"补节机;跟车人"
+            "zpy":"补节机"
         },
         {
             "name":"CopyingMock",
@@ -509,7 +509,7 @@
         },
         {
             "name":"Expected: call(<__main__.Foo object at 0x...>)",
-            "zpy":"期望:调用(< main。Foo对象在0x…>)"
+            "zpy":"期望调用"
         },
         {
             "name":"match_foo",

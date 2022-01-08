@@ -1,10 +1,10 @@
 {
     "name":"nntplib",
-    "zpy":null,
+    "zpy":"nntplib",
     "functions":[
         {
             "name":"NNTP_SSL",
-            "zpy":"NNTP SSL"
+            "zpy":"NNTP_SSL"
         },
         {
             "name":"decode_header",
@@ -12,7 +12,7 @@
         },
         {
             "name":"list",
-            "zpy":"目录"
+            "zpy":"列表"
         },
         {
             "name":"date",
@@ -24,7 +24,7 @@
         },
         {
             "name":"group",
-            "zpy":"团体"
+            "zpy":"群"
         },
         {
             "name":"set_debuglevel",
@@ -44,7 +44,7 @@
         },
         {
             "name":"xover",
-            "zpy":"x /"
+            "zpy":"xover"
         },
         {
             "name":"last",
@@ -56,7 +56,7 @@
         },
         {
             "name":"NNTPDataError",
-            "zpy":"N NTP数据错误"
+            "zpy":"NNTP数据错误"
         },
         {
             "name":"description",
@@ -64,7 +64,7 @@
         },
         {
             "name":"help",
-            "zpy":"帮忙"
+            "zpy":"帮助"
         },
         {
             "name":"article",
@@ -72,11 +72,11 @@
         },
         {
             "name":"NNTP",
-            "zpy":"网络新闻传输协议(NetworkNewsTransferProtocol)"
+            "zpy":"网络新闻传输协议"
         },
         {
             "name":"NNTPProtocolError",
-            "zpy":"N NTP协议错误"
+            "zpy":"NNTP协议错误"
         },
         {
             "name":"nntp_version",
@@ -84,7 +84,7 @@
         },
         {
             "name":"NNTPReplyError",
-            "zpy":"N NTP应答错误"
+            "zpy":"NNTP应答错误"
         },
         {
             "name":"response",
@@ -96,7 +96,7 @@
         },
         {
             "name":"body",
-            "zpy":"身体"
+            "zpy":"躯干"
         },
         {
             "name":"newgroups",
@@ -120,7 +120,7 @@
         },
         {
             "name":"login",
-            "zpy":"注册(程序)"
+            "zpy":"注册"
         },
         {
             "name":"xhdr",
@@ -128,7 +128,7 @@
         },
         {
             "name":"NNTPTemporaryError",
-            "zpy":"N NTP临时错误"
+            "zpy":"NNTP临时错误"
         },
         {
             "name":"starttls",
@@ -144,7 +144,7 @@
         },
         {
             "name":"NNTPPermanentError",
-            "zpy":"N NTP Permanent Error"
+            "zpy":"NNTPPermanentError"
         },
         {
             "name":"getwelcome",
@@ -170,7 +170,7 @@
         },
         {
             "name":"message_id",
-            "zpy":"消息id、"
+            "zpy":"消息id"
         },
         {
             "name":"today",
@@ -178,7 +178,7 @@
         },
         {
             "name":"group",
-            "zpy":"团体"
+            "zpy":"群"
         },
         {
             "name":"header_str",
@@ -190,11 +190,11 @@
         },
         {
             "name":"popitem",
-            "zpy":"流行物品"
+            "zpy":"出栈一项"
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"overviews",
@@ -218,7 +218,7 @@
         },
         {
             "name":"NNTP",
-            "zpy":"网络新闻传输协议(NetworkNewsTransferProtocol)"
+            "zpy":"网络新闻传输协议"
         },
         {
             "name":"context",
@@ -242,7 +242,7 @@
         },
         {
             "name":"number",
-            "zpy":"数"
+            "zpy":"数字"
         },
         {
             "name":"art_num",
@@ -262,11 +262,11 @@
         },
         {
             "name":"usenetrc",
-            "zpy":"usenet rc"
+            "zpy":"usenetrc"
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"getcapabilities",
@@ -282,7 +282,7 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"groups",
@@ -290,7 +290,7 @@
         },
         {
             "name":"keys",
-            "zpy":"关键帧;(钢琴等的)键;密钥(关键的复数)"
+            "zpy":"所有键"
         },
         {
             "name":"password",
@@ -322,7 +322,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"descriptions",

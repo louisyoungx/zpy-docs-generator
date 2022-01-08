@@ -1,6 +1,6 @@
 {
     "name":"atexit",
-    "zpy":null,
+    "zpy":"atexit",
     "functions":[
         {
             "name":"register",
@@ -14,7 +14,7 @@
     "args":[
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"func",

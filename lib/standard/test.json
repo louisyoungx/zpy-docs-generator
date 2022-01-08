@@ -96,7 +96,7 @@
         },
         {
             "name":"max_memuse",
-            "zpy":"马克斯•memuse"
+            "zpy":"马克斯memuse"
         },
         {
             "name":"CleanImport",
@@ -116,7 +116,7 @@
         },
         {
             "name":"requires",
-            "zpy":"需要要求需求(需要的复数)"
+            "zpy":"需要要求需求"
         },
         {
             "name":"temp_dir",
@@ -128,11 +128,11 @@
         },
         {
             "name":"TEST_HTTP_URL",
-            "zpy":"测试HTTP URL"
+            "zpy":"测试HTTPURL"
         },
         {
             "name":"with_pymalloc",
-            "zpy":"pymalloc"
+            "zpy":"with_pymalloc"
         },
         {
             "name":"check__all__",
@@ -180,7 +180,7 @@
         },
         {
             "name":"DirsOnSysPath",
-            "zpy":"《Dir sOnS’s Path》"
+            "zpy":"DirsOnSysPath"
         },
         {
             "name":"match_value",
@@ -220,7 +220,7 @@
         },
         {
             "name":"TESTFN_UNENCODABLE",
-            "zpy":"TESTFN UNENCODABLE"
+            "zpy":"TESTFN_UNENCODABLE"
         },
         {
             "name":"TEST_HOME_DIR",
@@ -228,11 +228,11 @@
         },
         {
             "name":"matches",
-            "zpy":"火柴;比赛(匹配的复数)"
+            "zpy":"火柴"
         },
         {
             "name":"unlink",
-            "zpy":"拆开(链环)"
+            "zpy":"拆开"
         },
         {
             "name":"requires_zlib",
@@ -244,11 +244,11 @@
         },
         {
             "name":"FS_NONASCII",
-            "zpy":"FS NONASCII"
+            "zpy":"FS_NONASCII"
         },
         {
             "name":"requires_IEEE_754",
-            "zpy":"需要IEEE 754"
+            "zpy":"需要IEEE754"
         },
         {
             "name":"requires_lzma",
@@ -292,7 +292,7 @@
         },
         {
             "name":"real_max_memuse",
-            "zpy":"真正的马克斯•memuse"
+            "zpy":"真正的马克斯memuse"
         },
         {
             "name":"make_zip_pkg",
@@ -348,11 +348,11 @@
         },
         {
             "name":"TESTFN_UNICODE",
-            "zpy":"TESTFN UNICODE"
+            "zpy":"TESTFN_UNICODE"
         },
         {
             "name":"rmdir",
-            "zpy":"DOS内部命令:该命令用于删除磁盘中的空白子目录"
+            "zpy":"DOS内部命令该命令用于删除磁盘中的空白子目录"
         },
         {
             "name":"INTERNET_TIMEOUT",
@@ -408,7 +408,7 @@
         },
         {
             "name":"optim_args_from_interpreter_flags",
-            "zpy":"Optim args来自解释器标志"
+            "zpy":"Optimargs来自解释器标志"
         },
         {
             "name":"captured_stdin",
@@ -432,7 +432,7 @@
         },
         {
             "name":"unix_shell",
-            "zpy":"unix shell"
+            "zpy":"unix_shell"
         },
         {
             "name":"threading_setup",
@@ -472,11 +472,11 @@
         },
         {
             "name":"calcvobjsize",
-            "zpy":"Calc v obj大小"
+            "zpy":"Calcvobj大小"
         },
         {
             "name":"MAX_Py_ssize_t",
-            "zpy":"MAX Py ssize t"
+            "zpy":"MAX_Py_ssize_t"
         },
         {
             "name":"set_memlimit",
@@ -484,7 +484,7 @@
         },
         {
             "name":"SMALLEST",
-            "zpy":"最小的(小的最高级)"
+            "zpy":"最小的"
         },
         {
             "name":"modules_cleanup",
@@ -516,7 +516,7 @@
         },
         {
             "name":"calcobjsize",
-            "zpy":"calc obj大小"
+            "zpy":"calcobj大小"
         },
         {
             "name":"findfile",
@@ -540,7 +540,7 @@
         },
         {
             "name":"TESTFN_NONASCII",
-            "zpy":"TESTFN NONASCII"
+            "zpy":"TESTFN_NONASCII"
         },
         {
             "name":"create_empty_file",
@@ -548,7 +548,7 @@
         },
         {
             "name":"sortdict",
-            "zpy":"dic t"
+            "zpy":"sortdict"
         },
         {
             "name":"skip_if_broken_multiprocessing_synchronize",
@@ -560,7 +560,7 @@
         },
         {
             "name":"is_jython",
-            "zpy":"jython"
+            "zpy":"is_jython"
         },
         {
             "name":"run_python_until_end",
@@ -604,11 +604,11 @@
         },
         {
             "name":"SAVEDCWD",
-            "zpy":"救了CW D"
+            "zpy":"救了CWD"
         },
         {
             "name":"TESTFN_UNDECODABLE",
-            "zpy":"TESTFN UNDECODABLE"
+            "zpy":"TESTFN_UNDECODABLE"
         },
         {
             "name":"unload",
@@ -646,7 +646,7 @@
     "args":[
         {
             "name":"cpython",
-            "zpy":"python c"
+            "zpy":"cpython"
         },
         {
             "name":"optionflags",
@@ -706,7 +706,7 @@
         },
         {
             "name":"captured",
-            "zpy":"俘获(捕获的过去式和过去分词);夺取;夺得;引起(注意想像兴趣)"
+            "zpy":"俘获"
         },
         {
             "name":"memuse",
@@ -750,7 +750,7 @@
         },
         {
             "name":"after",
-            "zpy":"在...之后"
+            "zpy":"在之后"
         },
         {
             "name":"stdin",
@@ -794,7 +794,7 @@
         },
         {
             "name":"patterns",
-            "zpy":"模式(模式的复数形式)"
+            "zpy":"模式"
         },
         {
             "name":"seek",
@@ -802,7 +802,7 @@
         },
         {
             "name":"zip_dir",
-            "zpy":"zip dir"
+            "zpy":"zip_dir"
         },
         {
             "name":"assertEqual",
@@ -830,7 +830,7 @@
         },
         {
             "name":"zip_basename",
-            "zpy":"zip:"
+            "zpy":"zip_basename"
         },
         {
             "name":"host",
@@ -882,7 +882,7 @@
         },
         {
             "name":"envvar",
-            "zpy":"在v var"
+            "zpy":"在vvar"
         },
         {
             "name":"name_in_zip",
@@ -934,7 +934,7 @@
         },
         {
             "name":"guards",
-            "zpy":"禁卫军;护卫队;守卫;后卫(警卫队的复数形式)"
+            "zpy":"禁卫军"
         },
         {
             "name":"import_module",
@@ -946,7 +946,7 @@
         },
         {
             "name":"locales",
-            "zpy":"现场;场所(语言环境的复数)"
+            "zpy":"现场"
         },
         {
             "name":"c_warnings",
@@ -958,7 +958,7 @@
         },
         {
             "name":"blocked",
-            "zpy":"堵塞的；被封锁的"
+            "zpy":"堵塞的"
         },
         {
             "name":"new_value",
@@ -966,7 +966,7 @@
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"module",
@@ -986,7 +986,7 @@
         },
         {
             "name":"script_basename",
-            "zpy":"脚本:"
+            "zpy":"脚本"
         },
         {
             "name":"catch_threading_exception",
@@ -1002,7 +1002,7 @@
         },
         {
             "name":"iter",
-            "zpy":"导管"
+            "zpy":"迭代"
         },
         {
             "name":"loader",
@@ -1010,7 +1010,7 @@
         },
         {
             "name":"exec",
-            "zpy":"主任参谋"
+            "zpy":"执行"
         },
         {
             "name":"resource_name",
@@ -1030,11 +1030,11 @@
         },
         {
             "name":"threads",
-            "zpy":"线;相关串连;线程(线程的复数)"
+            "zpy":"线"
         },
         {
             "name":"argval",
-            "zpy":"arg val"
+            "zpy":"argval"
         },
         {
             "name":"init_source",
@@ -1050,11 +1050,11 @@
         },
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"py_warnings",
@@ -1062,7 +1062,7 @@
         },
         {
             "name":"env_vars",
-            "zpy":"env var"
+            "zpy":"env_vars"
         },
         {
             "name":"fresh",
@@ -1082,7 +1082,7 @@
         },
         {
             "name":"tests",
-            "zpy":"测验(测试的复数)"
+            "zpy":"测验"
         },
         {
             "name":"other_api",
@@ -1118,11 +1118,11 @@
         },
         {
             "name":"source",
-            "zpy":"来源"
+            "zpy":"源"
         },
         {
             "name":"paths",
-            "zpy":"路径(路径的复数)"
+            "zpy":"路径"
         },
         {
             "name":"support",
@@ -1134,7 +1134,7 @@
         },
         {
             "name":"ref_api",
-            "zpy":"ref api"
+            "zpy":"ref_api"
         },
         {
             "name":"family",
@@ -1142,7 +1142,7 @@
         },
         {
             "name":"dict",
-            "zpy":"词典"
+            "zpy":"字典"
         },
         {
             "name":"catstr",
@@ -1170,7 +1170,7 @@
         },
         {
             "name":"unlock",
-            "zpy":"开...的锁"
+            "zpy":"开的锁"
         },
         {
             "name":"umask",
@@ -1218,11 +1218,11 @@
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         },
         {
             "name":"warnings",
-            "zpy":"发出警告(警告的复数形式);征候;<古>(解雇辞职等的)预先通知;可引以为戒的事(或人)"
+            "zpy":"发出警告"
         }
     ]
 }

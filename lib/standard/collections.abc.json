@@ -1,6 +1,6 @@
 {
     "name":"collections.abc",
-    "zpy":null,
+    "zpy":"collections.abc",
     "functions":[
         {
             "name":"AsyncGenerator",
@@ -60,7 +60,7 @@
         },
         {
             "name":"Mapping",
-            "zpy":"映射;变换;映象"
+            "zpy":"映射"
         },
         {
             "name":"ValuesView",
@@ -106,7 +106,7 @@
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"index",
@@ -122,7 +122,7 @@
         },
         {
             "name":"iterable",
-            "zpy":"嗯可以"
+            "zpy":"可迭代"
         },
         {
             "name":"ListBasedSet",
@@ -130,7 +130,7 @@
         },
         {
             "name":"collections",
-            "zpy":"集合物件收集(收集的复数)"
+            "zpy":"集合物件收集"
         },
         {
             "name":"Sized",
@@ -146,7 +146,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"register",

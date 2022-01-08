@@ -1,10 +1,10 @@
 {
     "name":"argparse",
-    "zpy":null,
+    "zpy":"argparse",
     "functions":[
         {
             "name":"gnu_getopt",
-            "zpy":"gnu getopt"
+            "zpy":"gnu_getopt"
         },
         {
             "name":"getopt",
@@ -30,7 +30,7 @@
         },
         {
             "name":"argv",
-            "zpy":"arg v"
+            "zpy":"argv"
         },
         {
             "name":"args",
@@ -74,7 +74,7 @@
         },
         {
             "name":"split",
-            "zpy":"劈开"
+            "zpy":"拆分"
         },
         {
             "name":"action",

@@ -1,6 +1,6 @@
 {
     "name":"reprlib",
-    "zpy":null,
+    "zpy":"reprlib",
     "functions":[
         {
             "name":"maxset",
@@ -8,7 +8,7 @@
         },
         {
             "name":"maxlist",
-            "zpy":"马克斯•列表"
+            "zpy":"马克斯列表"
         },
         {
             "name":"aRepr",
@@ -32,7 +32,7 @@
         },
         {
             "name":"maxdeque",
-            "zpy":"马克斯·德"
+            "zpy":"马克斯德"
         },
         {
             "name":"maxlevel",
@@ -40,7 +40,7 @@
         },
         {
             "name":"repr",
-            "zpy":"代表表示"
+            "zpy":"返回字符值"
         },
         {
             "name":"repr1",
@@ -64,11 +64,11 @@
         },
         {
             "name":"maxtuple",
-            "zpy":"马克斯•元组"
+            "zpy":"马克斯元组"
         },
         {
             "name":"maxdict",
-            "zpy":"马克斯dic t"
+            "zpy":"马克斯dict"
         }
     ],
     "args":[
@@ -86,7 +86,7 @@
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"MyRepr",
@@ -94,7 +94,7 @@
         },
         {
             "name":"append",
-            "zpy":"附加"
+            "zpy":"添加"
         },
         {
             "name":"recursive_repr",
@@ -106,7 +106,7 @@
         },
         {
             "name":"repr",
-            "zpy":"代表表示"
+            "zpy":"返回字符值"
         },
         {
             "name":"reprlib",

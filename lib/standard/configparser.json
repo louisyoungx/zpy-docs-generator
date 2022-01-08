@@ -1,6 +1,6 @@
 {
     "name":"configparser",
-    "zpy":null,
+    "zpy":"configparser",
     "functions":[
         {
             "name":"add_section",
@@ -20,7 +20,7 @@
         },
         {
             "name":"options",
-            "zpy":"选择期权;选择项(选项的复数)"
+            "zpy":"选择期权"
         },
         {
             "name":"has_section",
@@ -100,15 +100,15 @@
         },
         {
             "name":"items",
-            "zpy":"项目名目所有物品(项目的复数形式)"
+            "zpy":"所有项"
         },
         {
             "name":"MissingSectionHeaderError",
-            "zpy":"缺失Section Header错误"
+            "zpy":"缺失SectionHeader错误"
         },
         {
             "name":"defaults",
-            "zpy":"违约;默认;预设值(默认的复数)"
+            "zpy":"违约"
         },
         {
             "name":"read_string",
@@ -132,7 +132,7 @@
         },
         {
             "name":"readfp",
-            "zpy":"读《外交政策》"
+            "zpy":"读外交政策"
         },
         {
             "name":"InterpolationDepthError",
@@ -182,7 +182,7 @@
         },
         {
             "name":"'does-not-exist'",
-            "zpy":"“不存在”"
+            "zpy":"不存在"
         },
         {
             "name":"an_int",
@@ -194,7 +194,7 @@
         },
         {
             "name":"delimiters",
-            "zpy":"(分隔符的复数)定义符;定界符"
+            "zpy":"定义符"
         },
         {
             "name":"sections",
@@ -202,7 +202,7 @@
         },
         {
             "name":"source",
-            "zpy":"来源"
+            "zpy":"源"
         },
         {
             "name":"BOOLEAN_STATES",
@@ -214,11 +214,11 @@
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"another_config",
@@ -246,7 +246,7 @@
         },
         {
             "name":"cfgparser",
-            "zpy":"cf g解析器"
+            "zpy":"cfg解析器"
         },
         {
             "name":"compile",
@@ -254,7 +254,7 @@
         },
         {
             "name":"vars",
-            "zpy":"增值经销商(value-addedresellers)"
+            "zpy":"所有变量"
         },
         {
             "name":"filename",
@@ -298,7 +298,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"allow_no_value",
@@ -306,7 +306,7 @@
         },
         {
             "name":"converters",
-            "zpy":"转换器(转换器的复数)"
+            "zpy":"转换器"
         },
         {
             "name":"fallback",
@@ -338,11 +338,11 @@
         },
         {
             "name":"keys",
-            "zpy":"关键帧;(钢琴等的)键;密钥(关键的复数)"
+            "zpy":"所有键"
         },
         {
             "name":"defaults",
-            "zpy":"违约;默认;预设值(默认的复数)"
+            "zpy":"违约"
         },
         {
             "name":"comment_prefixes",
@@ -370,7 +370,7 @@
         },
         {
             "name":"strict",
-            "zpy":"严厉的"
+            "zpy":"严格"
         },
         {
             "name":"space_around_delimiters",

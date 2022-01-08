@@ -1,6 +1,6 @@
 {
     "name":"tkinter.scrolledtext",
-    "zpy":null,
+    "zpy":"tkinter.scrolledtext",
     "functions":[
         {
             "name":"cancel",
@@ -34,11 +34,11 @@
         },
         {
             "name":"commit",
-            "zpy":"委托(托付)"
+            "zpy":"委托"
         },
         {
             "name":"source",
-            "zpy":"来源"
+            "zpy":"源"
         }
     ]
 }

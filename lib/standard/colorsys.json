@@ -1,6 +1,6 @@
 {
     "name":"colorsys",
-    "zpy":null,
+    "zpy":"colorsys",
     "functions":[
         {
             "name":"what",
@@ -8,13 +8,13 @@
         },
         {
             "name":"tests",
-            "zpy":"测验(测试的复数)"
+            "zpy":"测验"
         }
     ],
     "args":[
         {
             "name":"file",
-            "zpy":"档案"
+            "zpy":"文件"
         },
         {
             "name":"what",
@@ -22,7 +22,7 @@
         },
         {
             "name":"imghdr",
-            "zpy":"img h博士"
+            "zpy":"imgh博士"
         }
     ]
 }

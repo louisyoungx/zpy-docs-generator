@@ -8,11 +8,11 @@
         },
         {
             "name":"SIGALRM",
-            "zpy":"团体AL RM"
+            "zpy":"团体ALRM"
         },
         {
             "name":"SIG_IGN",
-            "zpy":"SIG IGN"
+            "zpy":"SIG_IGN"
         },
         {
             "name":"SIGPIPE",
@@ -20,7 +20,7 @@
         },
         {
             "name":"SIGFPE",
-            "zpy":"SIG F PE、"
+            "zpy":"SIGFPE"
         },
         {
             "name":"getsignal",
@@ -32,7 +32,7 @@
         },
         {
             "name":"SIG*",
-            "zpy":"团体*"
+            "zpy":"团体"
         },
         {
             "name":"SIGBREAK",
@@ -72,11 +72,11 @@
         },
         {
             "name":"SIGABRT",
-            "zpy":"SIG ABR T"
+            "zpy":"SIGABRT"
         },
         {
             "name":"CTRL_C_EVENT",
-            "zpy":"CTRL C事件"
+            "zpy":"CTRLC事件"
         },
         {
             "name":"NSIG",
@@ -92,7 +92,7 @@
         },
         {
             "name":"SIG_SETMASK",
-            "zpy":"SIG SETMASK"
+            "zpy":"SIG_SETMASK"
         },
         {
             "name":"raise_signal",
@@ -108,7 +108,7 @@
         },
         {
             "name":"pthread_sigmask",
-            "zpy":"pthread sigmask"
+            "zpy":"pthread_sigmask"
         },
         {
             "name":"SIGBUS",
@@ -144,7 +144,7 @@
         },
         {
             "name":"SIGCLD",
-            "zpy":"SIG CL D"
+            "zpy":"SIGCLD"
         },
         {
             "name":"ITIMER_REAL",
@@ -156,7 +156,7 @@
         },
         {
             "name":"SIGUSR1",
-            "zpy":"Sig us r 1"
+            "zpy":"SIGUSR1"
         },
         {
             "name":"strsignal",
@@ -164,7 +164,7 @@
         },
         {
             "name":"SIGUSR2",
-            "zpy":"Sig us r2"
+            "zpy":"SIGUSR2"
         },
         {
             "name":"set_wakeup_fd",
@@ -206,11 +206,11 @@
         },
         {
             "name":"SIGALRM",
-            "zpy":"团体AL RM"
+            "zpy":"团体ALRM"
         },
         {
             "name":"flags",
-            "zpy":"标记旗帜(国旗的复数)"
+            "zpy":"所有标志"
         },
         {
             "name":"time",
@@ -234,7 +234,7 @@
         },
         {
             "name":"flush",
-            "zpy":"流溢"
+            "zpy":"冲洗"
         },
         {
             "name":"signum",
@@ -314,7 +314,7 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"pidfd",

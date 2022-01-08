@@ -1,6 +1,6 @@
 {
     "name":"tkinter.messagebox",
-    "zpy":null,
+    "zpy":"tkinter.messagebox",
     "functions":[
         {
             "name":"ScrolledText",

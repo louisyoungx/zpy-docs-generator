@@ -4,7 +4,7 @@
     "functions":[
         {
             "name":"trunc",
-            "zpy":"tr unc"
+            "zpy":"trunc"
         },
         {
             "name":"frexp",
@@ -12,7 +12,7 @@
         },
         {
             "name":"perm",
-            "zpy":"电烫(发)"
+            "zpy":"电烫"
         },
         {
             "name":"copysign",
@@ -32,7 +32,7 @@
         },
         {
             "name":"fmod",
-            "zpy":"f mod"
+            "zpy":"fmod"
         },
         {
             "name":"expm1",
@@ -40,7 +40,7 @@
         },
         {
             "name":"dist",
-            "zpy":"距离(距离)分配(分布)"
+            "zpy":"距离"
         },
         {
             "name":"radians",
@@ -52,11 +52,11 @@
         },
         {
             "name":"atan",
-            "zpy":"(每股)人名;(土)阿坦"
+            "zpy":"阿坦"
         },
         {
             "name":"sqrt",
-            "zpy":"开平方根(squareroot)"
+            "zpy":"开平方根"
         },
         {
             "name":"atanh",
@@ -64,7 +64,7 @@
         },
         {
             "name":"acosh",
-            "zpy":". sh"
+            "zpy":"acosh"
         },
         {
             "name":"lgamma",
@@ -72,7 +72,7 @@
         },
         {
             "name":"gamma",
-            "zpy":"希腊语的第三个字母(Γ"
+            "zpy":"希腊语的第三个字母Γ"
         },
         {
             "name":"fabs",
@@ -116,7 +116,7 @@
         },
         {
             "name":"erfc",
-            "zpy":"e rfc"
+            "zpy":"erfc"
         },
         {
             "name":"asin",
@@ -168,7 +168,7 @@
         },
         {
             "name":"isqrt",
-            "zpy":"qr t"
+            "zpy":"isqrt"
         },
         {
             "name":"isnan",
@@ -182,7 +182,7 @@
         },
         {
             "name":"integers",
-            "zpy":"整数(整数的复数形式)"
+            "zpy":"整数"
         },
         {
             "name":"expm1",
@@ -190,7 +190,7 @@
         },
         {
             "name":"sqrt",
-            "zpy":"开平方根(squareroot)"
+            "zpy":"开平方根"
         },
         {
             "name":"rel_tol",
@@ -198,15 +198,15 @@
         },
         {
             "name":"iterable",
-            "zpy":"嗯可以"
+            "zpy":"可迭代"
         },
         {
             "name":"coordinates",
-            "zpy":"坐标；相配之衣物"
+            "zpy":"坐标"
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"fsum",

@@ -1,6 +1,6 @@
 {
     "name":"tokenize",
-    "zpy":null,
+    "zpy":"tokenize",
     "functions":[
         {
             "name":"NannyNag",
@@ -30,7 +30,7 @@
         },
         {
             "name":"tokens",
-            "zpy":"代币(令牌的复数形式);象征"
+            "zpy":"代币"
         }
     ]
 }

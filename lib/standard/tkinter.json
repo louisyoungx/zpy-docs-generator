@@ -1,6 +1,6 @@
 {
     "name":"tkinter",
-    "zpy":null,
+    "zpy":"tkinter",
     "functions":[
         {
             "name":"Chooser",
@@ -14,7 +14,7 @@
     "args":[
         {
             "name":"options",
-            "zpy":"选择期权;选择项(选项的复数)"
+            "zpy":"选择期权"
         },
         {
             "name":"color",

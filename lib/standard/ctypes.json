@@ -1,6 +1,6 @@
 {
     "name":"ctypes",
-    "zpy":null,
+    "zpy":"ctypes",
     "functions":[
         {
             "name":"PYFUNCTYPE",
@@ -16,11 +16,11 @@
         },
         {
             "name":"c_ulonglong",
-            "zpy":"c ulonglong"
+            "zpy":"c_ulonglong"
         },
         {
             "name":"_SimpleCData",
-            "zpy":"SimpleCData"
+            "zpy":"_SimpleCData"
         },
         {
             "name":"WinDLL",
@@ -28,7 +28,7 @@
         },
         {
             "name":"_fields_",
-            "zpy":"字段"
+            "zpy":"_字段_"
         },
         {
             "name":"Structure",
@@ -44,7 +44,7 @@
         },
         {
             "name":"c_char_p",
-            "zpy":"c char p"
+            "zpy":"c_char_p"
         },
         {
             "name":"WINFUNCTYPE",
@@ -52,7 +52,7 @@
         },
         {
             "name":"callable",
-            "zpy":"请求即付的"
+            "zpy":"可调用"
         },
         {
             "name":"FormatError",
@@ -60,7 +60,7 @@
         },
         {
             "name":"c_int8",
-            "zpy":"c int8"
+            "zpy":"c_int8"
         },
         {
             "name":"Union",
@@ -68,11 +68,11 @@
         },
         {
             "name":"_CData",
-            "zpy":"CData"
+            "zpy":"_CData"
         },
         {
             "name":"pydll",
-            "zpy":"py dll"
+            "zpy":"pydll"
         },
         {
             "name":"prototype",
@@ -88,7 +88,7 @@
         },
         {
             "name":"c_int",
-            "zpy":"c int"
+            "zpy":"c_int"
         },
         {
             "name":"c_double",
@@ -112,11 +112,11 @@
         },
         {
             "name":"_b_needsfree_",
-            "zpy":"b needsfree"
+            "zpy":"_b_needsfree_"
         },
         {
             "name":"c_uint32",
-            "zpy":"c uint32"
+            "zpy":"c_uint32"
         },
         {
             "name":"ArgumentError",
@@ -136,7 +136,7 @@
         },
         {
             "name":"c_bool",
-            "zpy":"c bool"
+            "zpy":"c_bool"
         },
         {
             "name":"byref",
@@ -148,7 +148,7 @@
         },
         {
             "name":"pythonapi",
-            "zpy":"python api"
+            "zpy":"pythonapi"
         },
         {
             "name":"GetLastError",
@@ -156,7 +156,7 @@
         },
         {
             "name":"_FuncPtr",
-            "zpy":"FuncPtr"
+            "zpy":"_FuncPtr"
         },
         {
             "name":"string_at",
@@ -164,11 +164,11 @@
         },
         {
             "name":"c_wchar_p",
-            "zpy":"c wchar p"
+            "zpy":"c_wchar_p"
         },
         {
             "name":"c_ulong",
-            "zpy":"c ulong"
+            "zpy":"c_ulong"
         },
         {
             "name":"POINTER",
@@ -188,11 +188,11 @@
         },
         {
             "name":"c_wchar",
-            "zpy":"c wchar"
+            "zpy":"c_wchar"
         },
         {
             "name":"c_uint64",
-            "zpy":"c uint64"
+            "zpy":"c_uint64"
         },
         {
             "name":"_Pointer",
@@ -208,7 +208,7 @@
         },
         {
             "name":"c_int64",
-            "zpy":"c int64"
+            "zpy":"c_int64"
         },
         {
             "name":"memset",
@@ -248,7 +248,7 @@
         },
         {
             "name":"cast",
-            "zpy":"演员阵容"
+            "zpy":"投"
         },
         {
             "name":"DllCanUnloadNow",
@@ -264,7 +264,7 @@
         },
         {
             "name":"c_uint16",
-            "zpy":"c uint16"
+            "zpy":"c_uint16"
         },
         {
             "name":"_length_",
@@ -280,11 +280,11 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"c_uint8",
-            "zpy":"c uint8"
+            "zpy":"c_uint8"
         },
         {
             "name":"windll",
@@ -292,7 +292,7 @@
         },
         {
             "name":"c_long",
-            "zpy":"c长"
+            "zpy":"c_long"
         },
         {
             "name":"LittleEndianStructure",
@@ -304,7 +304,7 @@
         },
         {
             "name":"PyDLL",
-            "zpy":"Py DLL"
+            "zpy":"PyDLL"
         },
         {
             "name":"memmove",
@@ -324,11 +324,11 @@
         },
         {
             "name":"c_int16",
-            "zpy":"c int16"
+            "zpy":"c_int16"
         },
         {
             "name":"RTLD_LOCAL",
-            "zpy":"RTLD地方、"
+            "zpy":"RTLD地方"
         },
         {
             "name":"_name",
@@ -336,7 +336,7 @@
         },
         {
             "name":"CFUNCTYPE",
-            "zpy":"C CTYPE乐趣"
+            "zpy":"CCTYPE乐趣"
         },
         {
             "name":"WinError",
@@ -352,15 +352,15 @@
         },
         {
             "name":"c_ssize_t",
-            "zpy":"c ssize t"
+            "zpy":"c_ssize_t"
         },
         {
             "name":"c_size_t",
-            "zpy":"c t大小"
+            "zpy":"ct大小"
         },
         {
             "name":"get_errno",
-            "zpy":"errno"
+            "zpy":"get_errno"
         },
         {
             "name":"_pack_",
@@ -392,19 +392,19 @@
         },
         {
             "name":"wstring_at",
-            "zpy":"wstring"
+            "zpy":"wstring_at"
         },
         {
             "name":"c_ushort",
-            "zpy":"c ushort"
+            "zpy":"c_ushort"
         },
         {
             "name":"c_ubyte",
-            "zpy":"c ubyte"
+            "zpy":"c_ubyte"
         },
         {
             "name":"c_int32",
-            "zpy":"c int32"
+            "zpy":"c_int32"
         },
         {
             "name":"CDLL",
@@ -416,11 +416,11 @@
         },
         {
             "name":"sizeof",
-            "zpy":"运算符；大小"
+            "zpy":"运算符"
         },
         {
             "name":"c_longdouble",
-            "zpy":"c longdouble"
+            "zpy":"c_longdouble"
         }
     ],
     "args":[
@@ -430,11 +430,11 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"argument 2: exceptions.TypeError: Don't know how to convert parameter 2",
-            "zpy":"参数2:异常。TypeError:不知道如何转换参数2"
+            "zpy":"参数2异常TypeError不知道如何转换参数2"
         },
         {
             "name":"cdll",
@@ -450,7 +450,7 @@
         },
         {
             "name":"argument 2: exceptions.TypeError: one character string expected",
-            "zpy":"参数2:异常。TypeError:需要一个字符串"
+            "zpy":"参数2异常TypeError需要一个字符串"
         },
         {
             "name":"minimum size is 8",
@@ -462,7 +462,7 @@
         },
         {
             "name":"MessageBox",
-            "zpy":""
+            "zpy":"MessageBox"
         },
         {
             "name":"right",
@@ -490,11 +490,11 @@
         },
         {
             "name":"msvcrt",
-            "zpy":"msv crt"
+            "zpy":"msvcrt"
         },
         {
             "name":"sscanf",
-            "zpy":"S S可以f"
+            "zpy":"SS可以f"
         },
         {
             "name":"ARRAYDESC",
@@ -502,7 +502,7 @@
         },
         {
             "name":"number",
-            "zpy":"数"
+            "zpy":"数字"
         },
         {
             "name":"char",
@@ -510,11 +510,11 @@
         },
         {
             "name":"_fields_",
-            "zpy":"字段"
+            "zpy":"_字段_"
         },
         {
             "name":"kernel32",
-            "zpy":"32岁的内核"
+            "zpy":"kernel32"
         },
         {
             "name":"type",
@@ -526,7 +526,7 @@
         },
         {
             "name":"struct",
-            "zpy":"结构；结构体；创建构架数组"
+            "zpy":"结构"
         },
         {
             "name":"WINAPI",
@@ -534,7 +534,7 @@
         },
         {
             "name":"c_char_p",
-            "zpy":"c char p"
+            "zpy":"c_char_p"
         },
         {
             "name":"WINFUNCTYPE",
@@ -542,11 +542,11 @@
         },
         {
             "name":"callable",
-            "zpy":"请求即付的"
+            "zpy":"可调用"
         },
         {
             "name":"UINT",
-            "zpy":"无符号整型(unsignedint)"
+            "zpy":"无符号整型"
         },
         {
             "name":"printf",
@@ -554,7 +554,7 @@
         },
         {
             "name":"__getitem__",
-            "zpy":"getitem"
+            "zpy":"__getitem__"
         },
         {
             "name":"second_16",
@@ -590,11 +590,11 @@
         },
         {
             "name":"c_int",
-            "zpy":"c int"
+            "zpy":"c_int"
         },
         {
             "name":"[Errno 126] The specified module could not be found.",
-            "zpy":"[Errno 126]无法找到指定的模块"
+            "zpy":"Errno126无法找到指定的模块"
         },
         {
             "name":"time",
@@ -602,7 +602,7 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"lowerright",
@@ -650,7 +650,7 @@
         },
         {
             "name":"Procedure probably called with too many arguments (4 bytes in excess)",
-            "zpy":"过程可能调用了太多的参数(超过4个字节)"
+            "zpy":"过程可能调用了太多的参数"
         },
         {
             "name":"FrozenTable",
@@ -658,7 +658,7 @@
         },
         {
             "name":"Procedure probably called with not enough arguments (4 bytes missing)",
-            "zpy":"过程调用时可能没有足够的参数(丢失4个字节)"
+            "zpy":"过程调用时可能没有足够的参数"
         },
         {
             "name":"next",
@@ -690,7 +690,7 @@
         },
         {
             "name":"argument 2: exceptions.TypeError: wrong type",
-            "zpy":"参数2:异常。TypeError:类型错误"
+            "zpy":"参数2异常TypeError类型错误"
         },
         {
             "name":"WINUSERAPI",
@@ -698,7 +698,7 @@
         },
         {
             "name":"expected c_long instead of int",
-            "zpy":"c long而不是int"
+            "zpy":"clong而不是int"
         },
         {
             "name":"ValidHandle",
@@ -706,7 +706,7 @@
         },
         {
             "name":"exception: access violation reading 0x00000020",
-            "zpy":"异常:读取0x00000020"
+            "zpy":"异常读取0x00000020"
         },
         {
             "name":"struct_frozen",
@@ -714,15 +714,15 @@
         },
         {
             "name":"<module>",
-            "zpy":"> <模块"
+            "zpy":"模块"
         },
         {
             "name":"pythonapi",
-            "zpy":"python api"
+            "zpy":"pythonapi"
         },
         {
             "name":"hWnd",
-            "zpy":"h W nd"
+            "zpy":"hWnd"
         },
         {
             "name":"result",
@@ -738,7 +738,7 @@
         },
         {
             "name":"bottles",
-            "zpy":"瓶子(瓶子的名词复数);(婴儿)奶瓶;一瓶(的量)酒"
+            "zpy":"瓶子酒"
         },
         {
             "name":"cmp_func",
@@ -746,7 +746,7 @@
         },
         {
             "name":"c_wchar_p",
-            "zpy":"c wchar p"
+            "zpy":"c_wchar_p"
         },
         {
             "name":"use_last_error",
@@ -798,11 +798,11 @@
         },
         {
             "name":"VT_PTR",
-            "zpy":"VT PTR"
+            "zpy":"VT_PTR"
         },
         {
             "name":"HWND",
-            "zpy":"H W ND"
+            "zpy":"HWND"
         },
         {
             "name":"args",
@@ -810,7 +810,7 @@
         },
         {
             "name":"RECT",
-            "zpy":"矩形(矩形);收据(收据)"
+            "zpy":"矩形"
         },
         {
             "name":"libc",
@@ -818,11 +818,11 @@
         },
         {
             "name":"__getattr__",
-            "zpy":"getattr"
+            "zpy":"__getattr__"
         },
         {
             "name":"name 'cell' is not defined",
-            "zpy":"名称' cell '没有定义"
+            "zpy":"名称cell没有定义"
         },
         {
             "name":"library",
@@ -834,7 +834,7 @@
         },
         {
             "name":"function 'MyOwnFunction' not found",
-            "zpy":"function MyOwnFunction未找到"
+            "zpy":"functionMyOwnFunction未找到"
         },
         {
             "name":"ANSI",
@@ -854,7 +854,7 @@
         },
         {
             "name":"descr",
-            "zpy":"des cr、"
+            "zpy":"descr"
         },
         {
             "name":"c_short",
@@ -866,7 +866,7 @@
         },
         {
             "name":"Bottles",
-            "zpy":"瓶子(瓶子的名词复数);(婴儿)奶瓶;一瓶(的量)酒"
+            "zpy":"瓶子酒"
         },
         {
             "name":"MyStruct",
@@ -882,7 +882,7 @@
         },
         {
             "name":"cast",
-            "zpy":"演员阵容"
+            "zpy":"投"
         },
         {
             "name":"name",
@@ -902,7 +902,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"lpText",
@@ -930,7 +930,7 @@
         },
         {
             "name":"incompatible types, c_byte_Array_4 instance instead of LP_c_long instance",
-            "zpy":"不兼容的类型c字节数组4实例而不是LP c长实例"
+            "zpy":"不兼容的类型c字节数组4实例而不是LPc长实例"
         },
         {
             "name":"restype",
@@ -942,11 +942,11 @@
         },
         {
             "name":"flags",
-            "zpy":"标记旗帜(国旗的复数)"
+            "zpy":"所有标志"
         },
         {
             "name":"py_cmp_func",
-            "zpy":"py cmp函数"
+            "zpy":"pycmp函数"
         },
         {
             "name":"forward",
@@ -962,7 +962,7 @@
         },
         {
             "name":"CFUNCTYPE",
-            "zpy":"C CTYPE乐趣"
+            "zpy":"CCTYPE乐趣"
         },
         {
             "name":"WinError",
@@ -970,11 +970,11 @@
         },
         {
             "name":"item",
-            "zpy":"项目"
+            "zpy":"项"
         },
         {
             "name":"_StdcallFuncPtr",
-            "zpy":"StdcallFuncPtr"
+            "zpy":"_StdcallFuncPtr"
         },
         {
             "name":"HMODULE",
@@ -986,15 +986,15 @@
         },
         {
             "name":"LPCWSTR",
-            "zpy":"LPC的W STR"
+            "zpy":"LPC的WSTR"
         },
         {
             "name":"lptdesc",
-            "zpy":"lp td c"
+            "zpy":"lptdesc"
         },
         {
             "name":"table",
-            "zpy":"桌子"
+            "zpy":"表"
         },
         {
             "name":"_anonymous_",
@@ -1022,11 +1022,11 @@
         },
         {
             "name":"c_ushort",
-            "zpy":"c ushort"
+            "zpy":"c_ushort"
         },
         {
             "name":"values",
-            "zpy":"对价值的看法"
+            "zpy":"所有值"
         },
         {
             "name":"List",
@@ -1046,7 +1046,7 @@
         },
         {
             "name":"c_ubyte",
-            "zpy":"c ubyte"
+            "zpy":"c_ubyte"
         },
         {
             "name":"short_array",
@@ -1058,7 +1058,7 @@
         },
         {
             "name":"user32",
-            "zpy":"32岁的用户"
+            "zpy":"user32"
         },
         {
             "name":"c_float",
@@ -1074,7 +1074,7 @@
         },
         {
             "name":"sizeof",
-            "zpy":"运算符；大小"
+            "zpy":"运算符"
         },
         {
             "name":"decode",

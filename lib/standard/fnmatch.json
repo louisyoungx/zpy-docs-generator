@@ -1,6 +1,6 @@
 {
     "name":"fnmatch",
-    "zpy":null,
+    "zpy":"fnmatch",
     "functions":[
         {
             "name":"checkcache",
@@ -34,7 +34,7 @@
         },
         {
             "name":"lineno",
-            "zpy":"行不"
+            "zpy":"错误行号"
         },
         {
             "name":"module_globals",

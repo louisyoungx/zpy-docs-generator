@@ -1,6 +1,6 @@
 {
     "name":"xml.dom",
-    "zpy":null,
+    "zpy":"xml.dom",
     "functions":[
         {
             "name":"NoDataAllowedErr",
@@ -20,7 +20,7 @@
         },
         {
             "name":"entities",
-            "zpy":"实体对像;实体"
+            "zpy":"实体对像"
         },
         {
             "name":"isSameNode",
@@ -116,7 +116,7 @@
         },
         {
             "name":"getAttributeNodeNS",
-            "zpy":"获取属性No deNS"
+            "zpy":"获取属性NodeNS"
         },
         {
             "name":"HierarchyRequestErr",
@@ -136,7 +136,7 @@
         },
         {
             "name":"attributes",
-            "zpy":"属性(属性的复数)"
+            "zpy":"属性"
         },
         {
             "name":"prefix",
@@ -184,7 +184,7 @@
         },
         {
             "name":"setAttributeNodeNS",
-            "zpy":"设置属性No deNS"
+            "zpy":"设置属性NodeNS"
         },
         {
             "name":"IndexSizeErr",
@@ -268,7 +268,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"hasChildNodes",
@@ -296,7 +296,7 @@
         },
         {
             "name":"item",
-            "zpy":"项目"
+            "zpy":"项"
         },
         {
             "name":"documentElement",
@@ -328,7 +328,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         }
     ],
     "args":[
@@ -354,7 +354,7 @@
         },
         {
             "name":"features",
-            "zpy":"容貌；产品特点"
+            "zpy":"容貌"
         },
         {
             "name":"attribute",
@@ -370,7 +370,7 @@
         },
         {
             "name":"string",
-            "zpy":"线"
+            "zpy":"字符串"
         },
         {
             "name":"factory",
@@ -382,7 +382,7 @@
         },
         {
             "name":"feature",
-            "zpy":"面孔的一部分(如眼、口等)"
+            "zpy":"面孔的一部分"
         },
         {
             "name":"someValue",
@@ -434,11 +434,11 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"readonly",
-            "zpy":"只读的"
+            "zpy":"只读"
         },
         {
             "name":"tagName",
@@ -450,7 +450,7 @@
         },
         {
             "name":"data",
-            "zpy":"资料"
+            "zpy":"数据"
         },
         {
             "name":"anotherValue",

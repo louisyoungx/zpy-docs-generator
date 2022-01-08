@@ -1,10 +1,10 @@
 {
     "name":"tarfile",
-    "zpy":null,
+    "zpy":"tarfile",
     "functions":[
         {
             "name":"list",
-            "zpy":"目录"
+            "zpy":"列表"
         },
         {
             "name":"addfile",
@@ -12,7 +12,7 @@
         },
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"ExtractError",
@@ -28,7 +28,7 @@
         },
         {
             "name":"linkname",
-            "zpy":"链接名称、"
+            "zpy":"链接名称"
         },
         {
             "name":"extract",
@@ -64,7 +64,7 @@
         },
         {
             "name":"--create",
-            "zpy":"创建、"
+            "zpy":"创建"
         },
         {
             "name":"issym",
@@ -72,7 +72,7 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"TarError",
@@ -124,7 +124,7 @@
         },
         {
             "name":"isdir",
-            "zpy":"dir"
+            "zpy":"isdir"
         },
         {
             "name":"isfifo",
@@ -140,7 +140,7 @@
         },
         {
             "name":"is_tarfile",
-            "zpy":"tarfile"
+            "zpy":"is_tarfile"
         },
         {
             "name":"mtime",
@@ -148,7 +148,7 @@
         },
         {
             "name":"--extract",
-            "zpy":"提取、"
+            "zpy":"提取"
         },
         {
             "name":"HeaderError",
@@ -176,7 +176,7 @@
         },
         {
             "name":"islnk",
-            "zpy":"ln k"
+            "zpy":"islnk"
         },
         {
             "name":"ReadError",
@@ -214,7 +214,7 @@
     "args":[
         {
             "name":"mode",
-            "zpy":"模态"
+            "zpy":"模式"
         },
         {
             "name":"bufsize",
@@ -226,11 +226,11 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"numeric_owner",
@@ -238,7 +238,7 @@
         },
         {
             "name":"encoding",
-            "zpy":"编码"
+            "zpy":"正在编码"
         },
         {
             "name":"member",
@@ -278,7 +278,7 @@
         },
         {
             "name":"isdir",
-            "zpy":"dir"
+            "zpy":"isdir"
         },
         {
             "name":"isreg",
@@ -314,11 +314,11 @@
         },
         {
             "name":"errors",
-            "zpy":"误差;错误;差错(错误的复数)"
+            "zpy":"所有错误"
         },
         {
             "name":"set_attrs",
-            "zpy":"attrs"
+            "zpy":"set_attrs"
         },
         {
             "name":"extractall",
@@ -338,11 +338,11 @@
         },
         {
             "name":"members",
-            "zpy":"成员;会员(成员的复数)"
+            "zpy":"成员"
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"verbose",

@@ -1,6 +1,6 @@
 {
     "name":"symtable",
-    "zpy":null,
+    "zpy":"symtable",
     "functions":[
         {
             "name":"EQEQUAL",
@@ -24,7 +24,7 @@
         },
         {
             "name":"LSQB",
-            "zpy":"LS QB"
+            "zpy":"LSQB"
         },
         {
             "name":"ISNONTERMINAL",
@@ -52,7 +52,7 @@
         },
         {
             "name":"RSQB",
-            "zpy":"RS QB"
+            "zpy":"RSQB"
         },
         {
             "name":"CIRCUMFLEXEQUAL",
@@ -148,7 +148,7 @@
         },
         {
             "name":"TILDE",
-            "zpy":"波浪字符;加在西班牙语n字上的发音符号"
+            "zpy":"波浪字符"
         },
         {
             "name":"GREATER",

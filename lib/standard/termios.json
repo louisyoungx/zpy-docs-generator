@@ -1,6 +1,6 @@
 {
     "name":"termios",
-    "zpy":null,
+    "zpy":"termios",
     "functions":[
         {
             "name":"setcbreak",
@@ -14,7 +14,7 @@
     "args":[
         {
             "name":"when",
-            "zpy":"当...的时候"
+            "zpy":"当的时候"
         }
     ]
 }

@@ -4,7 +4,7 @@
     "functions":[
         {
             "name":"find",
-            "zpy":"发现"
+            "zpy":"找到"
         },
         {
             "name":"add_fallback",
@@ -104,7 +104,7 @@
         },
         {
             "name":"dnpgettext",
-            "zpy":"D np得到文本"
+            "zpy":"Dnp得到文本"
         }
     ],
     "args":[
@@ -190,7 +190,7 @@
         },
         {
             "name":"names",
-            "zpy":"名字;名望(名称的复数形式)"
+            "zpy":"名字"
         },
         {
             "name":"filename",

@@ -4,7 +4,7 @@
     "functions":[
         {
             "name":"calcsize",
-            "zpy":"calc大小"
+            "zpy":"计算大小"
         },
         {
             "name":"error",
@@ -32,21 +32,21 @@
         },
         {
             "name":"Struct",
-            "zpy":"结构；结构体；创建构架数组"
+            "zpy":"结构"
         },
         {
             "name":"pack",
-            "zpy":"包裹"
+            "zpy":"包"
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         }
     ],
     "args":[
         {
             "name":"calcsize",
-            "zpy":"calc大小"
+            "zpy":"计算大小"
         },
         {
             "name":"serialnum",
@@ -58,7 +58,7 @@
         },
         {
             "name":"format",
-            "zpy":"开本"
+            "zpy":"格式化"
         },
         {
             "name":"offset",
@@ -90,7 +90,7 @@
         },
         {
             "name":"pack",
-            "zpy":"包裹"
+            "zpy":"包"
         },
         {
             "name":"gradelevel",

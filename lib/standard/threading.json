@@ -20,7 +20,7 @@
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"acquire",
@@ -60,7 +60,7 @@
         },
         {
             "name":"parties",
-            "zpy":"当事人;聚会;党派;政党机关;同行者(政党的复数)"
+            "zpy":"当事人"
         },
         {
             "name":"release",
@@ -88,7 +88,7 @@
         },
         {
             "name":"clear",
-            "zpy":"清楚的"
+            "zpy":"清除"
         },
         {
             "name":"broken",
@@ -112,7 +112,7 @@
         },
         {
             "name":"enumerate",
-            "zpy":"列举"
+            "zpy":"枚举"
         },
         {
             "name":"getName",
@@ -124,7 +124,7 @@
         },
         {
             "name":"__excepthook__",
-            "zpy":"excepthook"
+            "zpy":"__excepthook__"
         },
         {
             "name":"cancel",
@@ -132,7 +132,7 @@
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"getprofile",
@@ -180,7 +180,7 @@
         },
         {
             "name":"locked",
-            "zpy":"上锁的；不灵活的；下定决心的"
+            "zpy":"上锁的"
         },
         {
             "name":"local",
@@ -226,7 +226,7 @@
         },
         {
             "name":"group",
-            "zpy":"团体"
+            "zpy":"群"
         },
         {
             "name":"acquire",
@@ -242,7 +242,7 @@
         },
         {
             "name":"function",
-            "zpy":"官能"
+            "zpy":"目标函数"
         },
         {
             "name":"args",
@@ -254,11 +254,11 @@
         },
         {
             "name":"kwargs",
-            "zpy":"k战争gs"
+            "zpy":"字典参数"
         },
         {
             "name":"parties",
-            "zpy":"当事人;聚会;党派;政党机关;同行者(政党的复数)"
+            "zpy":"当事人"
         },
         {
             "name":"func",
@@ -270,7 +270,7 @@
         },
         {
             "name":"process_server_connection",
-            "zpy":"process server连接"
+            "zpy":"processserver连接"
         },
         {
             "name":"close",
@@ -294,7 +294,7 @@
         },
         {
             "name":"blocking",
-            "zpy":"组成块;粘连"
+            "zpy":"组成块"
         },
         {
             "name":"pool_sema",
@@ -326,7 +326,7 @@
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"wait",
@@ -350,7 +350,7 @@
         },
         {
             "name":"value",
-            "zpy":"价值"
+            "zpy":"值"
         },
         {
             "name":"action",

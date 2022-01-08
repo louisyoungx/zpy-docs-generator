@@ -4,7 +4,7 @@
     "functions":[
         {
             "name":"get_nowait",
-            "zpy":"nowait"
+            "zpy":"get_nowait"
         },
         {
             "name":"empty",
@@ -12,7 +12,7 @@
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"Empty",
@@ -62,7 +62,7 @@
         },
         {
             "name":"join",
-            "zpy":"参加"
+            "zpy":"加入"
         },
         {
             "name":"order",
@@ -70,7 +70,7 @@
         },
         {
             "name":"item",
-            "zpy":"项目"
+            "zpy":"项"
         },
         {
             "name":"queue",
@@ -102,7 +102,7 @@
         },
         {
             "name":"start",
-            "zpy":"惊起"
+            "zpy":"开始"
         },
         {
             "name":"Queue",

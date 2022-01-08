@@ -12,7 +12,7 @@
         },
         {
             "name":"isidentifier",
-            "zpy":"是有效标识符"
+            "zpy":"是标识符"
         },
         {
             "name":"difference_update",
@@ -44,7 +44,7 @@
         },
         {
             "name":"format_map",
-            "zpy":"格式化图"
+            "zpy":"格式映射"
         },
         {
             "name":"__iter__",
@@ -60,7 +60,7 @@
         },
         {
             "name":"list",
-            "zpy":"目录"
+            "zpy":"列表"
         },
         {
             "name":"remove",
@@ -108,7 +108,7 @@
         },
         {
             "name":"count",
-            "zpy":"计算"
+            "zpy":"计数"
         },
         {
             "name":"rfind",
@@ -140,7 +140,7 @@
         },
         {
             "name":"tobytes",
-            "zpy":"转为字节串"
+            "zpy":"转为字节"
         },
         {
             "name":"clear",
@@ -176,7 +176,7 @@
         },
         {
             "name":"range",
-            "zpy":"排序"
+            "zpy":"范围"
         },
         {
             "name":"isascii",
@@ -208,11 +208,11 @@
         },
         {
             "name":"itemsize",
-            "zpy":"项字节大小"
+            "zpy":"项大小"
         },
         {
             "name":"union",
-            "zpy":"联盟"
+            "zpy":"联合"
         },
         {
             "name":"c_contiguous",
@@ -232,7 +232,7 @@
         },
         {
             "name":"tolist",
-            "zpy":"转成列表"
+            "zpy":"转为列表"
         },
         {
             "name":"__exit__",
@@ -344,7 +344,7 @@
         },
         {
             "name":"items",
-            "zpy":"项"
+            "zpy":"所有项"
         },
         {
             "name":"__mro__",
@@ -392,7 +392,7 @@
         },
         {
             "name":"as_integer_ratio",
-            "zpy":"整数比"
+            "zpy":"作为整数比"
         },
         {
             "name":"swapcase",
@@ -494,7 +494,7 @@
         },
         {
             "name":"isalpha",
-            "zpy":"是alpha"
+            "zpy":"存在字母"
         },
         {
             "name":"shape",
@@ -546,7 +546,7 @@
         },
         {
             "name":"__args__",
-            "zpy":"__a参数__"
+            "zpy":"__参数__"
         },
         {
             "name":"zfill",
@@ -562,7 +562,7 @@
         },
         {
             "name":"splitlines",
-            "zpy":"分线"
+            "zpy":"以行拆分"
         },
         {
             "name":"length",
@@ -570,7 +570,7 @@
         },
         {
             "name":"capitalize",
-            "zpy":"大写化"
+            "zpy":"首字母大写"
         },
         {
             "name":"count",
@@ -602,7 +602,7 @@
         },
         {
             "name":"split",
-            "zpy":"分隔"
+            "zpy":"拆分"
         },
         {
             "name":"struct",
@@ -722,7 +722,7 @@
         },
         {
             "name":"expandtabs",
-            "zpy":"扩大tabs"
+            "zpy":"扩展tabs"
         },
         {
             "name":"lists",
@@ -830,7 +830,7 @@
         },
         {
             "name":"replace",
-            "zpy":"代替"
+            "zpy":"替换"
         },
         {
             "name":"strip",
@@ -894,11 +894,11 @@
         },
         {
             "name":"lower",
-            "zpy":"低的"
+            "zpy":"小写"
         },
         {
             "name":"from_bytes",
-            "zpy":"从字节"
+            "zpy":"从字节串"
         },
         {
             "name":"stop",
@@ -906,7 +906,7 @@
         },
         {
             "name":"toreadonly",
-            "zpy":"只读"
+            "zpy":"转为只读"
         },
         {
             "name":"__origin__",
@@ -922,7 +922,7 @@
         },
         {
             "name":"to_bytes",
-            "zpy":"转为字节"
+            "zpy":"转为_字节"
         },
         {
             "name":"Default",

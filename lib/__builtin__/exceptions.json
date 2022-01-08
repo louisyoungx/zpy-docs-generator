@@ -8,7 +8,7 @@
         },
         {
             "name":"FutureWarning",
-            "zpy":"弃用警告"
+            "zpy":"新特性警告"
         },
         {
             "name":"BufferError",
@@ -220,7 +220,7 @@
         },
         {
             "name":"filename2",
-            "zpy":"文件名"
+            "zpy":"文件名2"
         },
         {
             "name":"UnicodeTranslateError",
@@ -304,7 +304,7 @@
         },
         {
             "name":"object",
-            "zpy":"物体"
+            "zpy":"对象"
         },
         {
             "name":"ProcessLookupError",

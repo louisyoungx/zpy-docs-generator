@@ -64,7 +64,7 @@
         },
         {
             "name":"open",
-            "zpy":"公开"
+            "zpy":"开"
         },
         {
             "name":"issubclass",
@@ -92,7 +92,7 @@
         },
         {
             "name":"range",
-            "zpy":"排序"
+            "zpy":"范围"
         },
         {
             "name":"vars",
@@ -294,7 +294,7 @@
         },
         {
             "name":"iterable",
-            "zpy":"可迭代的"
+            "zpy":"可迭代"
         },
         {
             "name":"struct",
@@ -334,7 +334,7 @@
         },
         {
             "name":"function",
-            "zpy":"函数"
+            "zpy":"目标函数"
         },
         {
             "name":"path",

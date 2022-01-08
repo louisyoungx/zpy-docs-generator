@@ -1,4 +1,10 @@
-BUILT_IN_LIST = [
+BUILT_IN = [
+    {
+        "name":"reserved",
+        "zname":"保留字",
+        "filetype":"json",
+        "path":"__builtin__/reserved.json"
+    },
     {
         "name":"constants",
         "zname":"内置常量",

@@ -1,7 +1,7 @@
 lib_dir = 'standard'
 
 unload_exist = False  # 导入所有已启用文件的映射
-skip_exist = True  # 不处理已经启用的文件
+skip_exist = False  # 不处理已经启用的文件
 
 check_conflict = True  # 检查冲突
 rewrite_conflict = True  # 修复冲突，将改动写回文件

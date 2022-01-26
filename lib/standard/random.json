@@ -1,6 +1,6 @@
 {
     "name":"random",
-    "zpy":"随意",
+    "zpy":"random",
     "functions":[
         {
             "name":"betavariate",
